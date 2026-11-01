@@ -1,0 +1,9 @@
+bin/
+obj/
+patcher/patches/
+*.bin
+*.cue
+*.iso
+*.part
+__pycache__/
+*.pyc

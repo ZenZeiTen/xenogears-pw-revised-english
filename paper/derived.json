@@ -1,0 +1,115 @@
+{
+ "funnel_later": [
+  471,
+  468,
+  464
+ ],
+ "funnel_first": [
+  31,
+  0,
+  28
+ ],
+ "median_chars": 22.0,
+ "share_le_20": 0.4819277108433735,
+ "share_gt_60": 0.13453815261044177,
+ "words_old": 3769,
+ "words_new": 3887,
+ "by_cat_median": {
+  "mistranslation": 29.0,
+  "omission": 30,
+  "speaker": 6.5,
+  "typo": 1.5,
+  "style": 2
+ },
+ "bands": [
+  {
+   "band": "600\u2013749",
+   "files": 61,
+   "en_words": 21414,
+   "jp_chars": 51402,
+   "edits": 52,
+   "density": 2.43
+  },
+  {
+   "band": "750\u2013899",
+   "files": 71,
+   "en_words": 30947,
+   "jp_chars": 76498,
+   "edits": 84,
+   "density": 2.71
+  },
+  {
+   "band": "900\u20131049",
+   "files": 63,
+   "en_words": 37326,
+   "jp_chars": 92418,
+   "edits": 95,
+   "density": 2.55
+  },
+  {
+   "band": "1050\u20131199",
+   "files": 56,
+   "en_words": 29257,
+   "jp_chars": 71229,
+   "edits": 69,
+   "density": 2.36
+  },
+  {
+   "band": "1200\u20131349",
+   "files": 60,
+   "en_words": 26891,
+   "jp_chars": 67112,
+   "edits": 63,
+   "density": 2.34
+  },
+  {
+   "band": "1350\u20131499",
+   "files": 59,
+   "en_words": 11793,
+   "jp_chars": 31603,
+   "edits": 23,
+   "density": 1.95
+  },
+  {
+   "band": "1500\u20131649",
+   "files": 61,
+   "en_words": 20740,
+   "jp_chars": 54933,
+   "edits": 33,
+   "density": 1.59
+  },
+  {
+   "band": "1650\u20131799",
+   "files": 61,
+   "en_words": 10278,
+   "jp_chars": 26996,
+   "edits": 11,
+   "density": 1.07
+  },
+  {
+   "band": "1800\u20131949",
+   "files": 65,
+   "en_words": 19837,
+   "jp_chars": 49081,
+   "edits": 35,
+   "density": 1.76
+  },
+  {
+   "band": "1950\u20132099",
+   "files": 38,
+   "en_words": 10847,
+   "jp_chars": 27149,
+   "edits": 33,
+   "density": 3.04
+  }
+ ],
+ "sync_files": 20,
+ "sync_stale": 376,
+ "sync_blocks": 666,
+ "edits_per_1k_words": 2.2705512241827384,
+ "edits_per_10k_jp": 9.080615074915075,
+ "jp_per_word": 2.500437696621529,
+ "decoded_share": 0.9972052411275043,
+ "files_with_edits": 215,
+ "files_reviewed": 595
+}

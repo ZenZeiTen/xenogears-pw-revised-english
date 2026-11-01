@@ -1,0 +1,1180 @@
+[
+ {
+  "file": "1198",
+  "block": 15,
+  "old": "capabilties",
+  "new": "capabilities",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "1186",
+  "block": 118,
+  "old": "cordinates",
+  "new": "coordinates",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "1840",
+  "block": 13,
+  "old": "did'n't",
+  "new": "didn't",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0812",
+  "block": 98,
+  "old": "disinguished",
+  "new": "distinguished",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "1326",
+  "block": 1,
+  "old": "minuite",
+  "new": "minute",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0696",
+  "block": 8,
+  "old": "orginally",
+  "new": "originally",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0782",
+  "block": 9,
+  "old": "possiblity",
+  "new": "possibility",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0900",
+  "block": 20,
+  "old": "rememberance",
+  "new": "remembrance",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0764",
+  "block": 66,
+  "old": "responsiblities",
+  "new": "responsibilities",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "1152",
+  "block": 91,
+  "old": "significiance",
+  "new": "significance",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0896",
+  "block": 7,
+  "old": "tyrany",
+  "new": "tyranny",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0998",
+  "block": 74,
+  "old": "unbelieveable",
+  "new": "unbelievable",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "0758",
+  "block": 41,
+  "old": "unidentifed",
+  "new": "unidentified",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "2034",
+  "block": 31,
+  "old": "trascends",
+  "new": "transcends",
+  "category": "typo",
+  "reason": "spelling"
+ },
+ {
+  "file": "1198",
+  "block": 10,
+  "old": "Mechior",
+  "new": "Melchior",
+  "category": "typo",
+  "reason": "name spelling (Melchior, one of the Three Magi)"
+ },
+ {
+  "file": "1198",
+  "block": 14,
+  "old": "Mechior",
+  "new": "Melchior",
+  "category": "typo",
+  "reason": "name spelling (Melchior, one of the Three Magi)"
+ },
+ {
+  "file": "0800",
+  "block": 67,
+  "old": "Bartholemew",
+  "new": "Bartholomew",
+  "category": "typo",
+  "reason": "name spelling"
+ },
+ {
+  "file": "0658",
+  "block": 9,
+  "old": "tags of\nof the",
+  "new": "tags of\nthe",
+  "category": "typo",
+  "reason": "doubled word across a line break"
+ },
+ {
+  "file": "1032",
+  "block": 192,
+  "old": "when you\nyou are",
+  "new": "when you\nare",
+  "category": "typo",
+  "reason": "doubled word across a line break"
+ },
+ {
+  "file": "1048",
+  "block": 76,
+  "old": "to to",
+  "new": "to",
+  "category": "typo",
+  "reason": "doubled word"
+ },
+ {
+  "file": "1408",
+  "block": 15,
+  "old": "examination at\nat the",
+  "new": "examination at\nthe",
+  "category": "typo",
+  "reason": "doubled word across a line break"
+ },
+ {
+  "file": "0964",
+  "block": 8,
+  "old": "cancelled",
+  "new": "canceled",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1194",
+  "block": 29,
+  "old": "cancelled",
+  "new": "canceled",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1076",
+  "block": 8,
+  "old": "rumours",
+  "new": "rumors",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1840",
+  "block": 3,
+  "old": "dreamt",
+  "new": "dreamed",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1840",
+  "block": 10,
+  "old": "dreamt",
+  "new": "dreamed",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1930",
+  "block": 11,
+  "old": "behaviour",
+  "new": "behavior",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "2034",
+  "block": 31,
+  "old": "programme",
+  "new": "program",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "2034",
+  "block": 38,
+  "old": "programme",
+  "new": "program",
+  "category": "style",
+  "reason": "US spelling (style guide)"
+ },
+ {
+  "file": "1208",
+  "block": 46,
+  "old": "all right",
+  "new": "alright",
+  "category": "style",
+  "reason": "'Alright rather than all right' (style guide)"
+ },
+ {
+  "file": "1048",
+  "block": 134,
+  "old": "Start button",
+  "new": "START button",
+  "category": "style",
+  "reason": "TRC button casing (style guide)"
+ },
+ {
+  "file": "1036",
+  "block": 1,
+  "old": "15 years ago",
+  "new": "Fifteen years ago",
+  "category": "style",
+  "reason": "numbers 1-100 spelled out (style guide)"
+ },
+ {
+  "file": "0648",
+  "block": 19,
+  "old": "Huh....!?",
+  "new": "Huh...!?",
+  "category": "typo",
+  "reason": "four-dot ellipsis"
+ },
+ {
+  "file": "1982",
+  "block": 24,
+  "old": "a....",
+  "new": "a...",
+  "category": "typo",
+  "reason": "four-dot ellipsis"
+ },
+ {
+  "file": "1182",
+  "block": 83,
+  "old": "back..?",
+  "new": "back...?",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1496",
+  "block": 3,
+  "old": "open..",
+  "new": "open...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1496",
+  "block": 8,
+  "old": "open..",
+  "new": "open...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1496",
+  "block": 9,
+  "old": "open..",
+  "new": "open...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1496",
+  "block": 12,
+  "old": "open..",
+  "new": "open...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1496",
+  "block": 18,
+  "old": "open..",
+  "new": "open...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1944",
+  "block": 45,
+  "old": "Well..",
+  "new": "Well...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "2006",
+  "block": 8,
+  "old": "boosted..",
+  "new": "boosted...",
+  "category": "typo",
+  "reason": "two-dot ellipsis"
+ },
+ {
+  "file": "1466",
+  "block": 9,
+  "old": " \"",
+  "new": "\"",
+  "category": "typo",
+  "reason": "stray space before closing quote"
+ },
+ {
+  "file": "1906",
+  "block": 18,
+  "old": "... \"",
+  "new": "...\"",
+  "category": "typo",
+  "reason": "stray space before closing quote"
+ },
+ {
+  "file": "0612",
+  "block": 35,
+  "old": "But...!!<Close>",
+  "new": "But...!!\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0628",
+  "block": 1,
+  "old": "She's upstairs right now.<Close>",
+  "new": "She's upstairs right now.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0644",
+  "block": 20,
+  "old": "junk out in the back yard.<Close>",
+  "new": "junk out in the back yard.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0658",
+  "block": 37,
+  "old": "to Fei.<Close>",
+  "new": "to Fei.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0796",
+  "block": 58,
+  "old": "go have a look at it!<Close>",
+  "new": "go have a look at it!\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0800",
+  "block": 27,
+  "old": "from that period?<Close>",
+  "new": "from that period?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0800",
+  "block": 46,
+  "old": "from that period?<Close>",
+  "new": "from that period?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0996",
+  "block": 27,
+  "old": "around, sucker! Adios!<Opcode 2 60><Close>",
+  "new": "around, sucker! Adios!\"<Opcode 2 60><Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1006",
+  "block": 75,
+  "old": "Do you know me?<Close>",
+  "new": "Do you know me?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1020",
+  "block": 2,
+  "old": "is, just buy anything.<Close>",
+  "new": "is, just buy anything.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1040",
+  "block": 18,
+  "old": "    Whatcha got?<Close>",
+  "new": "    Whatcha got?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1042",
+  "block": 15,
+  "old": "Administrative District.<Close>",
+  "new": "Administrative District.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1048",
+  "block": 8,
+  "old": "controls if you like<Delay 5>...?<Close>",
+  "new": "controls if you like<Delay 5>...?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1048",
+  "block": 149,
+  "old": "Then how...!?<Close>",
+  "new": "Then how...!?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1048",
+  "block": 151,
+  "old": "accusations!<Close>",
+  "new": "accusations!\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1052",
+  "block": 2,
+  "old": "functions accordingly...<Close>",
+  "new": "functions accordingly...\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1052",
+  "block": 21,
+  "old": "like the w-w-wind!<Opcode 2 90><Close>",
+  "new": "like the w-w-wind!\"<Opcode 2 90><Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1086",
+  "block": 9,
+  "old": "\"Umph<Delay 20>...<Opcode 2 30><Close>",
+  "new": "\"Umph<Delay 20>...\"<Opcode 2 30><Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1086",
+  "block": 48,
+  "old": "comes!<Opcode 2 20><Close>",
+  "new": "comes!\"<Opcode 2 20><Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1086",
+  "block": 70,
+  "old": "Let's go!!<Opcode 2 60><Close>",
+  "new": "Let's go!!\"<Opcode 2 60><Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1182",
+  "block": 16,
+  "old": "very, very tolerant...<Close>",
+  "new": "very, very tolerant...\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1182",
+  "block": 125,
+  "old": "your body'<Delay 10>...?<Close>",
+  "new": "your body'<Delay 10>...?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1192",
+  "block": 34,
+  "old": "I must go<Delay 5>...!!<Close>",
+  "new": "I must go<Delay 5>...!!\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1236",
+  "block": 44,
+  "old": "There...<Close>",
+  "new": "There...\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1276",
+  "block": 6,
+  "old": "'Big Brother'?<Close>",
+  "new": "'Big Brother'?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1512",
+  "block": 22,
+  "old": "to suffer.<Close>",
+  "new": "to suffer.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1552",
+  "block": 90,
+  "old": "to another generator.<Close>",
+  "new": "to another generator.\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1944",
+  "block": 19,
+  "old": "\"...<Delay 5>What this place?<Close>",
+  "new": "\"...<Delay 5>What this place?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1944",
+  "block": 31,
+  "old": "\"<Delay 5>...<Delay 5>What this place?<Close>",
+  "new": "\"<Delay 5>...<Delay 5>What this place?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "1970",
+  "block": 15,
+  "old": "am I...?<Close>",
+  "new": "am I...?\"<Close>",
+  "category": "style",
+  "reason": "missing closing quote on named dialogue (style guide)"
+ },
+ {
+  "file": "0856",
+  "block": 49,
+  "old": "Toy gun",
+  "new": "Toy Gun",
+  "category": "style",
+  "reason": "title case for items; matches the item name"
+ },
+ {
+  "file": "0608",
+  "block": 45,
+  "old": "I think it's weird!",
+  "new": "I have my doubts!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ほんと？　あやしいもんだわ。",
+  "reason": "あやしいもんだわ means 'I doubt it / that sounds fishy': she is skeptical of Fei's claim that Dan is just wandering around, not calling something weird. The new line keeps the follow-up ('Arle was saying she needed him...') making sense.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0612",
+  "block": 9,
+  "old": "This disaster happened\nbecause I was here...",
+  "new": "If I stay, I might cause\neveryone trouble again...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そうだな……。\n俺が一緒にいたら、またみんなに\n迷惑がかかるかも知れない……。",
+  "reason": "Fei is agreeing with Citan's advice to leave: 'If I stay with them, I might cause everyone trouble again.' The JP is a forward-looking conditional, not a past-tense statement that the disaster happened because he was there. New lines are 24 and 28 characters, 4 lines on the page with the speaker.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0612",
+  "block": 40,
+  "old": "Please...!",
+  "new": "Eek...!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ひっ……",
+  "reason": "ひっ is a frightened gasp from a villager recoiling from Fei, not a plea. 'Please...!' adds a meaning that isn't there. A short scream fits this line and the next one ('No! Stay away... I'm scared...').",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0616",
+  "block": 15,
+  "old": "will use up 1 point per blow.\nSo, with 3 Attack Points, you\ncan attack an enemy three\ntimes in rapid succession.",
+  "new": "uses up 1 point per blow.\nSo, with 3 Action Points,\nyou can attack an enemy\nthree times in a row.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "弱攻擊（□ボタン）なら、1発につき1ポイントしか消費しないので、3発連続で敵を攻擊することができます。",
+  "reason": "The JP term is 行動ポイント (Action Points) throughout; 'Attack Points' is a leftover 1998 error (the same block already says Action Points elsewhere). Re-broken so every line is 28 characters or fewer, with the same line count.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0616",
+  "block": 15,
+  "old": "So, if you've got 3 Attack\nPoints",
+  "new": "So, if you've got 3 Action\nPoints",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "中攻擊（△ボタン）の消費量は2ポイントなので、弱攻擊と中攻擊の、連続こんびねーしょんという手もありますね。",
+  "reason": "Same 'Attack Points' slip; the mechanic is Action Points (行動ポイント), as used everywhere else in the tutorial.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0616",
+  "block": 29,
+  "old": "should keep trying to do, say,\nfour Weak blows in a row, or\ntwo Strong blows, or even a\nFierce blow followed up with\nanother type of blow.",
+  "new": "should keep trying to do\nfour Weak blows in a row,\ntwo Strong blows in a row,\nor even just a single\nFierce blow.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そのためには、弱攻擊は連続で四発、中攻擊なら連続して二発、強攻擊は単発でもくりだす……といった戦い方も必要になってくる。",
+  "reason": "JP: four Weak in a row, two Strong in a row, and the Fierce attack even as a single blow (単発でも). PW says 'a Fierce blow followed up with another type of blow', which the JP doesn't say. Also fixes a 30-character line; same 6-line page.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0616",
+  "block": 41,
+  "old": "You're pretty smart\nfor an artist.",
+  "new": "You really get it,\ndon't you!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "オッケー、オッケー！そうこなくっちゃ、ね。わかってるじゃない、あなた。",
+  "reason": "JP わかってるじゃない、あなた means 'You know what's what, don't you'. There is no mention of Fei being an artist; that was a 1998 ad-lib. (wording adjusted: 'You know what's good for you' reads as a threat.)",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0616",
+  "block": 44,
+  "old": "So, what d'you think?\nYou understood everything",
+  "new": "Why am I even stuck here\nexplaining this stuff?\nJust when I can finally\nstart designing Epoch 2!<New>\nSo, what d'you think?\nYou understood everything",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "だけど、なんだってわたしがこんなとこで　こんな説明してなきゃなんないのよ？　ようやくシルバード2号の設計に　手がつけられるっていうのに、まったく。",
+  "reason": "Lucca's Chrono Trigger aside (complaining that she's stuck explaining this just when she can finally start designing Silbird/シルバード No. 2, i.e. the Epoch) is missing in both English versions. It comes right after the block 43 explanation, so I added it as a new first page of block 44 (one added <New>, needed to fit). The name is open to choice: 'Silbird' is the JP name, 'Epoch' the CT English one. Using 'Epoch 2' per the project's rule of adopting official later localizations.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0618",
+  "block": 1,
+  "old": "Hey, how about gettin'\nthem a stamina drink\nof courage and love...?<Delay 10>\nWhat d'you think?",
+  "new": "Hey, how 'bout gettin' them\na stamina drink of courage\nand love, or a headband of\nguts and grit...?<Delay 10>",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "ねぇねぇ、ふたりのために、愛と勇気のスタミナドリンクとか、根性と努力のハッスルはちまき……なんて、どう？",
+  "reason": "JP offers two joke gifts: a stamina drink of love and courage AND a 'hustle headband' of guts and effort. PW drops the headband. 'How 'bout' keeps the なんて、どう? so 'What d'you think?' can go; still 4 lines on the page.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0618",
+  "block": 1,
+  "old": "We're the only shop\nin town, you know!",
+  "new": "I'll even give you a\nspecial discount!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "プレゼントなさいよ、ねえ？サービスしちゃうわよん。",
+  "reason": "JP サービスしちゃうわよん = 'I'll give you a deal/discount'. 'We're the only shop in town' is a 1998 invention, not in the JP.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0618",
+  "block": 4,
+  "old": "Just becawse Awice is",
+  "new": "Just becawse Awle is",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "アルルお姉ちゃまが、およめにいっちゃっても、べつにかなちまなくってもいいのよ。",
+  "reason": "The lisped name is still the old 'Alice'. The project uses Arle (Script-Changes), and block 1 of this file already says Arle. 'Awle' follows the girl's r/l-to-w lisp pattern.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0618",
+  "block": 7,
+  "old": "You're so cowld-hearted!",
+  "new": "You're so stwuck-up!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あたちのことなんか、どーだっていーのね！しょってるわ。フンだ！",
+  "reason": "しょってる means conceited/full of yourself, not cold-hearted. The lisp styling is kept.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0620",
+  "block": 5,
+  "old": "utterly defeat him, maybe\nhe'll snap out of it...",
+  "new": "utterly defeat him, maybe\nhe'd snap out of it...",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "だれかに一度ジャンケンでこてんぱんに負ければ目もさめるんでしょうけど……",
+  "reason": "Tense agreement: 'If only someone could... maybe he'd snap out of it'. Meaning unchanged.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0620",
+  "block": 45,
+  "old": "from winning five in row!!",
+  "new": "from winning five in a row!!",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ま、この俺さまに5連チャンをかますなんざ、百年はやいな！！",
+  "reason": "Missing article 'a' ('five in a row'). The line is exactly 28 characters.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0622",
+  "block": 13,
+  "old": "That's too bad.<Delay 20>\nBut I'm sure there are\npeople out there waiting\nfor your return...",
+  "new": "I suppose that can't\nbe helped.<Delay 20> There may\nbe people out there\nwaiting for your return...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "それも仕方あるまいか。外でおまえさんの帰りを待っとる者がおるかもしれんしのう……。",
+  "reason": "仕方あるまいか is resigned acceptance ('I suppose it can't be helped'), not disappointment. かもしれん is 'there may be', not 'I'm sure there are'. Still 4 lines.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0622",
+  "block": 15,
+  "old": "We old folks aren't\nin any hurry, ho ho.",
+  "new": "We old folks are just\ntoo impatient, ho ho.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "まあ、いずれにせよ、まだまだ先の話じゃな。年寄りはせっかちでいかん、ほっほっ。",
+  "reason": "年寄りはせっかちでいかん = 'we old folks are too impatient, it's no good'. She is laughing at herself for getting ahead of things. PW says the opposite ('aren't in any hurry').",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0624",
+  "block": 12,
+  "old": "After all, your\nfate will be what\nyou make of it.",
+  "new": "After all, in this\nworld, what will\nbe will be.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "人の言葉なんぞ気にせずに、自分の道を行くことじゃよ。しょせん世の中、なるようにしかならんて。",
+  "reason": "しょせん世の中、なるようにしかならん is fatalistic: 'in the end, things will turn out how they turn out'. 'Your fate will be what you make of it' reverses the sense.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0624",
+  "block": 15,
+  "old": "A guy like you will\nnever be popular.",
+  "new": "Guys who can't take a\njoke never get the girls.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "なんじゃ、つまらん。シャレのわからん男はもてんぞ。",
+  "reason": "JP: 'A man who can't take a joke won't be popular (with women)'. PW drops the 'can't take a joke' reason, which ties back to his fake prophecy.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0624",
+  "block": 17,
+  "old": "Hehehe...maybe I'm crazy.",
+  "new": "Hehehe... Maybe I'm crazy.",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "へへへ……、まいっちゃうなあ。",
+  "reason": "Style guide: put a space after an ellipsis that ends a sentence, then capitalize the next one.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0624",
+  "block": 40,
+  "old": "it's a vast, swirling,\nbottomless desert.",
+  "new": "it's a vast, bottomless\ndesert that surrounds\nthe land.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "沙海ってのはね……、陸地をぐるりととりまく、とてつもなく広い、底なしの沙漠。",
+  "reason": "陸地をぐるりととりまく means 'encircling the land all around'. 'Swirling' mistakes ぐるり for motion and loses the geography. The page is now 4 lines.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0648",
+  "block": 16,
+  "old": "\"Perhaps you have\nheard it sometime in\nthe past...<New>\nPerhaps a memory\nburied deep within you\nwishes to resurface.",
+  "new": "\"That is surely because\nsomeone from long ago\nwho loved this song...<New>\nstill lives on, somewhere\ndeep within you...\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "シタン「それはきっとあなたのなかで、この曲が好きだった、遠い昔のだれかが生きているからですよ……。",
+  "reason": "Citan says Fei feels warm because someone from long ago who loved this song is alive inside him (a key foreshadowing line, which the 1998 script also kept). PW turns it into 'maybe you heard it before / a memory wants to resurface', which loses that meaning. The new text also adds the missing closing quote.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0648",
+  "block": 21,
+  "old": "Now what could\nit mean...?\"",
+  "new": "Is it about\nto begin...?\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "シタン「………。はじまると言うのか……？",
+  "reason": "The JP asks 'Is it beginning?' (Citan reading the Gears overhead as the start of events). 'What could it mean?' loses that foreshadowing.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0648",
+  "block": 7,
+  "old": "Many thoughts,\nfeelings, memories...\nthings almost forgotten...",
+  "new": "Half-forgotten thoughts\nand feelings... even\nmemories one could\nnever have had...",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "忘れかけていた、さまざまな想い、感情、もちえぬ記憶……。",
+  "reason": "もちえぬ記憶 means 'memories one could not possibly have', another hint at Fei's past lives. PW (like 1998) drops it and just lists 'memories'. This page goes to 4 lines, which is allowed because it is not the first page.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0640",
+  "block": 10,
+  "old": "restore this Land Crab.",
+  "new": "modify this Land Crab.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ちょっとこのランドクラブを改造してやろうと思いましてね。",
+  "reason": "改造 means modify/remodel, not restore. Citan is tinkering with and upgrading the Land Crab, which fits his talk of inferior parts. 'Restore' was inherited from the 1998 script.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0632",
+  "block": 32,
+  "old": "I hope you come up with\nsome embarrassing tales\nto tell in your speech!",
+  "new": "And tomorrow, make sure\nyou give the happy pair\na real good send-off!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "明日はおまえさんも、ふたりのめでたい門出をたっぷりと祝ってやってくれよ！ハッハッハッ！",
+  "reason": "Timothy's father asks Fei to celebrate the couple's happy new start tomorrow. Nothing in the JP mentions a speech or embarrassing tales; that was invented in 1998 and inherited by PW.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0632",
+  "block": 20,
+  "old": "Boy\n",
+  "new": "Dan\n",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "ダン「いた、いた！ねえ、フェイ兄ちゃん！ちょっと話があんだけどさ！",
+  "reason": "The JP (and 1998) speaker for this line is Dan, and every other line he says in the scene is tagged Dan. Revert if 'Boy' was a deliberate PW choice for his offscreen entrance.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0634",
+  "block": 10,
+  "old": "When they first saw you brought\nin all soaked in blood, to\ntell you the truth they didn't",
+  "new": "When I first saw you brought\nin all soaked in blood, to\ntell you the truth I didn't",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "血まみれでかつぎこまれてきたあんたを見た時は、正直いってもうダメだと思ったものだけど……。",
+  "reason": "The maid is describing her own reaction: when SHE saw him she honestly thought he was done for. 'They' (inherited from 1998) shifts it to other people.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "1974",
+  "block": 2,
+  "old": "look after this boy?\"",
+  "new": "look after this man?\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "村長リー「おぬしは、誰じゃ？……その男を、預かって欲しいと？",
+  "reason": "The JP calls Fei その男 ('this man'), not a boy. The new text fits the block's 21-character width.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0610",
+  "block": 14,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (26, 3) -> (28, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0610",
+  "block": 30,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 3) -> (16, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0644",
+  "block": 16,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (54, 4) -> (56, 4)",
+  "width_only": true
+ },
+ {
+  "file": "0798",
+  "block": 38,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (52, 3) -> (54, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0812",
+  "block": 12,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (44, 3) -> (48, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0868",
+  "block": 35,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (28, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "0868",
+  "block": 131,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (46, 3) -> (48, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0910",
+  "block": 2,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (16, 3) -> (18, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0954",
+  "block": 26,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (16, 1) -> (18, 1)",
+  "width_only": true
+ },
+ {
+  "file": "0964",
+  "block": 15,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (22, 2) -> (24, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1028",
+  "block": 36,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (54, 4) -> (56, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1042",
+  "block": 42,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (32, 4) -> (34, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1048",
+  "block": 215,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1048",
+  "block": 217,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1052",
+  "block": 83,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (40, 4) -> (42, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1096",
+  "block": 26,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (18, 2) -> (20, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 42,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (20, 1) -> (24, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 182,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 252,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1192",
+  "block": 46,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (42, 4) -> (44, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1208",
+  "block": 6,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1246",
+  "block": 52,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (48, 3) -> (50, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1298",
+  "block": 28,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (42, 4) -> (44, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1318",
+  "block": 25,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (20, 2) -> (24, 3)",
+  "width_only": true
+ },
+ {
+  "file": "1342",
+  "block": 4,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1578",
+  "block": 1,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1578",
+  "block": 3,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1750",
+  "block": 1,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (24, 2) -> (26, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1954",
+  "block": 15,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "2032",
+  "block": 18,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ }
+]

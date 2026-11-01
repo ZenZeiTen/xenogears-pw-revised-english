@@ -1,0 +1,200 @@
+% =====================================================================
+% nsxpreprint.sty — lab-preprint layout for arXiv submissions
+% v1.0 (2026-10-12)
+%
+% Layout measured from a modern lab-style arXiv preprint (A4):
+%   text block 408 x 682 pt, body serif 10.95 pt on 14.9 pt leading,
+%   sans semibold headings, boxed abstract, "Figure 1 | Title." captions.
+% Fonts: XCharter + IBM Plex Sans when installed (TeX Live full,
+%   Overleaf, arXiv). Falls back to Charter + Helvetica otherwise.
+% Compiles with pdfLaTeX (arXiv's default engine).
+% =====================================================================
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{nsxpreprint}[2026/10/12 v1.0 lab-preprint layout]
+
+% ---------- Geometry ---------------------------------------------------
+\RequirePackage[a4paper,
+  textwidth=408pt, hmarginratio=1:1,
+  top=80pt, textheight=682pt,
+  headheight=10pt, headsep=10pt, footskip=22.7pt]{geometry}
+
+% ---------- Fonts ------------------------------------------------------
+\RequirePackage[T1]{fontenc}
+\RequirePackage{amsmath,amssymb}
+\IfFileExists{XCharter.sty}
+  {\RequirePackage{XCharter}%
+   \IfFileExists{newtxmath.sty}{\RequirePackage[xcharter,vvarbb]{newtxmath}}{}}
+  {\RequirePackage{charter}}
+\IfFileExists{plex-sans.sty}
+  {\RequirePackage[semibold]{plex-sans}}
+  {\RequirePackage[scaled=0.92]{helvet}}
+\linespread{1.095}            % 13.6 pt -> 14.9 pt leading at 11 pt
+% NOTE: every explicit \fontsize{s}{b} below is also scaled by 1.095;
+% b values are pre-divided so the rendered leading matches the target.
+\RequirePackage[protrusion=true,expansion=false]{microtype}
+
+% ---------- Colour -----------------------------------------------------
+\RequirePackage{xcolor}
+\definecolor{nsxink}{rgb}{0.0863,0.0824,0.1098}     % body text
+\definecolor{nsxgray}{rgb}{0.5412,0.5412,0.5843}    % header, date, notes
+\definecolor{nsxaccent}{rgb}{0.345,0.294,0.604}     % "Abstract", citations
+\definecolor{nsxboxline}{rgb}{0.235,0.200,0.420}    % abstract frame
+\definecolor{nsxlink}{rgb}{0.0,0.0,0.65}            % link-box text
+\definecolor{nsxlinkbg}{rgb}{0.95,0.95,1.0}         % link-box fill
+\definecolor{nsxsep}{gray}{0.7}                     % link separator
+\AtBeginDocument{\color{nsxink}}
+
+% ---------- Packages ---------------------------------------------------
+\RequirePackage{graphicx,booktabs,tabularx,enumitem,fancyhdr,titlesec}
+\RequirePackage{tikz}
+\usetikzlibrary{positioning,arrows.meta,calc,fit}
+\RequirePackage[most]{tcolorbox}
+\RequirePackage[numbers,sort&compress,square]{natbib}
+\RequirePackage[hidelinks=false,colorlinks=true,
+  linkcolor=nsxaccent,citecolor=nsxaccent,urlcolor=nsxlink]{hyperref}
+\RequirePackage[font={small},labelfont={},textfont={}]{caption}
+
+% booktabs weights (measured: 0.9 pt outer, 0.5 pt inner)
+\setlength{\heavyrulewidth}{0.9pt}
+\setlength{\lightrulewidth}{0.5pt}
+
+% ---------- Metadata macros -------------------------------------------
+\def\nsx@title{Title}            \newcommand{\preprinttitle}[1]{\def\nsx@title{#1}}
+\def\nsx@short{Short title}      \newcommand{\preprintshorttitle}[1]{\def\nsx@short{#1}}
+\def\nsx@authors{Author}         \newcommand{\preprintauthors}[1]{\def\nsx@authors{#1}}
+\def\nsx@date{\the\year-\two@digits{\the\month}-\two@digits{\the\day}}
+                                 \newcommand{\preprintdate}[1]{\def\nsx@date{#1}}
+\def\nsx@org{Lab}                \newcommand{\preprintorg}[1]{\def\nsx@org{#1}}
+\def\nsx@orgshort{L}             \newcommand{\preprintorginitials}[1]{\def\nsx@orgshort{#1}}
+\def\nsx@links{}                 \newcommand{\preprintlinks}[1]{\def\nsx@links{#1}}
+\def\nsx@note{}                  \newcommand{\preprintnote}[1]{\def\nsx@note{#1}}
+\def\nsx@abstract{}              \newcommand{\preprintabstract}[1]{\long\def\nsx@abstract{#1}}
+\def\nsx@logo{\nsx@defaultlogo}  \newcommand{\preprintlogo}[1]{\def\nsx@logo{#1}}
+
+% Author separator and affiliation marks
+\newcommand{\authorsep}{\hspace{0.9em}}
+\newcommand{\affil}[1]{\textsuperscript{\mdseries\fontsize{7.6}{8}\selectfont #1}}
+
+% Link box entries: \plink{Code: name}{https://...} \linksep \plink{...}{...}
+\newcommand{\plink}[2]{\href{#2}{\textcolor{nsxlink}{#1}}}
+\newcommand{\linksep}{\hspace{0.8em}{\color{nsxsep}\mdseries|}\hspace{0.8em}}
+
+% Default logo: an original rounded monogram + organisation name.
+% Replace with \preprintlogo{\includegraphics[height=24pt]{logo}}.
+\newcommand{\nsx@defaultlogo}{%
+  \begin{tikzpicture}[baseline=(m.base)]
+    \node[fill=nsxaccent, rounded corners=4pt, minimum size=22pt,
+          inner sep=0pt, text=white,
+          font=\sffamily\bfseries\fontsize{10}{10}\selectfont] (m) {\nsx@orgshort};
+  \end{tikzpicture}\hspace{6pt}%
+  {\sffamily\bfseries\fontsize{12.5}{14}\selectfont\nsx@org}}
+
+% ---------- Inline emphasis -------------------------------------------
+% \keypoint{...}: sans semibold sentence used for the one or two claims
+% per section that a skimming reader must not miss.
+\newcommand{\keypoint}[1]{{\sffamily\bfseries\fontsize{9.9}{12}\selectfont #1}}
+% \parahead{Lead phrase.}: run-in paragraph head.
+\newcommand{\parahead}[1]{{\sffamily\bfseries\fontsize{9.9}{12}\selectfont #1}\enspace}
+% \contribution{Lead.} text: bold lead for contribution bullets.
+\newcommand{\contribution}[1]{{\sffamily\bfseries\fontsize{9.9}{12}\selectfont #1}\enspace}
+
+% ---------- Section headings ------------------------------------------
+\titleformat{\section}
+  {\sffamily\bfseries\fontsize{13}{16}\selectfont}{\thesection.}{0.5em}{}
+\titlespacing*{\section}{0pt}{20pt plus 4pt minus 2pt}{8pt plus 2pt}
+\titleformat{\subsection}
+  {\sffamily\bfseries\fontsize{11.5}{14}\selectfont}{\thesubsection.}{0.5em}{}
+\titlespacing*{\subsection}{0pt}{14pt plus 3pt minus 2pt}{6pt plus 2pt}
+\titleformat{\subsubsection}
+  {\sffamily\bfseries\fontsize{10.5}{13}\selectfont}{\thesubsubsection.}{0.5em}{}
+\titlespacing*{\subsubsection}{0pt}{10pt plus 2pt}{4pt plus 1pt}
+\setcounter{secnumdepth}{3}
+
+% ---------- Paragraphs and lists --------------------------------------
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 1pt}
+\setlist{itemsep=3pt, topsep=4pt, parsep=0pt}
+\setlist[itemize]{label=\textbullet, leftmargin=1.6em}
+
+% ---------- Tables: 9 pt body, sans semibold column heads ------------
+% Use \tablefont at the start of the table and \colhead{...} in the
+% header row. Bold the best row with \textbf where comparisons apply.
+\newcommand{\tablefont}{\fontsize{9}{10.5}\selectfont}
+\newcommand{\colhead}[1]{{\sffamily\bfseries\fontsize{9}{10.5}\selectfont #1}}
+
+% ---------- Captions: "Figure 1 | Title. Text" ------------------------
+\DeclareCaptionFont{nsxlabel}{\sffamily\bfseries\fontsize{9}{10.5}\selectfont}
+\DeclareCaptionFont{nsxtext}{\fontsize{9}{10.5}\selectfont}
+\DeclareCaptionLabelSeparator{nsxbar}{\ |\ }
+\captionsetup{labelfont=nsxlabel, textfont=nsxtext, labelsep=nsxbar,
+  justification=justified, singlelinecheck=false, skip=6pt}
+\captionsetup[table]{position=top}
+% Bold sans lead sentence at the start of every caption.
+\newcommand{\captiontitle}[1]{{\sffamily\bfseries\fontsize{8}{11.5}\selectfont #1}\ }
+
+% ---------- Header and footer -----------------------------------------
+\fancypagestyle{nsxmain}{%
+  \fancyhf{}%
+  \fancyhead[C]{\sffamily\fontsize{8.4}{10}\selectfont\color{nsxgray}\nsx@short}%
+  \fancyfoot[C]{\sffamily\fontsize{8.6}{10}\selectfont\color{nsxgray}\thepage}%
+  \renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}}
+\fancypagestyle{nsxfirst}{%
+  \fancyhf{}%
+  \fancyfoot[C]{\sffamily\fontsize{8.6}{10}\selectfont\color{nsxgray}\thepage}%
+  \renewcommand{\headrulewidth}{0pt}\renewcommand{\footrulewidth}{0pt}}
+\pagestyle{nsxmain}
+
+% ---------- Title block -----------------------------------------------
+\newcommand{\makepreprinttitle}{%
+  \thispagestyle{nsxfirst}%
+  \hypersetup{pdftitle={\nsx@short}}%
+  % Vertical values below were tuned against the measured source page:
+  % thick rule top 93 pt, title top 125 pt, thin rule 198 pt.
+  \vspace*{-37.2pt}%
+  % logo (left) and date (right)
+  \noindent\begin{minipage}[b]{0.6\textwidth}\nsx@logo\end{minipage}%
+  \hfill
+  \begin{minipage}[b]{0.38\textwidth}\raggedleft
+    \sffamily\fontsize{8.4}{10}\selectfont\color{nsxgray}\nsx@date
+  \end{minipage}\par
+  \vspace{1pt}%
+  \noindent{\color{nsxink}\rule{\textwidth}{3pt}}\par
+  \vspace{9.8pt}%
+  % title
+  {\centering\sffamily\bfseries\fontsize{20.9}{25.6}\selectfont\nsx@title\par}%
+  \vspace{9.5pt}%
+  \noindent{\color{nsxink}\rule{\textwidth}{0.5pt}}\par
+  \vspace{4pt}%
+  % authors
+  {\centering\sffamily\bfseries\fontsize{10.2}{12.8}\selectfont\nsx@authors\par}%
+  % link box
+  \ifx\nsx@links\@empty\else
+    \vspace{4.7pt}%
+    {\centering
+      \tcbox[on line, colback=nsxlinkbg, colframe=nsxlinkbg, boxrule=0pt,
+             arc=0pt, left=12pt, right=12pt, top=4pt, bottom=4pt]{%
+        \sffamily\bfseries\fontsize{9.9}{12}\selectfont\nsx@links}\par}%
+  \fi
+  % note line
+  \ifx\nsx@note\@empty\else
+    \vspace{2.9pt}%
+    {\centering\sffamily\fontsize{9}{11}\selectfont\color{nsxgray}\nsx@note\par}%
+  \fi
+  \vspace{10.7pt}%
+  % abstract box
+  \begin{tcolorbox}[colback=white, colframe=nsxboxline, boxrule=0.4pt,
+      arc=6pt, left=25.8pt, right=25.6pt, top=17pt, bottom=25pt,
+      grow to left by=2.4pt, grow to right by=2.3pt,
+      boxsep=0pt]
+    {\centering\sffamily\bfseries\fontsize{12}{15}\selectfont
+      \color{nsxaccent}Abstract\par}%
+    \vspace{7.5pt}%
+    {\fontsize{10}{12.8}\selectfont\nsx@abstract\par}%
+  \end{tcolorbox}%
+  \vspace{6pt}}
+
+% ---------- Bibliography ----------------------------------------------
+\renewcommand{\bibfont}{\fontsize{9}{11.0}\selectfont}
+\setlength{\bibsep}{3pt plus 1pt}
+
+\endinput

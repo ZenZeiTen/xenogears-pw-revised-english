@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[O'Hagan and Mangiron(2013)]{ohagan2013game}
+Minako O'Hagan and Carmen Mangiron.
+\newblock \emph{{Game Localization: Translating for the Global Digital
+  Entertainment Industry}}, volume 106 of \emph{Benjamins Translation Library}.
+\newblock John Benjamins, Amsterdam and Philadelphia, 2013.
+
+\bibitem[{Square Co., Ltd.}(1998)]{square1998xenogears}
+{Square Co., Ltd.}
+\newblock {Xenogears}.
+\newblock Video game for the Sony PlayStation, 1998.
+\newblock Released 11 February 1998 (Japan) and 20 October 1998 (North
+  America).
+
+\bibitem[{NoharOSP and contributors}(2026{\natexlab{a}})]{pwbuild}
+{NoharOSP and contributors}.
+\newblock {Perfect\_Works\_Build: Xenogears Perfect Works Build}.
+\newblock \url{https://github.com/NoharOSP/Perfect_Works_Build},
+  2026{\natexlab{a}}.
+\newblock Release 0.11.4; script sources at commit 3f3f38f. Accessed
+  2026-11-01.
+
+\bibitem[{NoharOSP and contributors}(2026{\natexlab{b}})]{pwstyle}
+{NoharOSP and contributors}.
+\newblock {Game Script Style Guide and Script Changes}.
+\newblock Perfect Works Build wiki,
+  \url{https://github.com/NoharOSP/Perfect_Works_Build/wiki},
+  2026{\natexlab{b}}.
+\newblock Accessed 2026-11-01.
+
+\bibitem[{International Organization for Standardization}(2015)]{iso17100}
+{International Organization for Standardization}.
+\newblock {ISO 17100:2015 Translation Services --- Requirements for Translation
+  Services}.
+\newblock ISO, Geneva, 2015.
+
+\bibitem[{Xenogears.us}(2026)]{xgus}
+{Xenogears.us}.
+\newblock {Xenogears Script Archive: Japanese and English Game Text}.
+\newblock \url{https://xenogears.us/}, 2026.
+\newblock Japanese text available for chapters 1--6. Accessed 2026-11-01.
+
+\bibitem[Lommel et~al.(2014)Lommel, Uszkoreit, and Burchardt]{lommel2014mqm}
+Arle Lommel, Hans Uszkoreit, and Aljoscha Burchardt.
+\newblock {Multidimensional Quality Metrics (MQM): A Framework for Declaring
+  and Describing Translation Quality Metrics}.
+\newblock \emph{Tradum{\`a}tica}, 12:\penalty0 455--463, 2014.
+
+\bibitem[{Redump project}(2026)]{redump}
+{Redump project}.
+\newblock {Redump: Disc Preservation Database}.
+\newblock \url{http://redump.org/}, 2026.
+\newblock Accessed 2026-11-01.
+
+\end{thebibliography}

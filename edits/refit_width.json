@@ -1,0 +1,272 @@
+[
+ {
+  "file": "0610",
+  "block": 14,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (26, 3) -> (28, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0610",
+  "block": 30,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 3) -> (16, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0644",
+  "block": 16,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (54, 4) -> (56, 4)",
+  "width_only": true
+ },
+ {
+  "file": "0798",
+  "block": 38,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (52, 3) -> (54, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0812",
+  "block": 12,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (44, 3) -> (48, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0868",
+  "block": 35,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (28, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "0868",
+  "block": 131,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (46, 3) -> (48, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0910",
+  "block": 2,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (16, 3) -> (18, 3)",
+  "width_only": true
+ },
+ {
+  "file": "0954",
+  "block": 26,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (16, 1) -> (18, 1)",
+  "width_only": true
+ },
+ {
+  "file": "0964",
+  "block": 15,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (22, 2) -> (24, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1028",
+  "block": 36,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (54, 4) -> (56, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1042",
+  "block": 42,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (32, 4) -> (34, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1048",
+  "block": 215,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1048",
+  "block": 217,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1052",
+  "block": 83,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (40, 4) -> (42, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1096",
+  "block": 26,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (18, 2) -> (20, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 42,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (20, 1) -> (24, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 182,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1152",
+  "block": 252,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1192",
+  "block": 46,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (42, 4) -> (44, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1208",
+  "block": 6,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1246",
+  "block": 52,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (48, 3) -> (50, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1298",
+  "block": 28,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (42, 4) -> (44, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1318",
+  "block": 25,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (20, 2) -> (24, 3)",
+  "width_only": true
+ },
+ {
+  "file": "1342",
+  "block": 4,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (50, 4) -> (52, 4)",
+  "width_only": true
+ },
+ {
+  "file": "1578",
+  "block": 1,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1578",
+  "block": 3,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (30, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1750",
+  "block": 1,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (24, 2) -> (26, 2)",
+  "width_only": true
+ },
+ {
+  "file": "1954",
+  "block": 15,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ },
+ {
+  "file": "2032",
+  "block": 18,
+  "old": "",
+  "new": "",
+  "category": "box",
+  "reason": "text overflows box (14, 2) -> (16, 2)",
+  "width_only": true
+ }
+]

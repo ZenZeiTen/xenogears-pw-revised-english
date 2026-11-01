@@ -1,0 +1,4552 @@
+[
+ {
+  "file": "0650",
+  "block": 22,
+  "old": "Who's there?",
+  "new": "What's with this guy!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "な、何？　こいつ！？",
+  "reason": "JP 'こいつ!?' refers to someone already present (Fei, whose strange behavior the next lines react to), not an unknown newcomer; 'Who's there?' changes what she is reacting to."
+ },
+ {
+  "file": "0652",
+  "block": 13,
+  "old": "village. Everyone there\ntreated me like family.",
+  "new": "village. They treated me,\nan outsider, like family.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "村のみんなは、よそ者の俺にも家族同然に接してくれた。",
+  "reason": "JP stresses that the villagers treated Fei, an outsider (よそ者), like family; the outsider detail about his origins is dropped."
+ },
+ {
+  "file": "0652",
+  "block": 20,
+  "old": "a hail of bullets...",
+  "new": "a stray bullet...\nEverything went white...",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "流れ弾にやられたんだ……。俺は目の前が真っ白になって……",
+  "reason": "Timothy was hit by a stray bullet (流れ弾), not targeted, and the last line 'everything went white before my eyes', which leads into his blackout, is missing."
+ },
+ {
+  "file": "0652",
+  "block": 35,
+  "old": "I didn't realize my own\nstrength",
+  "new": "I didn't know my own\nlimits",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "自分の力量も知らないで、結果を他人のせいにして",
+  "reason": "自分の力量も知らないで means not knowing his own limits (overreaching); 'didn't realize my own strength' suggests the opposite, that he was too strong."
+ },
+ {
+  "file": "0654",
+  "block": 49,
+  "old": "It is rumored they are\nhere solely to get the\nresources in the ruins.",
+  "new": "It is rumored they are\nactive worldwide, seeking\nresources in the ruins.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "うわさでは彼等も遺跡資源を獲得する為に世界規模で活動しているということです。",
+  "reason": "JP says Geburah reportedly operates on a worldwide scale to obtain ruin resources, not that they are 'here solely' for them."
+ },
+ {
+  "file": "0654",
+  "block": 49,
+  "old": "It must be to suppress the\nrecent border skirmishes.",
+  "new": "This is becoming more than\nmere border skirmishes.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "これは国境付近の小競り合いだけでは済まされなくなってきたな。",
+  "reason": "JP: this can no longer stay at the level of skirmishes near the border (escalation), not that the ship is there to suppress them."
+ },
+ {
+  "file": "0658",
+  "block": 7,
+  "old": "Judging from your uniform,\nI would also say you are\nwith the Geburah military.\nPerhaps a lieutenant...",
+  "new": "And judging from your\nuniform, you are clearly\nwith the military...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "加えてその格好、どう見たって軍備のものですよ……",
+  "reason": "Citan only says her outfit is obviously military; naming Geburah and guessing her rank are additions (he explains the uniform/ID-tag link in the next lines)."
+ },
+ {
+  "file": "0658",
+  "block": 29,
+  "old": "So... I called Fei a\ncoward for just wanting\nto escape his own burden\nof responsibility.",
+  "new": "So... I called Fei a\ncoward, just because I\nwanted to escape my own\nburden of responsibility.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "それで私、自分が責任の重圧から逃れたいばっかりにフェイに臆病だって言ってしまったんです。",
+  "reason": "Elly confesses that SHE wanted to escape the weight of her own responsibility and so called Fei a coward; PW makes it Fei's escape, inverting her guilt."
+ },
+ {
+  "file": "0666",
+  "block": 1,
+  "old": "to the Church, they've been\nrunning around like fools...",
+  "new": "to the Church HQ, we've been\nrun off our feet...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "『教会』本部があんなことになってしまったから、もうテンテコまいだよ。",
+  "reason": "JP: since that happened to Church headquarters, we (this workshop) have been swamped; PW says 'they' have been running around like fools."
+ },
+ {
+  "file": "0666",
+  "block": 6,
+  "old": "I'm gonna have to\ncooperate with the\nsurviving mechanics.",
+  "new": "From now on, the surviving\nbranches are gonna have\nto work together.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "これからは生き残った支部同士で協力し合って頑張らないとな。",
+  "reason": "JP refers to the surviving Church branches (支部) cooperating with each other after the HQ disaster, not to surviving mechanics."
+ },
+ {
+  "file": "0672",
+  "block": 2,
+  "old": "become so lively.",
+  "new": "become so militarized.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "最近はこの街もものものしくなってきたからのぉ。",
+  "reason": "ものものしい means heavily guarded/tense (soldiers everywhere), not 'lively'; that is why seeing the children happy is a relief."
+ },
+ {
+  "file": "0676",
+  "block": 49,
+  "old": "We need the army because they\nget us generators from the\nGears found in the ruins.",
+  "new": "To build up our forces, we\nneed generators from the\nGears found in the ruins.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "軍備を整えるには、遺跡からギアを掘り出し、ジェネレーターを回収する必要があるからな。",
+  "reason": "JP: to build up the military we need to dig Gears out of the ruins and recover their generators; PW reverses cause and effect."
+ },
+ {
+  "file": "0678",
+  "block": 14,
+  "old": "<Weltall> was made by the\nKislev Army, so we can\nmost likely recover the\npart from Kislev Gears.\"",
+  "new": "(<Weltall> was made by\nthe Kislev Army, so we can\nmost likely recover the\npart from Kislev Gears.)\"",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "（それに、ヴェルトールはキスレブ軍が作ったギアです。きっと、キスレブ製のギアから必要な部品を回収できますよ。",
+  "reason": "In JP this page is a parenthesized aside (whispered so the rental clerk doesn't hear Weltall is Kislev-made), matching Fei's parenthesized whisper in block 7."
+ },
+ {
+  "file": "0678",
+  "block": 21,
+  "old": "Lots of fights break out\nin the desert... It's a\nreal dangerous place.",
+  "new": "The fighting in the desert\nmay be dying down, but it's\nstill a dangerous place.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "沙漠での紛争がおさまりつつある、といっても、危険な場所であることに變わりないよ。",
+  "reason": "JP: even though the conflict in the desert is subsiding, it's still dangerous; PW says fights break out a lot (reversed)."
+ },
+ {
+  "file": "0678",
+  "block": 31,
+  "old": "Small Sensor",
+  "new": "Medium Sensor",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "中型センサー",
+  "reason": "The rental list item is a medium-sized sensor (中型), listed as 'Small Sensor'."
+ },
+ {
+  "file": "0680",
+  "block": 5,
+  "old": "I'll have to go home a\nfailure. What should I do?",
+  "new": "I can't go back home till\nI strike it rich. What\nshould I do?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "一山あてない事には田舎にも帰れないし。どうしよう……",
+  "reason": "JP: he can't go back home to the countryside without striking it rich; PW says he'll have to go home a failure, the opposite situation."
+ },
+ {
+  "file": "0686",
+  "block": 5,
+  "old": "If you didn't understand\nthat, I'll repeat...",
+  "new": "If you can't know what's\ncoming, then don't...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "先の事なんかわかんねえなら最初から……ウィッ！　最初から色々と物事を決めてかかんねえ事だ。",
+  "reason": "JP: 'if you can't know the future, then from the start... *hic* don't go deciding things from the start'; there is no 'if you didn't understand, I'll repeat'."
+ },
+ {
+  "file": "0686",
+  "block": 32,
+  "old": "Bah!",
+  "new": "Eek!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ひいぃっ！",
+  "reason": "ひいぃっ is a frightened shriek (from the hunter who just said Big Joe looks dangerous), not a dismissive 'Bah!'."
+ },
+ {
+  "file": "0696",
+  "block": 8,
+  "old": "Our workshop can hardly keep\nup with the demand for repairs\non the worker Gears used in\nthe excavation of the ruins.",
+  "new": "So it was always enough\nfor our workshop to repair\nthe worker Gears used in\nthe excavation of the ruins.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "この工房も、発掘作業用のギアを修理できるだけで十分だったのです。",
+  "reason": "JP: it was enough for this workshop to only repair excavation worker Gears (why it can't handle military parts); PW says it can barely keep up with demand."
+ },
+ {
+  "file": "0714",
+  "block": 5,
+  "old": "Hurry and\ndo what...?",
+  "new": "No, but...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いや、でも……",
+  "reason": "Fei is reluctant to pilot Weltall again ('No, but...'), which Citan then answers; PW turns it into confusion about what to hurry for."
+ },
+ {
+  "file": "0718",
+  "block": 6,
+  "old": "I don't...<Delay 15>know who I am.",
+  "new": "I...<Delay 15>want to know who I am.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "俺は……自分が何者なのか知りたい。",
+  "reason": "JP: 'I want to know who I am', the new desire he contrasts with never having questioned himself; PW only states that he doesn't know."
+ },
+ {
+  "file": "0728",
+  "block": 6,
+  "old": "Amazing...!",
+  "new": "Just as I thought...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ほう……？\nやはり……",
+  "reason": "やはり means 'just as I thought', not 'amazing'; Citan is confirming a suspicion about the Gear acting on its own, which hints at his foreknowledge."
+ },
+ {
+  "file": "0748",
+  "block": 43,
+  "old": "Ol' man Bal",
+  "new": "Ol' Man Bal",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "バル爺",
+  "reason": "Speaker name is capitalised 'Ol' Man Bal' everywhere else in the file."
+ },
+ {
+  "file": "0748",
+  "block": 63,
+  "old": "is up to something!",
+  "new": "is onto something!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いや、きっとあの爺さんは\n手がかりつかんでたり……",
+  "reason": "Bart says the old man has probably got hold of a clue (to the ancient Gears), not that he is scheming."
+ },
+ {
+  "file": "0748",
+  "block": 86,
+  "old": "northwest of where my\nrepair robot stands.",
+  "new": "northwest of where the\nGear I serviced stands.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "わしの整備したギアがいた所を\n北西に進んでいくと",
+  "reason": "JP says 'where the Gear I serviced is'; there is no repair robot. It is the well-maintained abandoned Gear Bart remarks on in 0736 block 9."
+ },
+ {
+  "file": "0756",
+  "block": 26,
+  "old": "They found her crying in\nthe desert.<Delay 10> They brought\nher here in the Yggdrasil.",
+  "new": "The Yggdrasil found her\ncrying in the desert.<Delay 10>\nShe's still not settled in.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "沙漠で泣いてるとこを\nユグドラシルでひろったんだ。\nまだ慣れなくってずっとああさ。",
+  "reason": "The line explaining why the girl behaves as she does (she still hasn't got used to it, so she's always like that) was dropped."
+ },
+ {
+  "file": "0756",
+  "block": 36,
+  "old": "I was wondering when\nyou'd show up!",
+  "new": "I always knew you'd\npull it off someday!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "あたしゃ、いつかやってくれると\n思ってたよ！",
+  "reason": "She is praising Bart's success ('I always knew you'd pull it off someday'), not remarking on him arriving late."
+ },
+ {
+  "file": "0756",
+  "block": 82,
+  "old": "However, in reality, we\nrescued the young Prince\nfrom Shakhan's evil grasp.",
+  "new": "But in truth, Shakhan seized\npower after the King died,\nand imprisoned the Prince.\nIt was we who rescued him.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "ですが真相は違うのです。\n若は、王亡き後\nアヴェの実権を握った\nシャーカーンによって\n幽閉されていたのです。\nその若を我々がお救いしたので\nございます。",
+  "reason": "JP states that after the King's death Shakhan took real power in Av and imprisoned the Prince; PW reduces this to 'evil grasp' and loses both facts."
+ },
+ {
+  "file": "0756",
+  "block": 124,
+  "old": "that is drawn in one of\nthe Av picture scrolls.",
+  "new": "that is drawn in one of\nthe picture scrolls of\nAv's founding.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "実はな、アヴェ建国の絵巻物の中に\nそれらしい描写があるんだ。",
+  "reason": "JP specifies the scrolls depict Av's founding, which sets up the Fatima I scroll shown next."
+ },
+ {
+  "file": "0758",
+  "block": 15,
+  "old": "it was our",
+  "new": "it was my",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "オイラのイビキかと思った。",
+  "reason": "オイラ is singular: the speaker thought it was his own snoring."
+ },
+ {
+  "file": "0758",
+  "block": 23,
+  "old": "Edbart IV, was betrayed\nby Shakhan.",
+  "new": "Edbart IV, was assassinated\nby Shakhan.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "シャーカーンに暗殺された\nって言われてんだ。",
+  "reason": "暗殺された means 'was assassinated'; 'betrayed' loses the claim that Shakhan killed the King."
+ },
+ {
+  "file": "0758",
+  "block": 27,
+  "old": "I can't let the Young\nMaster see me like this.",
+  "new": "I'm setting a bad example\nfor the young'uns.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "若い衆にシメシがつかねぇぜ。",
+  "reason": "若い衆 are the young crewmen, not the Young Master (若); he is worried about setting a bad example for them."
+ },
+ {
+  "file": "0764",
+  "block": 24,
+  "old": "model Gear and two people\nthat we helped out.",
+  "new": "model Gear and two people\nwho'll be helping us.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "新型のギア一機に\n助っ人二人ってとこかな。",
+  "reason": "助っ人 means helpers/reinforcements; Bart presents Fei and Citan as new help, not as people they rescued."
+ },
+ {
+  "file": "0764",
+  "block": 30,
+  "old": "What's that?",
+  "new": "Ha ha, just kidding!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ナンチャッテ！",
+  "reason": "ナンチャッテ is a playful 'just kidding!' after the kid parodies the item-get message; 'What's that?' makes no sense here."
+ },
+ {
+  "file": "0764",
+  "block": 54,
+  "old": "don't you have to fight?",
+  "new": "don't you have to put an\nend to all this conflict?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "争いはなくさなくちゃ\nいけないんじゃないのか？",
+  "reason": "Bart says that to atone, Fei must help eliminate conflict, not simply 'fight'; this matches his argument about removing the cause of war."
+ },
+ {
+  "file": "0764",
+  "block": 56,
+  "old": "But<Delay 10> if I had your skill\nI could bring all of\nthis to an end<Delay 5>...",
+  "new": "But<Delay 10> I figured with skill\nlike yours, you could face\nup to that reality<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ただな、俺は、お前程の腕があれば\nその現実と对決出来ると……\n村の子供達にも罪滅ぼし出来ると、\nそう思ったんだがな……。",
+  "reason": "Bart thought that FEI, with his skill, could confront that reality and atone to the village kids; PW makes it Bart's ability, which makes the following 'make it up to those kids' illogical."
+ },
+ {
+  "file": "0766",
+  "block": 14,
+  "old": "Ignore those! We can\ntake them out fast.",
+  "new": "Look! They're rushing out\nhalf-prepared!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "見なよ。\nやつら、押っ取り刀で\n駆けつけてきたみたいだよぉ。",
+  "reason": "Franz says 'Look, they've come rushing over in a hurry'; nothing about ignoring them or taking them out fast."
+ },
+ {
+  "file": "0766",
+  "block": 15,
+  "old": "Why not take a few?<Delay 10>\nEven if we only get those,\nit was worth sneaking in.",
+  "new": "Suits me.<Delay 10>\nOtherwise sneaking in\nwouldn't be worth it.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いいじゃねぇか。\nそうでなければわざわざ侵入した\n甲斐がない。",
+  "reason": "Strachey welcomes the pirates coming out: otherwise sneaking in would have been pointless. PW's 'take a few / only get those' is not in the JP."
+ },
+ {
+  "file": "0766",
+  "block": 16,
+  "old": "Shush!<Delay 10>\nSpirale is now in\nplace at the back!",
+  "new": "Alright!<Delay 10>\nSpirale, stand by\nat the rear!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ようし！\nシュピラーレは後方で待機！",
+  "reason": "ようし is 'Alright!', not 'Shush!', and Rank is ordering Spirale to stand by at the rear, not reporting it."
+ },
+ {
+  "file": "0770",
+  "block": 8,
+  "old": "what're you doing!?",
+  "new": "what're you on about!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "こ、こいつ、\n何言ってやがる！？",
+  "reason": "何言ってやがる is 'what are you saying/talking about', reacting to Fei's questions, not to an action."
+ },
+ {
+  "file": "0770",
+  "block": 10,
+  "old": "What if this was \nyour home!?",
+  "new": "Does it give you a\nplace to belong!?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "自分の居場所が\nあるっていうのか！！",
+  "reason": "Fei asks whether fighting gives them a place to belong (居場所), echoing his 'my place to belong' monologue in 0764; 'What if this was your home' changes the meaning."
+ },
+ {
+  "file": "0774",
+  "block": 8,
+  "old": "Looks like someone really\nknew how to tune up your\nGear...",
+  "new": "I've been tinkering with\nyour Gear in all sorts\nof ways...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お前さんのギア、いろいろといじってみたんだが……。",
+  "reason": "The mechanic says he himself has been tinkering with Fei's Gear in various ways; PW wrongly says someone else tuned it well."
+ },
+ {
+  "file": "0778",
+  "block": 9,
+  "old": "However, when Sigurd was\ntelling his story I thought\nit was best to stay quiet.",
+  "new": "However, when Sigurd\nconfided in me, I too felt\nit best to stay quiet.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "しかし、シグルド殿に打ち明けられたときには、私も黙っているべきだと思ったのです。",
+  "reason": "Mason means that when Sigurd confided in him (in the past), he too decided to keep quiet; PW implies Mason stayed quiet during the story just told."
+ },
+ {
+  "file": "0778",
+  "block": 18,
+  "old": "Since long ago, the Nisan\nmothers and the kings of\nAv have always<-->",
+  "new": "Since long ago, the Holy\nMothers of Nisan and the\nkings of Av have always<-->",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "いにしえよりニサン教の教母様とアヴェの国王であられる方とは……",
+  "reason": "教母様 is the title 'Holy Mother' per Script-Changes (title for the latter-day leaders of Nisan); 'the Nisan mothers' loses the title."
+ },
+ {
+  "file": "0778",
+  "block": 36,
+  "old": "Could you go to that\ninn across the way?",
+  "new": "Have you been to the\ninn across the way?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "向かいの宿は行かれました？",
+  "reason": "The JP asks whether they have been to the inn across the way (and says they'll be treated well there); PW turns it into a request."
+ },
+ {
+  "file": "0778",
+  "block": 50,
+  "old": "They're imported\nthrough kidnapping,\nand then used as\nmanual labor.",
+  "new": "They use them as\nmanual labor to keep\ntheir nation running.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "国外の人間を『ラムズ』と呼び……、自らの国家運営の労働力として使っていました。",
+  "reason": "JP only says Solaris uses outsiders as labor to run its nation; 'imported through kidnapping' is not in the line (Sigurd's own abduction is stated separately in block 76)."
+ },
+ {
+  "file": "0778",
+  "block": 54,
+  "old": "Were you...\nslaves to that\nson of a...?",
+  "new": "Is that where you\nmet that son of a...?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "あの野郎とはそこで出会ったのか。",
+  "reason": "Bart asks whether that is where they met that bastard (Ramsus), not whether they were his slaves; Citan's reply (block 55) confirms it."
+ },
+ {
+  "file": "0778",
+  "block": 55,
+  "old": "Well, not exactly.",
+  "new": "Well, more or less.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "まあ、そんなところです。",
+  "reason": "まあ、そんなところです = 'Well, something like that', an affirmative; PW reverses the polarity."
+ },
+ {
+  "file": "0778",
+  "block": 57,
+  "old": "...<Delay 30>You were\nfriends with\nthese people?",
+  "new": "...<Delay 30>So you were\none of them?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……奴等の仲間だったってのか。",
+  "reason": "奴等の仲間 = 'one of them / on their side'; Bart is reacting to Sigurd having been part of the Solaris government, not having been friends."
+ },
+ {
+  "file": "0778",
+  "block": 61,
+  "old": "...<Delay 30>There's nothing I\ncan do about that now.",
+  "new": "...<Delay 30>I have no excuse\nto offer for that.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……その事に関しては、もはや弁解のしようがありません。",
+  "reason": "Sigurd says he has no excuse/defense to offer on that point (an apology), not that nothing can be done about it."
+ },
+ {
+  "file": "0778",
+  "block": 76,
+  "old": "I was used as a test\nsubject. There was\nprobably something they\nvalued inside of me.",
+  "new": "I was abducted to Solaris\nas a test subject. There\nwas probably something\nthey valued inside of me.",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "ソラリスに被験体としてら致されたのです。恐らくはこの私の中に…",
+  "reason": "JP states Sigurd was abducted to Solaris as a test subject; PW omits the abduction, a key plot fact."
+ },
+ {
+  "file": "0778",
+  "block": 84,
+  "old": "He became the commander\nafter leaving there.",
+  "new": "He was commissioned as\nan officer after leaving.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "彼はそこを出た後、任官しました。",
+  "reason": "任官 = received his commission/appointment as an officer; he did not become commander straight out of Jugend (Citan then explains his rapid rise)."
+ },
+ {
+  "file": "0778",
+  "block": 145,
+  "old": "What's he up to?",
+  "new": "What do we do?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "どうする？",
+  "reason": "Fei asks what they should do, prompting Bart's 'We have to go!'; PW changes it to a question about Shakhan's intent."
+ },
+ {
+  "file": "0782",
+  "block": 8,
+  "old": "this place...\"",
+  "new": "this place...",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ここへ攻め込んでくる用意はしているのではないかと……。",
+  "reason": "Stray closing quote on an unnamed (no speaker) line with no opening quote."
+ },
+ {
+  "file": "0782",
+  "block": 28,
+  "old": "...I think that's what\nit was.",
+  "new": "...Or maybe it was more\nof an ornament.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "船のオモチャだよ……というか置物だったかな。",
+  "reason": "Bart corrects himself: it may have been an ornament rather than a toy (the joke being he 'borrowed' shop merchandise); PW drops this."
+ },
+ {
+  "file": "0782",
+  "block": 63,
+  "old": "think he could strike\nour Gear forces?",
+  "new": "think our Gear forces\ncan take them down?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "で、先生から見て、そいつらは俺達のギア部隊でも叩けるのか？",
+  "reason": "Bart asks whether their Gear units can defeat the fleet; PW reverses who attacks whom."
+ },
+ {
+  "file": "0782",
+  "block": 64,
+  "old": "Even with Vanderkam, we\nhave enough forces left\nto pull off the feint.<New>\nHowever, it would not be\nwise to underestimate our\nopponents.",
+  "new": "Vanderkam aside, even if\nthe feint goes as planned,\nthere should still be\nample forces at home.<New>\nIn that sense, we cannot\nafford to be optimistic.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ただしヴァンダーカムはさておき、うまくこちらの思惑通りに陽動出来たとしても、本国には充分な戦力が残っているはずです。その意味では、樂観視はできませんけどね。",
+  "reason": "Citan warns that even if the diversion works, the home country will still retain ample forces, so optimism is unwarranted; PW says 'we' have enough forces left."
+ },
+ {
+  "file": "0782",
+  "block": 74,
+  "old": "There's no way we\ncan lose!",
+  "new": "Anyway, no reckless\nmoves we can't win!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "とにかく勝ち目のない無茶はなしだ！",
+  "reason": "Bart forbids reckless actions with no chance of winning; PW turns it into a boast that they can't lose."
+ },
+ {
+  "file": "0782",
+  "block": 86,
+  "old": "The holy mothers and",
+  "new": "The Holy Mothers and",
+  "category": "style",
+  "confidence": "high",
+  "jp": "歴代の教母様とアヴェの国王様がまつられているんだ。",
+  "reason": "'Holy Mother' is the capitalized title for Nisan's leaders per Script-Changes."
+ },
+ {
+  "file": "0782",
+  "block": 92,
+  "old": "Dad's will was there,\ntoo, although that was\nkept pretty quiet...",
+  "new": "I kept it quiet from\neveryone, because of\nDad's dying wishes...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "親父の遺言もあったし、みんなには黙ってたんだが……",
+  "reason": "Bart kept the Treasure's location secret from everyone, partly because of his father's will; PW says the will itself was in the mausoleum."
+ },
+ {
+  "file": "0782",
+  "block": 110,
+  "old": "Church are not holy.",
+  "new": "Church are not holy men.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "厳密には『教会』の人間は聖職者じゃありません。管理者です。",
+  "reason": "聖職者 = clergy; Citan says Church members are not clergymen (answering Bart's 'holy man'), not that they are 'not holy'."
+ },
+ {
+  "file": "0782",
+  "block": 116,
+  "old": "the Fatima Jasper as his",
+  "new": "the Fatima Treasure as his",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "おそらくシャーカーンはアヴェ王家の至宝を最後の切り札と考えているはず。",
+  "reason": "The trump card is the royal family's Treasure (至宝), which Bart will keep from him; the Jasper is only the key to it."
+ },
+ {
+  "file": "0784",
+  "block": 9,
+  "old": "captured \nsome",
+  "new": "captured\nsome",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "以前、だ捕したやつがある。",
+  "reason": "Trailing space at end of line."
+ },
+ {
+  "file": "0792",
+  "block": 35,
+  "old": "Sig \nhad",
+  "new": "Sig\nhad",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "シグにあんな過去があったとはな。",
+  "reason": "Trailing space at end of line."
+ },
+ {
+  "file": "0796",
+  "block": 19,
+  "old": "Never stay away so long\nlike that again.",
+  "new": "Do be sure not to get\nup to any mischief.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ただし……くれぐれもおいたをなさってはいけませんよ。",
+  "reason": "おいた = mischief/naughtiness; Agnes gives her customary scolding, which is why Margie says 'I knew you'd say that'. PW changes it to 'never stay away'."
+ },
+ {
+  "file": "0796",
+  "block": 25,
+  "old": "a \nlittle",
+  "new": "a\nlittle",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "少しグッときちゃった。",
+  "reason": "Trailing space at end of line."
+ },
+ {
+  "file": "0796",
+  "block": 33,
+  "old": "Bart and I used to hide up\nhere whenever we'd played\npranks and gotten scolded.",
+  "new": "We used to hide under here,\nBart and I, whenever we got\nscolded for our pranks.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "昔ね、よくイタズラして叱られると若とこの下へ隠れたんだ。",
+  "reason": "この下へ隠れた = they hid under/below this spot, not 'up here'."
+ },
+ {
+  "file": "0796",
+  "block": 45,
+  "old": "them is the path from\nwhere God advents...",
+  "new": "them is the path by\nwhich God descends...",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "そして、その間が神の降臨する道……",
+  "reason": "'advents' is not a verb; 神の降臨する道 = the path by which God descends."
+ },
+ {
+  "file": "0796",
+  "block": 53,
+  "old": "You miss the deeper meaning\nand beauty of it!",
+  "new": "You're so impatient!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "んもう、若はせっかちだなぁ！",
+  "reason": "Margie calls Bart impatient (reacting to him finding it tiresome to fly in pairs); PW invents a different rebuke."
+ },
+ {
+  "file": "0796",
+  "block": 63,
+  "old": "from \nproceeding",
+  "new": "from\nproceeding",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "これより奥へは一般の方は御遠慮下さい。",
+  "reason": "Trailing space at end of line."
+ },
+ {
+  "file": "0796",
+  "block": 64,
+  "old": "I'm intrigued that ones",
+  "new": "I'm impressed that ones",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "こんなところへ来るとは若いのに関心じゃの。",
+  "reason": "関心 here is a slip for 感心 'admirable/impressed'; the old man praises them for coming, he is not 'intrigued'."
+ },
+ {
+  "file": "0798",
+  "block": 13,
+  "old": "The royal brothers and their\nwives oversaw many prosperous\nreigns and eras.",
+  "new": "Many prosperous reigns\nwere led by two rulers:\nroyal siblings, or a\nhusband and wife.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "御兄弟や御夫婦、お二人で国を栄えさせる御世《みよ》が多いのだとか。",
+  "reason": "JP says many prosperous reigns had two rulers together, either siblings or a married couple. PW's 'royal brothers and their wives' misreads this, and the pairing is the point Agnes is making about Bart and Margie."
+ },
+ {
+  "file": "0798",
+  "block": 39,
+  "old": "Everything is ready.",
+  "new": "We're getting the\nequipment ready.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ただいま装備を整えています。",
+  "reason": "JP says the crew is preparing the equipment right now. PW says everything is already ready."
+ },
+ {
+  "file": "0800",
+  "block": 26,
+  "old": "at least 500",
+  "new": "about 500",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "一説では今から500年程前に描かれたものだと云われております。",
+  "reason": "JP 500年程前 means 'about 500 years ago', not 'at least'. Block 25 uses 'about'."
+ },
+ {
+  "file": "0800",
+  "block": 45,
+  "old": "at least 500",
+  "new": "about 500",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "一説では今から500年程前に描かれたものだと云われております。",
+  "reason": "Same line as block 26: 500年程前 means 'about 500 years ago'."
+ },
+ {
+  "file": "0800",
+  "block": 65,
+  "old": "happened to the Holy\nMother's remains...",
+  "new": "happened to the late Holy\nMother's remains...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "先代の大教母さまの亡がらに何もなければいいのですが……",
+  "reason": "JP 先代 means the previous Holy Mother. 'The Holy Mother's remains' reads as if Margie, the current Holy Mother, were dead."
+ },
+ {
+  "file": "0800",
+  "block": 67,
+  "old": "at any rate I am rooting\nfor them both.",
+  "new": "the way those two are,\nwho can say?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "といっても、こればかりは本人次第ですが……何せお二人とも、あの調子ですし。",
+  "reason": "JP ends with an exasperated joke that, given how the two of them act, it is hopeless to predict. 'I am rooting for them both' is not in the JP and drops the joke."
+ },
+ {
+  "file": "0810",
+  "block": 9,
+  "old": "I'm sorry. The army just\ncome and 'requisition'",
+  "new": "I'm sorry. Soldiers just\ncome and 'requisition'",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "なにしろ徴発だとか言って軍隊がなんでも持っていっちゃうんですよ。",
+  "reason": "Grammar: 'The army just come' needs a singular verb in US English. Making the subject 'Soldiers' keeps 'come' and 'they'."
+ },
+ {
+  "file": "0810",
+  "block": 20,
+  "old": "Argh, I'm so busy! The\nshop owner was drafted",
+  "new": "Argh, I'm so busy! My\nhusband was drafted",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "亭主を軍隊に取られてからこっち子供の世話から商売から何から何まであたし一人でやらなけりゃならないんだよ。",
+  "reason": "JP 亭主 means her husband. She is now raising the kids and running the shop alone because he was drafted. 'The shop owner' loses the relationship."
+ },
+ {
+  "file": "0810",
+  "block": 58,
+  "old": "I thought as much.\nAdults're all talk.",
+  "new": "I thought as much.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "やっぱりね。",
+  "reason": "The PW lines for blocks 58 and 59 are swapped compared with the JP. JP 58 is only 'I thought so', and JP 59 adds 'Adults are all talk'."
+ },
+ {
+  "file": "0810",
+  "block": 59,
+  "old": "I thought not.",
+  "new": "I thought not.\nAdults're all talk.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "やっぱりね。大人って口だけなんだから。",
+  "reason": "Swap partner of block 58: in the JP this is the line that adds 'adults are all talk'."
+ },
+ {
+  "file": "0810",
+  "block": 156,
+  "old": "I was caught off-guard by\nthe manager guy...",
+  "new": "The old manager guy nearly\njumped out of his skin...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "あの時は管理人のじいさん、腰抜かしてたなあ……",
+  "reason": "JP says the old caretaker was the one who got the shock when the boy came out under the castle. PW has the boy being caught off-guard by him, which reverses who was startled."
+ },
+ {
+  "file": "0812",
+  "block": 88,
+  "old": "Hmph, infidels!",
+  "new": "Hmph, outlaws!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ふん、無法者どもめ！返り討ちにしてくれる！",
+  "reason": "JP 無法者 means outlaws or lawless ones, with no religious sense. It fits the kids' pirate game."
+ },
+ {
+  "file": "0812",
+  "block": 112,
+  "old": "I don't play hide-\nand-seek anymore.\nYou should quit it\nsoon too!",
+  "new": "I'll have to think of\nsomething else to play.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "何か他の遊びを考えないとなあ。",
+  "reason": "In this post-war file the JP line is 'I'll have to think of some other game'. PW reuses the pre-war line from 0810 block 144, which the JP replaced here."
+ },
+ {
+  "file": "0812",
+  "block": 197,
+  "old": "my mom suddenly\ntook a fall.",
+  "new": "my mom suddenly\ncollapsed.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "オフクロいきなり倒れちまってさ。安心して今までの疲れがドッと出たんだろうな。",
+  "reason": "JP 倒れる here means she collapsed from built-up exhaustion once she relaxed, as the next sentence explains. 'Took a fall' suggests a trip or accident."
+ },
+ {
+  "file": "0824",
+  "block": 2,
+  "old": "job <--> I wouldn't even\nhave to pay taxes.",
+  "new": "job <--> no more paying\noff the officials.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そうなりゃ役人に金を払わんでもいい仕事ができるってもんだ。",
+  "reason": "JP says he could do good business without having to pay (bribe) officials. Taxes are not mentioned."
+ },
+ {
+  "file": "0824",
+  "block": 5,
+  "old": "things go wrong, dealing with",
+  "new": "one breaks, dealing with",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "壊れた時は家族への補償やなんかめんどうですからな。",
+  "reason": "JP 壊れた時 ('when they break') is a callous joke that talks about the miners as if they were machines, like the mining Gears they are ordered with. 'When things go wrong' loses it."
+ },
+ {
+  "file": "0842",
+  "block": 27,
+  "old": "HP/EP partially restored!",
+  "new": "HP/EP mostly restored!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "HP　EPがかなり回復した！",
+  "reason": "かなり回復 means restored considerably; 'partially' reads the same as the 'a bit' tier in block 26."
+ },
+ {
+  "file": "0852",
+  "block": 36,
+  "old": "HP/EP partially restored!",
+  "new": "HP/EP mostly restored!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "HP　EPがかなり回復した！",
+  "reason": "Same as 0842: かなり回復 = restored considerably, not 'partially' (which overlaps the 'a bit' tier)."
+ },
+ {
+  "file": "0854",
+  "block": 5,
+  "old": "Mom...<Delay 50>\nDad...<Delay 50>\nI don't think they're\never coming back...",
+  "new": "Mom...<Delay 50>\nMom says Dad's...<Delay 50>\nnever coming back...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "おかあさんが……おかあさんが……おとうさんが……もう帰って来ないって……",
+  "reason": "The quotative って means Mom told the child that Dad won't come back; PW says both parents aren't coming back."
+ },
+ {
+  "file": "0856",
+  "block": 21,
+  "old": "realm even more distant\nthan the stars.",
+  "new": "realm farther than the\nstars, and created us.",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "彼らは星よりも遠くの神の国からやってきて、オレたちを創造したんだ。",
+  "reason": "JP says the ancients came from beyond the stars and created us; the creation of humanity is a key lore point that PW drops."
+ },
+ {
+  "file": "0856",
+  "block": 46,
+  "old": "My dad had better pay up.",
+  "new": "I hope my dad wins big.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お父さん、もうかるといいな。",
+  "reason": "もうかる = make a profit; the kid hopes Dad wins money (betting on the Tournament) so he can buy the promised toy, not that Dad must 'pay up'."
+ },
+ {
+  "file": "0868",
+  "block": 7,
+  "old": "attention, the young one",
+  "new": "attention, the Young Master",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "若くんが城内に侵入するんです。",
+  "reason": "若くん is Citan's term for Bart, rendered 'the Young Master' in block 1 of the same scene; 'the young one' is inconsistent and vague."
+ },
+ {
+  "file": "0870",
+  "block": 9,
+  "old": "Now I'm no longer in line\nto be king, nor anything\nelse for that matter, the\ntwo of you are free to go.",
+  "new": "Now I'm not your lord, nor\nanything else for that\nmatter, so the two of you\nare free to go.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "俺はもう主でもなんでもない。おまえ達は自由だぜ。",
+  "reason": "主 = their master/lord; Bart frees Sigurd and Mason because he is no longer their master, not because he's out of the line of succession."
+ },
+ {
+  "file": "0870",
+  "block": 13,
+  "old": "their king. You're going",
+  "new": "their leader. You're going",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "民衆が新しい当主に選ぶのは君だ。",
+  "reason": "当主 = head/leader; Bart has just abolished the monarchy, so 'king' contradicts the scene."
+ },
+ {
+  "file": "0872",
+  "block": 7,
+  "old": "As a result, even when\nshe got close to others,<New>\nher fear of death, of\nseparation, seemed to\nhold her back.<New>\nShe worried that she\ncouldn't be with me\nto the very end...",
+  "new": "So when she fell in love,\nshe chose to step away,<New>\nafraid of the pain of\nbeing parted by death.<New>\nThough later, she regretted\nnot staying with him\nto the very end...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "そのせいで、好きな相手ができた時も死に別れる恐さに自分から身を引いたそうです。もっとも、あとあと最後まで共に過ごせばよかったと悔やんでいましたが……。",
+  "reason": "JP: when she fell in love she withdrew herself for fear of being parted by death, and later regretted not staying with him (Edbart) to the end. PW turns this into worry about not being with Sigurd, losing the clue about his parentage."
+ },
+ {
+  "file": "0872",
+  "block": 12,
+  "old": "with your brother', he\nsaid.",
+  "new": "with your older brother',\nhe said.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "おまえが得た物は、兄と分かち合いなさい。",
+  "reason": "兄 = older brother; it's the clue that Bart has an elder (half-)brother, i.e. Sigurd."
+ },
+ {
+  "file": "0886",
+  "block": 11,
+  "old": "glory.\"",
+  "new": "glory.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "これで出世が遠のいたよ。",
+  "reason": "Stray closing quote on an unnamed NPC line with no opening quote."
+ },
+ {
+  "file": "0888",
+  "block": 7,
+  "old": "The people of Norn were\nquite different from those\nof Av and Kislev, but\nshe was very beautiful.",
+  "new": "Her people followed a small,\nhumble faith, apart from\nboth Nisan and the Church.\nShe was very beautiful.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "アヴェ東方の異教の娘……ニサンとも『教会』とも違う小さな慎ましやかな教団の娘御で、それはおきれいな方でしてな。",
+  "reason": "JP says she belonged to a small, modest religious order distinct from both Nisan and the Church, not that her people differed from Av and Kislev. Keeps PW's Shalimar/Norn additions."
+ },
+ {
+  "file": "0890",
+  "block": 3,
+  "old": "campaign against growing\npatrols around the ruins.",
+  "new": "campaign to sweep away the\nKislev forces at the ruins.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "遺跡周辺に展開していたキスレブ軍の掃討を目的とした前回の作戦では",
+  "reason": "The previous operation aimed to clear out the Kislev army deployed around the ruins; 'growing patrols' isn't in the JP."
+ },
+ {
+  "file": "0892",
+  "block": 39,
+  "old": "This is enough seasoning. \nThey will all be tired out \nfrom today's Tournament.",
+  "new": "I'll season it extra rich\ntoday. They'll all have\nworked up a sweat at\nthe Tournament.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ふむ、今日の味付けはこくしておこう。『大武会』で興奮して汗をかいているはずだからな。",
+  "reason": "The cook decides to season more heavily because people will be sweaty from the excitement, not that the seasoning is 'enough'."
+ },
+ {
+  "file": "0894",
+  "block": 29,
+  "old": "My old lady's food\nis edible but...",
+  "new": "Me, I prefer my\nold lady's cooking.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "オレはカカアの飯の方が口に合ってるがな。",
+  "reason": "Polarity: he says his wife's cooking suits him better (rebutting the previous speaker); PW implies her food is barely edible."
+ },
+ {
+  "file": "0896",
+  "block": 1,
+  "old": "We also must get rid\nof any books that\nmight cause problems.",
+  "new": "I've already disposed\nof all records that\nmight unsettle the regime.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "今の体制の不安材料となるような史料は全て処分しました。",
+  "reason": "処分しました = I have disposed of (already done), specifically records that could unsettle the current regime."
+ },
+ {
+  "file": "0896",
+  "block": 2,
+  "old": "becomes the past.",
+  "new": "changes the past.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "現在が過去を變えていくとは不思議なものです。",
+  "reason": "JP: it's strange how the present changes the past (the archivist rewrites history); PW says the present becomes the past."
+ },
+ {
+  "file": "0896",
+  "block": 6,
+  "old": "the water level continued\nto rise to its present level.",
+  "new": "the land around it slowly\nrose to its present height.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "岩盤がせっかい質なのでその周囲は次第に盛り上がり、現在の位置になったのです。",
+  "reason": "It is the ground around the limestone spring that gradually rose to its present position, not the water level."
+ },
+ {
+  "file": "0896",
+  "block": 7,
+  "old": "Prime Minister then, lead",
+  "new": "Prime Minister then, led",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "当時の宰相シャーカーンと彼の率いる一軍であった。",
+  "reason": "Past tense of 'lead' is 'led'."
+ },
+ {
+  "file": "0896",
+  "block": 8,
+  "old": "The myths speak of the\ninvolvement of giants in\nbattles that were part of\na massive power struggle.<New>\nAlmost all the records from\nthat time have been lost, and\nwhat little remains is doubted\nto be historically correct.<New>\nBut then Roni Fatima could have\nbeen behind altering things.",
+  "new": "Might the myths of his\nties to giants and battles\nwith a mighty foe be\nrooted in historical fact?<New>\nAlmost all the records from\nthat time have been lost,\nwhich itself suggests that\nhistory was tampered with.<New>\nAnd I believe the one who\ndid the tampering was none\nother than Roni Fatima.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "神話が示す巨人との関係、強大な敵勢力との闘いは史実にのっとっているのではないだろうか？この頃の史料は、そのほとんどが紛失しているがその事自体歴史になんらかの干渉が加えられた事をうかがわせる。その干渉を加えた張本人こそロニ·ファティマであったと筆者は考える。",
+  "reason": "JP suggests the myths of giants are historical fact, that the loss of records itself implies tampering, and that the author believes Roni did it. PW inverts this into doubting the records' accuracy and a vague 'could have'."
+ },
+ {
+  "file": "0900",
+  "block": 11,
+  "old": "Let's avoid fighting\nour cousins in the Av\narmy and finish this.",
+  "new": "Once this is done, I won't\nhave to fight my cousin\nin the Av army.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "これでアヴェ軍にいる従兄と戦わなくてもすむようになるんですね。",
+  "reason": "The soldier is relieved that this operation means he won't have to fight his (one) cousin serving in the Av army."
+ },
+ {
+  "file": "0900",
+  "block": 13,
+  "old": "I knew you didn't die.",
+  "new": "Now I can die with\nno regrets.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "もはやいつ死んでも悔いはありません。",
+  "reason": "JP: 'Now I would have no regrets, whenever I die.' PW's line isn't in the JP."
+ },
+ {
+  "file": "0900",
+  "block": 16,
+  "old": "Old man, even back when\nI was a child you used\nto ramble on and on. But\nI see it's gotten worse.",
+  "new": "Old man, when'd I say I\nwas that kid? You always\nused to ramble on, but\nI see it's gotten worse.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "じいさん、いつ俺があの時の子供だなんて言った？昔からトンチンカンだったけど、またひどくなったんじゃないのか？",
+  "reason": "Bart teasingly denies being 'that kid' (when did I say I was?), which PW drops and instead has him admit it. Keeps 'ramble' for the next line's reaction."
+ },
+ {
+  "file": "0900",
+  "block": 17,
+  "old": "were my late mother and the",
+  "new": "were my late wife and the",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "わしをトンチンカンと呼んでいいのは死んだ女房と若様だけじゃ。",
+  "reason": "女房 = wife, not mother."
+ },
+ {
+  "file": "0904",
+  "block": 17,
+  "old": "Everyone is so excited...\nIsn't there a big\nfestival or something?\nIsn't there?",
+  "new": "Why's everyone so tense...?\nIt's just a festival...\nRight? Isn't it?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "何、みんなピリピリしてるんだよ……たかが祭りじゃないか……なあ、そうだろ、な？",
+  "reason": "ピリピリ = on edge, and たかが祭り = 'it's only a festival'; PW reads as excited and asks whether there's a festival."
+ },
+ {
+  "file": "0906",
+  "block": 1,
+  "old": "Let me sit there.",
+  "new": "I just wanted to try\nsitting here.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ちょっと座ってみたんです。",
+  "reason": "He has already sat down to try it out; he isn't asking to sit."
+ },
+ {
+  "file": "0906",
+  "block": 1,
+  "old": "I'm running in the Prime\nMinister election you know.",
+  "new": "Even I can run in the\nPrime Minister election.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "でも首相選挙は私でも出れるんですよね。",
+  "reason": "JP: 'even someone like me can run in the PM election', setting up 'maybe I really could sit here'; he hasn't said he is running."
+ },
+ {
+  "file": "0908",
+  "block": 1,
+  "old": "remaining two Gates\nand bring down Solaris.",
+  "new": "remaining two Gates and\ndrag Solaris into the open.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "残り二つのゲートを破壊してソラリスを表に引きずり出さなくちゃいけない",
+  "reason": "表に引きずり出す means dragging Solaris out into the open (exposing it once the Gates are gone), not bringing it down."
+ },
+ {
+  "file": "0908",
+  "block": 59,
+  "old": "I hope...",
+  "new": "If anything...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そんなに大變ではないはずですよ。むしろ……",
+  "reason": "むしろ ('rather...') leads into the point that the cannon side is the hard part (confirmed in Block 61); Citan is not voicing doubt."
+ },
+ {
+  "file": "0908",
+  "block": 60,
+  "old": "What if it waits for an\nenemy to fire and then\nreflects it back at them,\nor something like that?",
+  "new": "It's like waiting for an\nenemy to fire and then\nbouncing it back at them.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "敵が弾を擊つのを待って相手に弾き返すようなもんだろ。",
+  "reason": "Rico is making an analogy for how risky the job is ('it's like waiting for the enemy to shoot and bouncing it back'), not speculating that the weapon waits for enemy fire."
+ },
+ {
+  "file": "0910",
+  "block": 13,
+  "old": "What's wrong, Bart?\nI thought this was\njust a simple rescue?",
+  "new": "What took you so long,\nBart? I thought you'd\nescaped ages ago.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "何やってたんだよ、バルト。とっくに脱出したものとばかり思ってたのに。",
+  "reason": "Fei asks what Bart has been doing, since he assumed Bart had escaped long ago; nothing about a 'simple rescue'. Bart's reply (he got held up) answers this."
+ },
+ {
+  "file": "0916",
+  "block": 7,
+  "old": "And there's nothing we can\ndo about it!",
+  "new": "We can't afford to be\nchoosy about our methods!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "もはや手段を選べる状況ではない！",
+  "reason": "Shakhan says they can no longer be picky about their means (justifying the truth serum), not that there's nothing they can do."
+ },
+ {
+  "file": "0930",
+  "block": 12,
+  "old": "The mission starts at\n1700.",
+  "new": "The mission starts at 1700\nthe day after tomorrow.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "作戦開始は明後日1700。",
+  "reason": "The JP gives the start as 1700 the day after tomorrow (明後日); the day is dropped."
+ },
+ {
+  "file": "0930",
+  "block": 12,
+  "old": "Remember, we have\ncomplete authority\nover the Lambs.",
+  "new": "We will make the Lambs\nknow our authority.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "我等の権威をラムズに知らしめるのだ。",
+  "reason": "The line states the purge's purpose: to make the Lambs aware of Solaris's authority, not a reminder that they hold authority over them."
+ },
+ {
+  "file": "0930",
+  "block": 13,
+  "old": "How can we go along with\nthis? What's he mean the\nobjective is none of our\nconcern?",
+  "new": "It looked like you were\nchallenging the mission.\nWhatever the target is,\nit's no concern of ours...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ありゃどう見ても作戦に異議を唱えているようにしか見えない。目標が何であれ、俺達にゃ関係ないこと……",
+  "reason": "Strachey warns Elly that her questioning looked like objecting to the operation and says the target is none of their business; PW reverses it into Strachey himself objecting."
+ },
+ {
+  "file": "0934",
+  "block": 18,
+  "old": "...But what about\nthe consequences?<New>\nYou're just backing\nyourself into a corner.",
+  "new": "...So whatever happens\nafterwards...<New>\nyou'll just turn a\nblind eye to it?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "……で、その結果、後で何が起ころうと見ない振りを決め込む訳だ。",
+  "reason": "Helmholtz needles Elly that she'll only escort and then pretend not to see whatever results; 'backing yourself into a corner' isn't in the JP, and her reply ('Can't be helped') answers the jab."
+ },
+ {
+  "file": "0934",
+  "block": 20,
+  "old": "Nothing else matters.",
+  "new": "What the brass wants and\nwhat happens down below\ndon't matter to us.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "上の意向も下界の結果も関係ない。",
+  "reason": "Rank specifically says neither the top brass's intentions nor the results down below (of the bombing) matter to them; PW reduces it to a generic line."
+ },
+ {
+  "file": "0942",
+  "block": 29,
+  "old": "...Anyway, for now\nlet her get to work.",
+  "new": "...Then again, she can\nat least run that thing.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "……といっても一応あいつを動かせるんだ。見かけだけで判断は出来んか。",
+  "reason": "Rank concedes she can at least operate 'that' machine (the Vierge, which Strachey asks about next), so they can't judge her on looks; 'let her get to work' loses this."
+ },
+ {
+  "file": "0946",
+  "block": 9,
+  "old": "This'll be a\ngood fight.",
+  "new": "Just do the best\nyou can.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "まぁ精々健闘することだな。",
+  "reason": "精々健闘することだな is Dominia's condescending 'well, do your best', not a remark that it will be a good fight."
+ },
+ {
+  "file": "0946",
+  "block": 20,
+  "old": "despite all you had\naccomplished.",
+  "new": "despite all your\npotential.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "せっかくの素養がありながら、その与えられた責務を放棄し逃げ出した",
+  "reason": "素養 is aptitude/talent: Elly abandoned her duties despite having the aptitude, not despite her accomplishments."
+ },
+ {
+  "file": "0948",
+  "block": 21,
+  "old": "I can't believe you\nwere beaten by such\na small force...",
+  "new": "I can't believe you had\nso much trouble with\nsuch a small force...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "貴様、あの程度の戦力に今の今までてこずっていたとは……",
+  "reason": "てこずっていた means Vanderkam had been struggling against them until now, not that he was beaten; his reply (they were persistent, he couldn't lock on) fits this."
+ },
+ {
+  "file": "0958",
+  "block": 7,
+  "old": "unconscious\n         burst of pent-up antipathy?",
+  "new": "release of\n         her latent urges?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "内在している欲動の解放だろう？誰もが持っているものだ。",
+  "reason": "欲動 is the psychoanalytic 'drive/urge' (Trieb) within, not antipathy; the doctor calls her outburst a release of latent urges everyone has."
+ },
+ {
+  "file": "0958",
+  "block": 8,
+  "old": "It's a pity we can't manage it...",
+  "new": "It's a pity she can't control it...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "残念だな、それだけの資質を持ちながら制御出来んとは。",
+  "reason": "The regret is that she, despite such aptitude, cannot control her power; PW makes it something 'we' can't manage."
+ },
+ {
+  "file": "0964",
+  "block": 17,
+  "old": "engaged. Direct course.",
+  "new": "launched. Escorting ship.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "敵ギア一機の発進を確認。直衛中。",
+  "reason": "発進 is a launch and 直衛中 means the Gear is flying close escort for its ship; 'engaged. Direct course.' misreads both."
+ },
+ {
+  "file": "0964",
+  "block": 22,
+  "old": "All units, begin defensive\nfire. Aim for the main ship.",
+  "new": "All units, coordinate fire.\nFollow our ship's salvo.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "各機へ、統制射擊を行う。斉射は本艦にならえ。",
+  "reason": "統制射擊 is coordinated fire and 斉射は本艦にならえ means 'time your salvos on this ship' (本艦 = our own ship), not 'aim for the main ship'."
+ },
+ {
+  "file": "0966",
+  "block": 1,
+  "old": "I'll break away shortly\nand come help out!",
+  "new": "I'll hang back a little\nand give you support!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "俺は少し離れて支援する。",
+  "reason": "Falkon will support from a short distance (he then fires nuclear rounds from range in Block 2), not break away and come help later."
+ },
+ {
+  "file": "0986",
+  "block": 9,
+  "old": "I owe him greatly!",
+  "new": "I have a score to settle\nwith him!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "そいつには大きな貸しがある！",
+  "reason": "大きな貸しがある means he owes Ramsus big (Ramsus has a score to settle), the reverse of 'I owe him greatly', which reads as gratitude."
+ },
+ {
+  "file": "0992",
+  "block": 17,
+  "old": "Effective range of Type\n3 shells should be 500.",
+  "new": "The Type 3 shells' spread\nshould be nearly 500!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "三式弾の有効散布界は500近くあるはずだ！目けんとうでいいから、ぶっぱなせ！",
+  "reason": "有効散布界 is the shells' effective dispersion pattern (nearly 500), which is why Vanderkam says eyeballing the aim is fine; 'effective range' breaks that logic."
+ },
+ {
+  "file": "0996",
+  "block": 14,
+  "old": "set on a someone",
+  "new": "set on someone",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "一人の人を待ってるの",
+  "reason": "Stray article: 'a someone'."
+ },
+ {
+  "file": "0996",
+  "block": 36,
+  "old": "Luckily we escaped a direct hit.<Delay 15>\nBoy am I thankful it wasn't\nnear our civilian area!",
+  "new": "Luckily it wasn't a direct\nhit.<Delay 15> Boy am I thankful it\nwasn't our civilian area!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "幸い直擊は免れたらしいけどな。一般街じゃなくてよかったぜ。",
+  "reason": "JP: apparently the crash in D Block luckily avoided a direct hit; glad it wasn't the civilian area. The speaker is in the civilian area, so 'we escaped a direct hit' gets who wrong."
+ },
+ {
+  "file": "0996",
+  "block": 84,
+  "old": "Oops, sorry, my mistake!",
+  "new": "You must be imagining it.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "……気のせいだろ。",
+  "reason": "Fei tells the guard he must be imagining things (deflecting recognition); PW has Fei apologising for his own mistake."
+ },
+ {
+  "file": "0996",
+  "block": 115,
+  "old": "That's not nice!",
+  "new": "That's not nice!\"",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "そりゃあ、あんまりだぜぇ。",
+  "reason": "Missing closing quote."
+ },
+ {
+  "file": "0998",
+  "block": 27,
+  "old": "I have a good story.",
+  "new": "I've got a good deal.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いい話があるんだ。",
+  "reason": "いい話 here is a 'good deal/offer' (he goes on to sell sewer access), not a story."
+ },
+ {
+  "file": "0998",
+  "block": 27,
+  "old": "I know where you can get a\njob without having to look\nfor it. Here, the price for\ncleaning up monsters is set.",
+  "new": "Finding other work isn't as\neasy as people make out.\nHere, the good money's\nalways in killing monsters.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "他に仕事を探せと言われてそう簡単に見つかりゃ苦労しねぇ。ここじゃ稼ぎのいい仕事は化けもん退治と相場が決まってる。",
+  "reason": "JP: other work isn't easy to find just because you're told to look; here the well-paid job is always monster hunting (相場が決まってる is an idiom, not a set price)."
+ },
+ {
+  "file": "0998",
+  "block": 31,
+  "old": "Hey, business is better.",
+  "new": "Alright, it's a deal.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "おっし、取引は成立だな。",
+  "reason": "JP confirms the transaction is done ('deal'), not that business is better."
+ },
+ {
+  "file": "0998",
+  "block": 33,
+  "old": "let ya out!",
+  "new": "let ya in!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "100G持ってねえじゃねえか？金こさえて、出直してきな！",
+  "reason": "He is stopping Fei from entering the sewers without the 100G (come back with the money); 'won't let ya out' has the direction wrong."
+ },
+ {
+  "file": "0998",
+  "block": 40,
+  "old": "Sometimes posters have\ncomments written on\nthem<Delay 5>...",
+  "new": "The posters put up around\nhere get changed every so\noften<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "はられてる物は一定の期間で書き變わる……。",
+  "reason": "JP: posted notices get rewritten after a set period (a hint to recheck them), not that comments get written on them."
+ },
+ {
+  "file": "0998",
+  "block": 48,
+  "old": "<Delay 5>...<Delay 5>If he wakes up\nthere'll be trouble.<Opcode 2 45>",
+  "new": "Fei\n\"<Delay 5>...<Delay 5>If he wakes up\nthere'll be trouble.\"<Opcode 2 45>",
+  "category": "speaker",
+  "confidence": "high",
+  "jp": "フェイ「……起きたら面倒だ。",
+  "reason": "JP has Fei as speaker; PW line has no speaker name or quotes."
+ },
+ {
+  "file": "0998",
+  "block": 76,
+  "old": "It's not as if the\nCommittee would have their\neye on a Rank B prisoner\nwho lost to Suzanne",
+  "new": "Lost to Suzanne or not,\nthe Committee won't ignore\na Rank B prisoner",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "スザーンに負けたとはいえランクBの囚人を管理委員が目を付けない訳がないか……。",
+  "reason": "Polarity reversed: JP says even though he lost to Suzanne, of course the Committee would take notice of a Rank B prisoner."
+ },
+ {
+  "file": "0998",
+  "block": 87,
+  "old": "But <Delay 5>it's a one-time\noffer, you know what\nI mean?",
+  "new": "But <Delay 5>once it's used, it's\ngone, you know what\nI mean?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ただし、使ったらなくなるぜ。",
+  "reason": "JP warns the dog food is used up once used, not that it's a one-time offer."
+ },
+ {
+  "file": "0998",
+  "block": 93,
+  "old": "I'll always just be guard\ncaptain. How'd you get like\nthat?",
+  "new": "I'm forever stuck guarding\nhere. How'd you get like\nthat?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いつまでたってもここの警備担当。",
+  "reason": "JP: he's forever stuck on guard duty here. 'Guard captain' implies a rank he doesn't have (block 96 says he was demoted to this post)."
+ },
+ {
+  "file": "0998",
+  "block": 96,
+  "old": "The guy who was previously\nthe guard captain left to be\na Battler.<Delay 15> That's how I\nbecame captain",
+  "new": "The guy who used to be in\ncharge of D Block quit to\nbe a Battler.<Delay 15> So I got\ndemoted and stuck here",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "以前、このD区画担当だった奴バトラーになるってやめちまった。お陰で俺が降格され、ここ担当……",
+  "reason": "JP: the previous D Block guard quit to become a Battler, so the speaker was DEMOTED and assigned here. PW turns it into a promotion to captain."
+ },
+ {
+  "file": "1004",
+  "block": 30,
+  "old": "You guys deaf?",
+  "new": "He can't hear me, huh?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……、聞こえていないか。おまえら、こいつを宿舎に連れて行ってやれ。",
+  "reason": "聞こえていないか refers to Fei being out cold after the fight; Rico then tells his men to carry him. PW makes it an insult to the men."
+ },
+ {
+  "file": "1006",
+  "block": 13,
+  "old": "Please tell her<Delay 15> good luck.\nAnd the same to you.",
+  "new": "I'll let her know myself.<Delay 15>\nAnd good luck to you, too.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "あの娘には私から言っておくよ。あんた達も……、がんばるんだよ。",
+  "reason": "Fei couldn't get into D Block, so the mother says she'll tell her daughter herself; PW has her asking Fei to pass on a message."
+ },
+ {
+  "file": "1006",
+  "block": 19,
+  "old": "like me.<Delay 5>How",
+  "new": "like me.<Delay 5> How",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "こんな……老いぼれを助ける為に……。",
+  "reason": "Missing space after the full stop ('me.How')."
+ },
+ {
+  "file": "1006",
+  "block": 21,
+  "old": "In my house, my sister\n<Delay 5>...<Delay 5>sleeps. She rekindled\nmy spirits.<New>\nMy sister<Delay 5>...<Delay 5>is home now.",
+  "new": "Inside me, my sister\n<Delay 5>...<Delay 5>sleeps. She rekindled\nmy spirits.<New>\nMy sister<Delay 5>...<Delay 5>is inside me.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "僕の内にはお姉ちゃんが……眠ってる。僕の炎を再び灯らせてくれた、お姉ちゃんが……内にいるんだ。僕の……内に……くすん。",
+  "reason": "僕の内に most naturally reads 'within me' (his late sister lives on inside him, rekindled his flame), not 'in my house/home'. Please double-check against context."
+ },
+ {
+  "file": "1006",
+  "block": 40,
+  "old": "That's my specialty.\nLeave it to me,<Delay 15> bro.<Delay 15>\nAnd put up a good fight!",
+  "new": "Fighting's not my thing,\nso I'll leave that to you,<Delay 15>\nbro.<Delay 15> Good luck out there!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "そっちの方は得意分野じゃないんで任せるっす、兄貴。健闘を祈ってるっす！",
+  "reason": "Polarity reversed: Hammer says breaking through the gate is NOT his specialty, so he leaves it to Fei, and wishes them luck."
+ },
+ {
+  "file": "1006",
+  "block": 80,
+  "old": "Don't you remember?\"",
+  "new": "Don't you remember?",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "覚えてないかなぁ。",
+  "reason": "Stray closing quote on an unnamed-speaker line (style guide: no quotes without a named speaker)."
+ },
+ {
+  "file": "1010",
+  "block": 2,
+  "old": "In the northern part of the",
+  "new": "In the eastern part of the",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "帝都の東、工業区画には",
+  "reason": "JP says the industrial block is in the east of the Capital, not the north."
+ },
+ {
+  "file": "1010",
+  "block": 3,
+  "old": "could exist.\"",
+  "new": "could exist.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "生物など住めない、地獄のような世界が生まれていただろう。",
+  "reason": "Stray closing quote: this unnamed-speaker line has no opening quote."
+ },
+ {
+  "file": "1010",
+  "block": 16,
+  "old": "Patriotism is a necessary\ncomponent to drafting many\nyoung soldiers.",
+  "new": "Patriotism is an important\nquality for young people\nwho volunteer as soldiers.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "国を愛する気持ちは兵士を志願する若者にとって大事なものだ。",
+  "reason": "志願 means volunteering; 'drafting' (conscription) inverts the meaning. JP: love of country matters to young people who volunteer as soldiers."
+ },
+ {
+  "file": "1010",
+  "block": 19,
+  "old": "just like that first Ether\ncook over in D Block.",
+  "new": "just like the lady who's the\ntop Ether cook in D Block.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "D区画で働いてるエーテル料理第一人者の、姉さんのような料理人になるのが俺の夢なんだ。",
+  "reason": "第一人者 means the leading/foremost expert, not the 'first' Ether cook; JP also specifies she is a woman (姉さん)."
+ },
+ {
+  "file": "1010",
+  "block": 21,
+  "old": "I just\ngraduated from the Imperial\nofficer school as an elite!",
+  "new": "I\ngraduated top of my class at\nthe Imperial officer school!",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "帝都の兵士訓練校を首席で卒業した超エリートさ！／なのになんで、首席で卒業した僕が",
+  "reason": "JP stresses he graduated top of his class (首席, repeated in the punchline); PW's 'as an elite' drops this."
+ },
+ {
+  "file": "1012",
+  "block": 3,
+  "old": "for the Kaiser Sigmund\ndefense parade",
+  "new": "for escort duty at Kaiser\nSigmund's parade",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ジークムント全統閣下のパレード護衛を想定しての訓練中",
+  "reason": "JP: training for escorting Sigmund's parade; there is no 'defense parade'."
+ },
+ {
+  "file": "1014",
+  "block": 1,
+  "old": "been overly proud of him.",
+  "new": "acted arrogant toward him.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "別に俺達は、先輩に对して威張ったことなんかないのによ。",
+  "reason": "JP: 'we've never acted arrogant toward our senior'; PW says the opposite relation (being proud of him)."
+ },
+ {
+  "file": "1014",
+  "block": 2,
+  "old": "everytime,",
+  "new": "every time,",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "一々",
+  "reason": "'everytime' should be two words."
+ },
+ {
+  "file": "1014",
+  "block": 3,
+  "old": "Damn! Why's his rank higher\nthan mine, just because\nhe's good at Gear combat?\nI'm still his senior.",
+  "new": "Damn! Why are they ranked\nhigher than me, just because\nthey're good at Gear combat?\nI'm still their senior.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ちくしょー、ギア戦闘が得意だからって、なんで先輩の俺があいつらより階級が下なんだ。",
+  "reason": "あいつら is plural: the senior resents the ex-Battler juniors (both NPCs in this room), not one person."
+ },
+ {
+  "file": "1016",
+  "block": 10,
+  "old": "I'm child of the",
+  "new": "I'm a child of the",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "僕は□族の子供。",
+  "reason": "Missing article."
+ },
+ {
+  "file": "1016",
+  "block": 16,
+  "old": "and take down the",
+  "new": "and taken down the",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "噂のキングとやらをぶっ倒してやるはずだったのに",
+  "reason": "Grammar: 'could've shown off ... and taken down'."
+ },
+ {
+  "file": "1016",
+  "block": 104,
+  "old": "I'm<Delay 5> from mole tribe,",
+  "new": "I'm<Delay 5> from the mole tribe,",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "オイラ、……モグラ族なのに",
+  "reason": "Missing article."
+ },
+ {
+  "file": "1022",
+  "block": 2,
+  "old": "don't say 'before I die'.'",
+  "new": "don't say 'before I die'.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "それに死ぬ前になんて言わないで。",
+  "reason": "Stray single quote after the period."
+ },
+ {
+  "file": "1028",
+  "block": 22,
+  "old": "If they're not careful, all\nof us inmates could die!",
+  "new": "If it had gone badly, all of\nus inmates would've died!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "下手すりゃ、囚人は皆死んでたぞ。",
+  "reason": "JP is a past counterfactual about the air raid that already happened ('we'd all have died'), not a future warning about someone being careful."
+ },
+ {
+  "file": "1028",
+  "block": 122,
+  "old": "Anway,",
+  "new": "Anyway,",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "その効果時間は……ひ·み·つ！",
+  "reason": "Typo."
+ },
+ {
+  "file": "1028",
+  "block": 142,
+  "old": "Which shall I try<Delay 5>...?\"",
+  "new": "Let's see<Delay 5>...\nhow it tastes.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "どれ……食べてみようか。",
+  "reason": "どれ here is 'well now', not 'which'; he has already been served one dish. Identical JP is rendered 'Let's see... how it tastes.' elsewhere."
+ },
+ {
+  "file": "1028",
+  "block": 149,
+  "old": "Which shall I try<Delay 5>...?\"",
+  "new": "Let's see<Delay 5>...\nhow it tastes.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "どれ……食べてみようか。",
+  "reason": "Same as block 142: どれ = 'well now'; the dish is already chosen."
+ },
+ {
+  "file": "1028",
+  "block": 146,
+  "old": "don't see any change<Delay 5>...<Delay 5>!",
+  "new": "don't see any change<Delay 5>...<Delay 5>!\"",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "でも、變化はみられないや……",
+  "reason": "Missing closing quote."
+ },
+ {
+  "file": "1028",
+  "block": 165,
+  "old": "I, the mechanic of\nchampions, have had my\nsins wiped clean!",
+  "new": "I-It's not like the winner's\nmechanic gets his crimes\nwiped clean or anything!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ゆっ、優勝者のメカマンも罪が帳消し、何てことは全然ないっすから……ははっ。",
+  "reason": "Hammer's slip is that the tournament WINNER's mechanic gets his crimes cancelled (his hidden motive); PW says his sins have already been wiped, which makes no sense and loses the clue."
+ },
+ {
+  "file": "1028",
+  "block": 166,
+  "old": "Hmm, really?",
+  "new": "Hmm, so that's the deal...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ふーん、そういうことか……。",
+  "reason": "JP: Fei catches on ('So that's how it is'), which is why Hammer protests next; PW's 'really?' reads as doubt rather than realization."
+ },
+ {
+  "file": "1028",
+  "block": 169,
+  "old": "What are you up to?\nNot saying where\nyou're going to",
+  "new": "What am I supposed to do?\nYou didn't even say\nwhere to",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……どうするんだよ。場所も言わな……",
+  "reason": "Fei complains Hammer ran off without telling him where to go/meet, not asking what Hammer is up to."
+ },
+ {
+  "file": "1028",
+  "block": 170,
+  "old": "Hammer, shouldn't you be\nin the bar",
+  "new": "Hammer, weren't you just\nin the bar",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ハマー、おまえさっきまで酒場にいたはずじゃ……？",
+  "reason": "JP: 'weren't you in the bar until a moment ago?' — Fei is surprised Hammer got here first; it's not a suggestion of where he should be."
+ },
+ {
+  "file": "1028",
+  "block": 184,
+  "old": "sewers was lifted straight\nafter that, too",
+  "new": "sewers will be lifted\nsoon, too",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "地下水道にしかれた戒厳令も直に解除されるだろう……。",
+  "reason": "JP: the sewer lockdown will probably be lifted soon (future), not 'was lifted straight after'."
+ },
+ {
+  "file": "1032",
+  "block": 84,
+  "old": "After the results of your\nBaptismal Ceremony, it\nseems my men didn't come\nto like you very much",
+  "new": "Whatever the result of your\nBaptismal Ceremony, my men\njust didn't like you, the\nnewcomer",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "部下共は洗礼の結果がどうあれ　何かと新参者のおまえが　気に入らなかったらしい……",
+  "reason": "どうあれ = 'regardless of' the Baptism result; the men disliked Fei as a newcomer. PW makes the Baptism result the cause."
+ },
+ {
+  "file": "1032",
+  "block": 119,
+  "old": "But to go up against\nthe Champ...? ",
+  "new": "But for the Champ to\nchallenge you...?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "でも、キングが戦いを　挑んでくるなんて……。",
+  "reason": "The JP says the King challenged Fei, not that Fei went up against the King."
+ },
+ {
+  "file": "1032",
+  "block": 159,
+  "old": "I jumped in an escape pod\nand jettisoned out of there\nso that I was not engulfed.",
+  "new": "I was put in an escape pod\nand launched. They said they\ncould not drag me into it...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "私は、艦が沈む直前に　脱出ポッドに乗せられ射出されて、　巻き込む訳にはいかないって……",
+  "reason": "Passive 乗せられ射出されて: Citan was put in the pod and launched by the crew, who said they couldn't drag him into it. PW has him escaping on his own initiative."
+ },
+ {
+  "file": "1032",
+  "block": 208,
+  "old": "I did what I<Delay 5>...",
+  "new": "How careless of me<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……す、すみません。　私としたことが……",
+  "reason": "私としたことが is the idiom 'how careless of me / how unlike me'; 'I did what I...' conveys nothing."
+ },
+ {
+  "file": "1032",
+  "block": 251,
+  "old": "I might be able\nto beat her, at a push.",
+  "new": "Can someone\nlike me beat the Champ?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "4人目のスザーンっていう奴に　やられたんだ……。　そんな俺に奴が倒せるだろうか。",
+  "reason": "Fei doubts that someone who lost to Suzanne could beat 奴 (the King). PW instead says he might beat Suzanne."
+ },
+ {
+  "file": "1032",
+  "block": 254,
+  "old": "I don't wan't to hide",
+  "new": "I don't want to hide",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "体力が回復してないから　なんて言い訳はしたくないけど",
+  "reason": "Typo 'wan't'."
+ },
+ {
+  "file": "1032",
+  "block": 254,
+  "old": "beat them next time<Delay 5>...!?",
+  "new": "beat the Champ<Delay 5>...!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そんな俺に奴を倒せるだろうか？",
+  "reason": "奴 here is the King (Rico) whom Hammer says must be beaten, not the Battlers Fei already fought."
+ },
+ {
+  "file": "1032",
+  "block": 256,
+  "old": "for eight years running!",
+  "new": "for three years running!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "御前試合も　今年勝てば3連続キングっす！",
+  "reason": "JP: winning this year makes him King of the Imperial Games three times in a row; PW says eight."
+ },
+ {
+  "file": "1036",
+  "block": 3,
+  "old": "It was said that the cause\nof the riot was due to the\nfriction between the\nChurch and the Kaiser.",
+  "new": "It's said the riot was\ncaused by friction between\nthe Church and the Kaiser,\nbut none know the truth.",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "全統閣下と『教会』勢力の对立が　その暴動を引き起こした　……とも言われていますが　その真意を知る者はいません。",
+  "reason": "PW drops the clause 'but no one knows the truth of it', which frames the Church/Kaiser cause as only a rumor."
+ },
+ {
+  "file": "1040",
+  "block": 26,
+  "old": "It's hurts to say this, but",
+  "new": "It hurts to say this, but",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "悔しいけど私の分までがんばってね！",
+  "reason": "Typo 'It's hurts'."
+ },
+ {
+  "file": "1040",
+  "block": 46,
+  "old": "for prizes at the Imperial",
+  "new": "for cash at the Imperial",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "帝都·Bインフォーというところで　化け物の戦利品とGを換金……",
+  "reason": "換金 / とGを = exchange monster spoils for money (G), not for prizes."
+ },
+ {
+  "file": "1040",
+  "block": 62,
+  "old": "Well you don't look\nso normal yourself!",
+  "new": "That's an odd thing\nto say.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……雰囲気？　變なことを言う奴だな。",
+  "reason": "Fei just remarks that Hammer says strange things; PW turns it into a jab at Hammer's appearance that isn't in the JP."
+ },
+ {
+  "file": "1042",
+  "block": 48,
+  "old": "breaking Imperial Code\nsection B",
+  "new": "breaking the Battling\nregulations",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "全統暗殺未遂、及び　B規約違反の罪とみなし",
+  "reason": "B規約 is the Battling regulations (cf. B管理委員会 = Battling Committee, Bインフォー); not an 'Imperial Code section B'."
+ },
+ {
+  "file": "1042",
+  "block": 60,
+  "old": "The Committee, fearing\nbeing exposed, had used\nRico<Delay 5>... Although, that\nfailed, too...",
+  "new": "But that failed, too...\nFearing exposure, the\nCommittee then turned\non Rico<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "でも、それも失敗。　事の露見を恐れた委員会は　リコ様を……",
+  "reason": "JP order: the staged assassination failed, and then the Committee, fearing exposure, moved against Rico. PW makes fear of exposure the reason they used Rico, reversing cause and effect."
+ },
+ {
+  "file": "1046",
+  "block": 1,
+  "old": "And when tomorrow comes,\nmy daughter will leave\nour home.",
+  "new": "And in time, my daughter\ntoo will leave our home.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "そして月日が流れれば娘も　この家から離れて行ってしまう。",
+  "reason": "月日が流れれば = 'as the months and years pass', not 'tomorrow'; block 7 confirms the daughter is only 5 and leaving is far off."
+ },
+ {
+  "file": "1048",
+  "block": 128,
+  "old": "The slope and your speed\naffect how you jump.<New>\nOh, and it's alright to use\nthe R1 button to fire Ether\nBullets, too!",
+  "new": "It works the same as usual.<New>\nYou can also attack while\njumping, and even fire\nEther Bullets with the\nR1 button!",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "□ボタンはジャンプに对応。これは通常の操作と變化ないね！それとジャンプ中にも○ボタン、△ボタンによる攻擊が可能よ！それともう一つR1ボタンの『エーテル弾』攻擊もオッケーよ！",
+  "reason": "JP says jumping works the same as normal controls and that you can attack with the X/S (○/△) buttons mid-jump, plus fire Ether Bullets. PW invents a line about slope/speed and omits the mid-jump attack tip. (Button names left out: the US release swaps the JP button layout.)"
+ },
+ {
+  "file": "1052",
+  "block": 14,
+  "old": "The slope and your speed\naffect how you jump.<New>\nOh, and it's alright to use\nthe R1 button to fire Ether\nBullets, too!",
+  "new": "It works the same as usual.<New>\nYou can also attack while\njumping, and even fire\nEther Bullets with the\nR1 button!",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "□ボタンはジャンプに对応。これは通常の操作と變化ないね！それとジャンプ中にも○ボタン、△ボタンによる攻擊が可能よ！それともう一つR1ボタンの『エーテル弾』攻擊もオッケーよ！",
+  "reason": "JP says jumping works the same as normal controls and that you can attack with the X/S (○/△) buttons mid-jump, plus fire Ether Bullets. PW invents a line about slope/speed and omits the mid-jump attack tip. (Button names left out: the US release swaps the JP button layout.)"
+ },
+ {
+  "file": "1048",
+  "block": 130,
+  "old": "Like with Ether Bullets,\nyour Gear will break down\nif you overheat. Watch for\nthe red bar on the side.",
+  "new": "For more details, try our\nTutorial Mode, where you\nwill get an explanation from\na different official.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "詳しいことは基本操作の『チュートリアルモード』で別の係の人が説明してくれるよ。",
+  "reason": "JP only says another official will explain the details in Tutorial Mode (identical to the later block, which PW translates correctly). PW's overheating/red-bar hint is not in the JP."
+ },
+ {
+  "file": "1052",
+  "block": 16,
+  "old": "Like with Ether bullets,\nyour Gear will break down\nif you overheat. Watch for\nthe red bar on the side.",
+  "new": "For more details, try our\nTutorial Mode, where you\nwill get an explanation from\na different official.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "詳しいことは基本操作の『チュートリアルモード』で別の係の人が説明してくれるよ。",
+  "reason": "JP only says another official will explain the details in Tutorial Mode (identical to the later block, which PW translates correctly). PW's overheating/red-bar hint is not in the JP."
+ },
+ {
+  "file": "1048",
+  "block": 195,
+  "old": "for eight years straight!",
+  "new": "for three years straight!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "3年連続でバトリングキングの座に君臨するなんて",
+  "reason": "JP says Rico has reigned as Battling King three years in a row (Hammer elsewhere: 今年勝てば3連続キング). Note the 0998 results board also says 'Eight-time Champ' for 3年連続 and should be changed together if accepted."
+ },
+ {
+  "file": "1052",
+  "block": 25,
+  "old": "As usual, you haven't\nlearned anything have\nyou?<Opcode 2 45>",
+  "new": "Mysterious Voice\n\"As usual, you haven't\nlearned anything, have\nyou?\"<Opcode 2 45>",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "謎の声「相變わらずお主は何もわかっておらんな。",
+  "reason": "JP gives this line the speaker 謎の声 (Mysterious Voice); PW drops the speaker line. Also adds the missing comma before the tag question."
+ },
+ {
+  "file": "1052",
+  "block": 113,
+  "old": "that thing and I",
+  "new": "that thing and me",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "この俺とこいつから",
+  "reason": "Object of 'outta' should be 'me', not 'I'."
+ },
+ {
+  "file": "1060",
+  "block": 8,
+  "old": "I'm hungry",
+  "new": "I'm hungry...",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "「おなかすいた……。",
+  "reason": "Line has no closing punctuation; JP trails off with an ellipsis."
+ },
+ {
+  "file": "1066",
+  "block": 13,
+  "old": "Well, if isn't the",
+  "new": "Well, if it isn't the",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ん！　これはこれは、バトリングキングのフェイ殿ではありませんか。",
+  "reason": "Missing 'it' in 'if it isn't'."
+ },
+ {
+  "file": "1066",
+  "block": 16,
+  "old": "Well, if isn't the",
+  "new": "Well, if it isn't the",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ん！　これはこれは、バトリングキングのフェイ殿ではありませんか。",
+  "reason": "Missing 'it' in 'if it isn't'."
+ },
+ {
+  "file": "1068",
+  "block": 16,
+  "old": "No one's been allowed in\nsince she disappeared.",
+  "new": "No one may enter without\nthe Kaiser's permission.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "全統閣下の許可がなければ入ることは出来ません。",
+  "reason": "This variant of the guard line says entry requires the Kaiser's permission; PW copied the disappearance line from block 10."
+ },
+ {
+  "file": "1068",
+  "block": 23,
+  "old": "trying to assassinate me.\nAnd not for the first time.<New>",
+  "new": "trying to assassinate me.<New>",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あの男にはこの私の暗殺未遂の嫌疑がかけられていてね。",
+  "reason": "JP only says he is suspected of an attempt on Sigmund's life; 'And not for the first time' is an addition not in the JP."
+ },
+ {
+  "file": "1068",
+  "block": 26,
+  "old": "descend to the basement\nvia a third passage.",
+  "new": "descend to basement\nPassage 3.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "右手より、地階第3通路へ降りられます。",
+  "reason": "第3通路 is the named Passage 3 on the basement level, not 'a third passage'; style guide uses numerals for room/passage IDs."
+ },
+ {
+  "file": "1070",
+  "block": 13,
+  "old": "only battle Gears.",
+  "new": "only Battling Gears.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ギアって言ってもバトリング用だけどな。",
+  "reason": "JP says the Gears he services are for Battling (the arena sport), not battle Gears in general."
+ },
+ {
+  "file": "1070",
+  "block": 8,
+  "old": "Gear in sub dock!",
+  "new": "Gear in the sub dock!",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "地下ドックで見たが",
+  "reason": "Missing article."
+ },
+ {
+  "file": "1072",
+  "block": 6,
+  "old": "\"Hey, it's...<Delay 10>dog food.\"",
+  "new": "Hey, it's...<Delay 10>dog food.",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "「これは……ドックフードか。",
+  "reason": "No speaker is named, so per the style guide the line should not be in double quotes (matches the other unnamed item-pickup lines like 'Nothing useful...')."
+ },
+ {
+  "file": "1076",
+  "block": 10,
+  "old": "a human-rights movement to\nusurp political power.",
+  "new": "a racial independence\nmovement to seize power.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "『教会』側は人種独立運動をたてに政権を覆そうとしています。",
+  "reason": "JP says the Church is using a racial independence movement (人種独立運動) as a pretext to overthrow the government, not a human-rights movement."
+ },
+ {
+  "file": "1080",
+  "block": 33,
+  "old": "the 11th Development base<New>",
+  "new": "the 11th Development Base<New>",
+  "category": "style",
+  "confidence": "high",
+  "jp": "第11開発ベース",
+  "reason": "Style guide: military buildings take title case, e.g. '11th Development Base'."
+ },
+ {
+  "file": "1084",
+  "block": 37,
+  "old": "\"Leonardo...\"",
+  "new": "\"So he wrote it right\nbefore he died, huh.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "つまり、死ぬ間際に書いたってワケか。",
+  "reason": "Rico is responding to Citan's 'dying message' line: 'So he wrote it just before he died.' He does not name Leonardo here."
+ },
+ {
+  "file": "1084",
+  "block": 44,
+  "old": "\"Hey, this is the same as\nthat stuff over there...\"",
+  "new": "\"Something's down here,\nthat's for sure...\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "何かがいることは、確かなようだな……。",
+  "reason": "This block duplicates block 40's text; the JP here is the same line as block 41: 'Something's definitely here.'"
+ },
+ {
+  "file": "1084",
+  "block": 55,
+  "old": "\"...?\nLooks like it's locked\nfrom the other side.\"",
+  "new": "...?\nLooks like it's locked\nfrom the other side.",
+  "category": "style",
+  "confidence": "high",
+  "jp": "内側からカギが掛かっているようだ。",
+  "reason": "No speaker is named (JP has none either), so per the style guide the text should not be in quotes."
+ },
+ {
+  "file": "1084",
+  "block": 59,
+  "old": "\"Tch! I guess he\nupped and left!\"",
+  "new": "\"Tch! So it's\nfinally shown itself!\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ちっ。出やがったな！",
+  "reason": "出やがったな here means the monster has appeared (he has just sensed something lurking; next line is 'What the...!?'), not that someone left."
+ },
+ {
+  "file": "1086",
+  "block": 40,
+  "old": "\"This is certainly\nmost peculiar.\"",
+  "new": "\"Just as I thought,\nthat place is the most\nsuspicious.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "やはりそこが一番怪しいですね。",
+  "reason": "Citan says the place just mentioned (where the drains meet) is the most suspicious spot; PW loses the reference and the point."
+ },
+ {
+  "file": "1086",
+  "block": 82,
+  "old": "\"Say, did you come to\nget rid of the monster?<New>\nThat'll make life a lot\nnicer around here.\"",
+  "new": "\"Say, are you the ones\nwho got rid of the monster?<New>\nThanks to you, life's a lot\nnicer around here.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "おう！　もしかしてあんたらが化け物を退治してくれたんか？おかげでここも住みやすくなったわい。",
+  "reason": "Post-battle line: the old man asks whether they are the ones who killed the monster and thanks them; PW makes it a future request."
+ },
+ {
+  "file": "1088",
+  "block": 24,
+  "old": "\"Yes.\nIt must be the same.\"",
+  "new": "\"Hmm.\nI guess this\nis not it.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "うーん。違うんじゃないでしょうか。",
+  "reason": "JP is 'Hmm, I don't think this is it' (same line as 1084 block 33); PW states the opposite."
+ },
+ {
+  "file": "1090",
+  "block": 12,
+  "old": "\"Scared it\noff...\"",
+  "new": "\"Don't scare me\nlike that...\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "おどかすな……。",
+  "reason": "おどかすな = 'don't scare me' (reacting to Fei's false alarm 'Above us?'), not that they scared the monster off."
+ },
+ {
+  "file": "1090",
+  "block": 13,
+  "old": "\"Damn!<Delay 30>\nWe shoulda found\nit here!\"",
+  "new": "\"Damn!<Delay 30>\nHow're we gonna\nfind it?\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "くそっ！どうすればヤツを、見つけだせる……。",
+  "reason": "Rico asks how they can find it, which sets up his next line about luring it out; PW changes it to a complaint."
+ },
+ {
+  "file": "1094",
+  "block": 4,
+  "old": "\"They plan on directly\nattacking the Imperial\nCapital, Noatun<Delay 10>...<New>",
+  "new": "\"They mean to crash a\nbattleship into the\nImperial Capital, Noatun<Delay 10>...<New>",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "戦艦をこの帝都ノアトゥンに直接叩きこむつもりです……",
+  "reason": "JP says they intend to slam a battleship directly into Noatun; PW drops the battleship-crash plan the whole scene is about."
+ },
+ {
+  "file": "1094",
+  "block": 5,
+  "old": "If they drop something on\nthe reactor...",
+  "new": "If it crashes onto the\nreactor...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "もしあれが原子炉に落ちようものなら",
+  "reason": "'If THAT (the ship) falls onto the reactor' — the ship itself is the projectile, not something dropped from it."
+ },
+ {
+  "file": "1096",
+  "block": 11,
+  "old": "\"I don't need a reason\nto beat the crap out of\nanyone, including this lot.<New>\nNot if they piss me off.\"",
+  "new": "\"I don't need a reason\nto beat the crap out of\nanyone who pisses me off.<New>\nAnd that includes you.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "気にくわねえ奴らをぶっとばすのに理由はいらねえ。もちろん、てめえも含めてだ。",
+  "reason": "Rico says this includes YOU (Fei), not 'this lot'; Fei's reply 'That counts as a reason' responds to that jab."
+ },
+ {
+  "file": "1110",
+  "block": 8,
+  "old": "People always think we\nhave plenty of free time.",
+  "new": "Well, having free time\nall the time isn't so\ngreat either.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ま、いつもヒマってのも考えものだがな。",
+  "reason": "Reply to 'security has so much free time': 'Well, always being idle has its downsides too.' PW changes the meaning."
+ },
+ {
+  "file": "1150",
+  "block": 16,
+  "old": "caused you\nso much grief and pain<New>",
+  "new": "carved fear\nand hatred into your heart<New>",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "うぬのその胸に恐れと憎しみを刻み込んだ男。",
+  "reason": "Grahf says the man carved fear and hatred into Ramsus' heart, not grief and pain."
+ },
+ {
+  "file": "1176",
+  "block": 3,
+  "old": "You don't need to worry\nabout him. He'll be fine.",
+  "new": "Hyu<--> I mean, you need\nnot worry about Citan.\nHe'll be fine.",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "ヒュウ……いえ、シタン先生なら、心配する事はないでしょう。",
+  "reason": "Sigurd slips and starts to call Citan 'Hyu(ga)' before correcting himself; this hint that he knows Citan's real identity is dropped."
+ },
+ {
+  "file": "1180",
+  "block": 54,
+  "old": "They're requesting\nimmediate backup from\nthe Royal Capital!",
+  "new": "They're asking their\nhomeland whether to\nscramble!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "キスレブの国境守備隊通信も傍受！…緊急出動の是非を本国に問うています！",
+  "reason": "It is Kislev's border garrison asking its own homeland whether to mobilize, not a request for backup from Av's Royal Capital."
+ },
+ {
+  "file": "1180",
+  "block": 48,
+  "old": "Torpedoes confirmed with\nthe sonar.",
+  "new": "Now picking up sonar\nfrom the torpedoes!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "続いて魚雷よりソナー音確認！アクティブホーミングに移行！！",
+  "reason": "The JP says sonar pings are now coming from the torpedoes (hence active homing), not that the torpedoes were confirmed by sonar."
+ },
+ {
+  "file": "1180",
+  "block": 33,
+  "old": "Just hurry up and do\nsomething either way!!",
+  "new": "Hurry, turn hard to one\nside or the other!!!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "急いで、どっちかにきれ！！！",
+  "reason": "Bart orders the helmsman to cut the rudder hard to either side; 'do something' loses the actual order."
+ },
+ {
+  "file": "1152",
+  "block": 6,
+  "old": "However, the future\nis in our hands to\ncalculate.",
+  "new": "However, the future\nis ours to create\nwith our own hands.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "未来は我等の手で創り出す事が出来る。",
+  "reason": "JP says the future can be created by their hands; 'calculate' is not in the source."
+ },
+ {
+  "file": "1152",
+  "block": 43,
+  "old": "Church for over nineteen\nyears.\"",
+  "new": "Church for nineteen\nlong years.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "19年もの間、その存在は『教会』によって…",
+  "reason": "The period is exactly 19 years (tied to the Aqvi crustal shift 19 years ago in block 46); 'over nineteen years' implies more."
+ },
+ {
+  "file": "1152",
+  "block": 44,
+  "old": "Is that acceptable,\nCain?",
+  "new": "Are you alright,\nCain?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "よいのか？　カイン。",
+  "reason": "Paired with Cain's reply 'まだ暫くは保つ' (it'll hold a while yet), this is the Ministry asking after Cain's failing body, not whether something is acceptable."
+ },
+ {
+  "file": "1152",
+  "block": 45,
+  "old": "Yes...<Delay 10>\nfor the time being.",
+  "new": "Yes...<Delay 10>\nI will hold out a\nwhile yet.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ああ、まだ暫くは保つ。",
+  "reason": "Cain says his body will hold out for a while yet (cf. his life-extension treatment later); restores the meaning lost by block 44's rendering."
+ },
+ {
+  "file": "1152",
+  "block": 54,
+  "old": "Besides, we would\nnot think to go to\nthose lengths to\neliminate him.",
+  "new": "Besides, we do not\nbelieve something on\nthat scale could\neliminate him.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "それに、あの程度で消せるなどとは思ってはおらぬ。",
+  "reason": "JP: they never thought an attack of that scale could kill him; PW says the opposite (that they wouldn't go to such lengths)."
+ },
+ {
+  "file": "1152",
+  "block": 67,
+  "old": "Free reign",
+  "new": "Free rein",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "勝手な教義、信仰……",
+  "reason": "The idiom is 'free rein', not 'free reign'."
+ },
+ {
+  "file": "1152",
+  "block": 69,
+  "old": "preservation\nis human\nnature.",
+  "new": "something to\ncling to is\nhuman nature.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "寄る辺を求めるは人の常だ。",
+  "reason": "寄る辺 is something to lean on/a refuge (said of faith and doctrine), not 'preservation'."
+ },
+ {
+  "file": "1152",
+  "block": 100,
+  "old": "the 71st Descent Unit",
+  "new": "Type-71 descent troops",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "調整済みの、71式降下兵ならば問題ない。",
+  "reason": "71式 is a model designation ('Type 71' descent troopers), not an ordinal unit number."
+ },
+ {
+  "file": "1152",
+  "block": 241,
+  "old": "Indeed.\nUseless trash<Delay 5>...",
+  "new": "Nay. Trash that serves\nno purpose at all<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "否。用すらなさない屑だ……",
+  "reason": "JP corrects the previous voice ('no longer of use'): 'Nay, trash that was never even of use'. 'Indeed' reverses the correction."
+ },
+ {
+  "file": "1152",
+  "block": 251,
+  "old": "Ruled by needless flesh,\nand still this was the\noutcome.",
+  "new": "This is what comes of\nbeing ruled by needless\nflesh.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "不要な肉体に支配されていたが故の結末。",
+  "reason": "JP says Cain's end came BECAUSE he was ruled by needless flesh; PW's 'and still' inverts cause and effect."
+ },
+ {
+  "file": "1182",
+  "block": 47,
+  "old": "...",
+  "new": "Citan\n\"...\"",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "シタン「……。",
+  "reason": "The JP gives this silence to Citan (after Jesse's 'if I survive till then'); PW has no speaker."
+ },
+ {
+  "file": "1182",
+  "block": 53,
+  "old": "Just goes to show that\nour parents have got to be\nthere for us. Ga ha ha!",
+  "new": "Just goes to show that\nparents gotta be there\nfor their kids. Ga ha ha!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "やっぱり親がちゃんとついててやんなきゃダメみてぇだな。",
+  "reason": "Jesse, a parent, says parents need to stay by their kids; 'our parents...for us' puts him in the child's position."
+ },
+ {
+  "file": "1182",
+  "block": 67,
+  "old": "You and I are Jugend alumni\ntoo, after all, and we are\nhere.",
+  "new": "You and I were part of\nthe Elements at Jugend,\nand now we are here.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "かつて指揮官養成学校《ユーゲント》でエレメンツと呼ばれた貴方と私がこうしてこちらにいるのですから。",
+  "reason": "Citan says they were called the Elements at Jugend; the term is introduced here and referred to in block 71 ('all the old Elements members')."
+ },
+ {
+  "file": "1182",
+  "block": 106,
+  "old": "(I'm not interested...)",
+  "new": "Bart\n\"(I'm not interested...)\"",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "バルト（俺は興味ねぇな……）",
+  "reason": "JP attributes this aside to Bart; PW leaves it unattributed (cf. block 81 format for thoughts)."
+ },
+ {
+  "file": "1182",
+  "block": 128,
+  "old": "the plan, many Lambs were\ngathered by the Church\nto become guinea pigs.",
+  "new": "the plan, many surface\ndwellers were gathered by\nthe Church as guinea pigs.",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "多くの地上人が『教会』によって集められ、実験体に。",
+  "reason": "JP uses 地上人 (surface dwellers), which PW harmonizes as 'surface dweller', not ラムズ/Lambs."
+ },
+ {
+  "file": "1182",
+  "block": 148,
+  "old": "but try to go there.",
+  "new": "but to try to go there.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "行ってみるしかなさそうだな。",
+  "reason": "Missing 'to' ('no choice but to try')."
+ },
+ {
+  "file": "1184",
+  "block": 9,
+  "old": "I bet it's one those things\nwhere you get<Delay 10> blood coming\nout of the showers...",
+  "new": "I bet it's one of those\nthings where you get<Delay 10> blood\ncoming out of the showers...",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "きっとシャワーから血が流れたりするんだろうなぁ。",
+  "reason": "Missing 'of' in 'one those things'; re-broken to stay within 28 characters."
+ },
+ {
+  "file": "1184",
+  "block": 16,
+  "old": "Even if we return to Ignis, we\nare just going to be targets\nfor them!",
+  "new": "I hear Shakhan's alive, too,\nso if we return to Ignis,\nwe'll just be targets!",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "シャーカーンも健在だって聞くし　これじゃあ、イグニスに帰っても　いい標的になっちゃうだけですよ",
+  "reason": "The JP gives the reason they'd be targets: Shakhan is said to still be alive and well. PW drops this and leaves a vague 'them'."
+ },
+ {
+  "file": "1184",
+  "block": 35,
+  "old": "Did she have a fight...?",
+  "new": "Did you two have a fight...?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ケンカでもしたのかぁ？",
+  "reason": "The crewman is asking Fei whether he and Elly quarreled (he follows with 'I was like that at your age'); 'Did she have a fight' misreads the unstated subject."
+ },
+ {
+  "file": "1186",
+  "block": 79,
+  "old": "The compass we received from\nShevat is great.",
+  "new": "The new fire director from\nShevat is great.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "シェバトからもらった新しい方位盤がすげぇんだよ。同時に15目標も狙えるんだぜ！",
+  "reason": "方位盤 here is the gun director (fire-control device), which is why it can aim at 15 targets; the same word is rendered 'director' in block 89. A compass can't aim at targets."
+ },
+ {
+  "file": "1186",
+  "block": 83,
+  "old": "Man, my legs\nmove great!",
+  "new": "Man, my legs feel\nkinda drafty...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "なんか足が、す～す～するなぁ。",
+  "reason": "す～す～する means a cool/drafty feeling (around the legs), not that the legs move well."
+ },
+ {
+  "file": "1186",
+  "block": 109,
+  "old": "hammerhead-stalls...",
+  "new": "Cobra maneuvers...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……翼端失速……コブラ……ヘルプスト機動……",
+  "reason": "The JP lists the Cobra maneuver, not a hammerhead stall; the other two terms are rendered literally."
+ },
+ {
+  "file": "1186",
+  "block": 118,
+  "old": "it's pulses,",
+  "new": "its pulses,",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "電波灯台の座標とパルス表",
+  "reason": "Possessive 'its' needs no apostrophe."
+ },
+ {
+  "file": "1186",
+  "block": 121,
+  "old": "We can use high frequency",
+  "new": "We can use low frequency",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "波長が長い電波は水の中でも使えるけど、解像率が低くて",
+  "reason": "波長が長い = long wavelength, i.e. low-frequency radio, which is what penetrates water (and why resolution is low). 'High frequency' reverses it."
+ },
+ {
+  "file": "1192",
+  "block": 2,
+  "old": "(I also left his land.\nSince we just met, I do\nnot blame you for not\ntrusting me, but...)",
+  "new": "(I have left that land too.\nAfter such a sudden reunion,\nI do not blame you for\nnot trusting me, but...)",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "（私も今は彼の地を捨てた身です。こんな突然の再会では信じてはもらえないでしょうが……）",
+  "reason": "彼の地 is 'that land' (Solaris), not 'his land', and 再会 means a reunion: Citan and Sigurd know each other, so 'Since we just met' is wrong."
+ },
+ {
+  "file": "1192",
+  "block": 7,
+  "old": "But then again, I wonder\nwhether this Gear has a\nlimited ability to measure\nat all?",
+  "new": "But then again, I wonder\nwhether this Gear even\nhas any limits to its\nabilities at all.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……というより、そもそもこいつに限界能力なんてもんがあるのかね？",
+  "reason": "The mechanic wonders whether the Gear has any upper limit to its abilities at all (it grows with Fei's will); PW's 'limited ability to measure' garbles this."
+ },
+ {
+  "file": "1192",
+  "block": 8,
+  "old": "the legs are especially",
+  "new": "the legs is especially",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "特に両足に装備されているホバースラスターの機動力はなかなかのもんだぜ。",
+  "reason": "Subject is 'The power', so the verb should be 'is'."
+ },
+ {
+  "file": "1192",
+  "block": 17,
+  "old": "My name is Mason.",
+  "new": "I am Mason, the butler.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "私は執事のメイソンでございます。",
+  "reason": "Mason introduces himself as the butler at his first appearance; PW drops the role."
+ },
+ {
+  "file": "1192",
+  "block": 27,
+  "old": "\"Ouch ouch ouch!!",
+  "new": "Bart\n\"Ouch ouch ouch!!",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "いててて！！　耳、ひっぱっんなって！",
+  "reason": "The line is in quotes but has no speaker name; it is Bart having his ears pulled by Sigurd. Added the speaker so the quotes follow the style guide (adds the name line; page goes to 3 lines)."
+ },
+ {
+  "file": "1198",
+  "block": 10,
+  "old": "Like the other Omnigears,\nit was at one point a Vessel\nof Anima absorbed by Deus and\ndeactivated...",
+  "new": "Like the other Omnigears,\nits Vessel of Anima was\nabsorbed by Deus, which\nleft it deactivated...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "他のギア·バーラー同様、一時はアニマの器がデウスに吸収されちまったことによって稼動不能だったが、",
+  "reason": "JP says the Gear was inoperable because its Vessel of Anima was absorbed by Deus; PW says the Gear itself was a Vessel of Anima."
+ },
+ {
+  "file": "1198",
+  "block": 14,
+  "old": "Like the other Omnigears it\nwas at one point a Vessel of\nAnima that was absorbed by\nDeus and thus deactivated.",
+  "new": "Like the other Omnigears,\nits Vessel of Anima was\nabsorbed by Deus, which\nleft it deactivated.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "他のギア·バーラー同様、一時はアニマの器がデウスに吸収されちまったことによって稼動不能だったが、",
+  "reason": "Same as Stier-2: the Gear's Vessel of Anima was absorbed by Deus, leaving it inoperable; the Gear was not itself a Vessel."
+ },
+ {
+  "file": "1198",
+  "block": 13,
+  "old": "15.9 sharl",
+  "new": "15.9 sharls",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "全高15□9シャール。",
+  "reason": "Plural unit; the other Gear readouts in this file use 'sharls'."
+ },
+ {
+  "file": "1198",
+  "block": 14,
+  "old": "18.8 sharl",
+  "new": "18.8 sharls",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "全高18□8□シャール。",
+  "reason": "Plural unit; the other Gear readouts in this file use 'sharls'."
+ },
+ {
+  "file": "1198",
+  "block": 15,
+  "old": "15.4 sharl",
+  "new": "15.4 sharls",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "全高15□4シャール。",
+  "reason": "Plural unit; the other Gear readouts in this file use 'sharls'."
+ },
+ {
+  "file": "1198",
+  "block": 15,
+  "old": "but it seems they don't try\nto repair anything except\nEmeralda herself.",
+  "new": "but Emeralda won't repair\nanything but her own body.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "本来は修理なんていらねぇんだろうが、エメラダは自分の身体以外修復しようとしねぇ。",
+  "reason": "JP: the Gear shouldn't need repairs, but Emeralda won't repair anything except her own body (so the crew maintain it). PW's vague 'they' loses that Emeralda is the subject."
+ },
+ {
+  "file": "1198",
+  "block": 25,
+  "old": "You tune them\nto run so well!",
+  "new": "Can you really pilot\nthem, tuned like that!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お前ら何者だ？あんなチューンでよく動かせるな。俺とフェイぐらいだと思ってたぜ、あんなのを動かせるのは……。",
+  "reason": "Rico is amazed they can pilot Gears with such an extreme tune, not praising their tuning; this is what sets up the next line about only him and Fei being able to run them."
+ },
+ {
+  "file": "1206",
+  "block": 23,
+  "old": "Uh-huh.<Delay 10> I was gazing\nat your face all morning\nwhile you slept...",
+  "new": "Uh-huh.<Delay 10> I was watching\nyou sleep, and before I\nknew it, it was morning...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "うん。あなたの寝顔眺めてたら朝に……。",
+  "reason": "JP: she watched his sleeping face (all night) until morning came, matching 'I've been up the whole time'. PW says she gazed at him all morning."
+ },
+ {
+  "file": "1208",
+  "block": 62,
+  "old": "wake you up.",
+  "new": "wake him up.",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "フェイ、まだ寝てるっチュか？乙女のキチュで起きるかもしれまチェんねぇ。",
+  "reason": "The line opens 'Fei's still sleeping?' (third person, as in the identical block 61), so 'you' is inconsistent."
+ },
+ {
+  "file": "1212",
+  "block": 83,
+  "old": "I'm afraid I'm not\nwell versed in the\nart of romance.",
+  "new": "I'm afraid I do not\nstock any guides on\nthe art of romance.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "残念ながら恋愛指南の本はあつかっておりませぬ。",
+  "reason": "Mason (who runs the ship's shop) says he regrettably doesn't carry books of romantic advice; PW turns the shop joke into a statement about his own experience."
+ },
+ {
+  "file": "1222",
+  "block": 34,
+  "old": "place the masked man\nmentioned to me and Doc...",
+  "new": "place the masked man\nand Doc talked about...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あの円盤が、仮面の男や先生の言っていた、親父とおふくろのいた国だって言うのか？",
+  "reason": "JP: the country that the masked man and Doc spoke of; Doc is a speaker of the information, not someone it was told to."
+ },
+ {
+  "file": "1228",
+  "block": 18,
+  "old": "Just you...",
+  "new": "If it weren't...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "貴様さえ……",
+  "reason": "Dominia's broken lines say 'If only you... weren't here... Unforgivable... You... traitor!'; 'Just you... I must...' loses the meaning."
+ },
+ {
+  "file": "1228",
+  "block": 19,
+  "old": "I must...",
+  "new": "...for you...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いなければ……",
+  "reason": "いなければ = 'weren't here/didn't exist', continuing 'if it weren't for you'; 'I must...' is not in the JP."
+ },
+ {
+  "file": "1228",
+  "block": 20,
+  "old": "...get even...",
+  "new": "Unforgivable...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "許さん……",
+  "reason": "許さん = 'I won't forgive (you)'; reworded so the fragmented sentence reads correctly with the fixed blocks 18-19."
+ },
+ {
+  "file": "1230",
+  "block": 18,
+  "old": "Perhaps this and the\nYggdrasil are sister\nprototypes?",
+  "new": "Perhaps it is a sister\nship of the Yggdrasil's\nprototype?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "おそらくユグドラシルのプロトタイプの同型艦あたりではないでしょうか。",
+  "reason": "Citan guesses the sub is a sister ship of the Yggdrasil's prototype, not that the two ships are both prototypes."
+ },
+ {
+  "file": "1240",
+  "block": 8,
+  "old": "But, with Shakhan\nbeing so quiet...",
+  "new": "But Shakhan will not\nsimply stay quiet...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "でも、シャーカーンが黙っては……",
+  "reason": "Polarity: Citan means Shakhan won't just keep quiet (so Margie is in danger in Nisan), which Bart then agrees with; PW says Shakhan is being quiet."
+ },
+ {
+  "file": "1244",
+  "block": 15,
+  "old": "With my warm-up\nexercises, I'll be able\nto save all the drowning\npeople.",
+  "new": "Thanks to my warm-up\nexercises, I saved lots\nof drowning people.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "準備体操の成果でおぼれてる人たちをたくさん助けられたのさ。",
+  "reason": "Past tense: thanks to his warm-ups he was able to rescue many drowning people (after the attack); PW makes it a future boast."
+ },
+ {
+  "file": "1234",
+  "block": 16,
+  "old": "Hardy,",
+  "new": "Howdy,",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "おうっ。よく遊びに来てくれたな。",
+  "reason": "'Hardy' looks like a typo for the greeting 'Howdy' (JP is just a hearty 'Oh!')."
+ },
+ {
+  "file": "1234",
+  "block": 169,
+  "old": "Captain.",
+  "new": "Captain",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "艦長",
+  "reason": "Stray period in the speaker name line."
+ },
+ {
+  "file": "1234",
+  "block": 172,
+  "old": "Obviously it is!",
+  "new": "Of course not!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "当たり前でしょう！？　何で発掘の手伝いに来た我々を攻擊する必要が……",
+  "reason": "Hans answers the Captain's 'Don't tell me this is how the Church greets us!?' with 'Of course not! Why would they attack us...'; PW reverses the polarity."
+ },
+ {
+  "file": "1236",
+  "block": 51,
+  "old": "survival!\"",
+  "new": "survival!",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "カンパイだぁ！",
+  "reason": "Unnamed NPC line has a stray closing double quote with no opening quote."
+ },
+ {
+  "file": "1238",
+  "block": 21,
+  "old": "long ago!\"",
+  "new": "long ago!",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "とっくのとうに沈んでらあ！",
+  "reason": "Unnamed NPC line has a stray closing double quote with no opening quote."
+ },
+ {
+  "file": "1238",
+  "block": 27,
+  "old": "I'm sure the Verus are\nfollowin' us 'cause of\nthe Captain.",
+  "new": "I bet it was thanks to\nthe Captain that we drove\noff the Verus, huh?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ねぇ、やっぱり死霊を追いはらえたたのも艦長のおかげだよねぇ。",
+  "reason": "The kid says the Verus were driven off thanks to the Captain; PW says the Verus are following them because of him."
+ },
+ {
+  "file": "1238",
+  "block": 34,
+  "old": "I'm so scared.",
+  "new": "I'm scared of heights.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "高いの恐いよう。",
+  "reason": "The boy is scared of heights (his sister mocks this next); PW drops what he is scared of."
+ },
+ {
+  "file": "1238",
+  "block": 35,
+  "old": "I'm so scared.",
+  "new": "I'm scared of heights.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "高いの恐いよう。",
+  "reason": "Same as block 34; also sets up 'I'm scared of the Verus too'."
+ },
+ {
+  "file": "1238",
+  "block": 36,
+  "old": "Just calm down.",
+  "new": "Go ahead and fall.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "落ちちゃいなさい。",
+  "reason": "落ちちゃいなさい = 'just fall off already' (the sister's mean joke), not 'calm down'."
+ },
+ {
+  "file": "1238",
+  "block": 37,
+  "old": "Just calm down.",
+  "new": "Go ahead and fall.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "落ちちゃいなさい。",
+  "reason": "Same line as block 36: 'just fall off already'."
+ },
+ {
+  "file": "1238",
+  "block": 66,
+  "old": "But really, we had no\nchoice because it's the\nCaptain's orders...",
+  "new": "Can't say I blame you.\nBut that's just the kind\nof man the Captain is...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "無理もないかな。でも、そういう人なのだから仕方がないよ、艦長は……",
+  "reason": "He says 'Can't blame you, but that's just the kind of person the Captain is'; not that they had no choice because of orders."
+ },
+ {
+  "file": "1242",
+  "block": 38,
+  "old": "me Lady Verus-Hunter...",
+  "new": "me Lady Verus-Hunter...\n...Bit of a mouthful?",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "ウェルスハンターレディとでも呼んでちょうだい。……ちょっと長いかしら？",
+  "reason": "The punchline '...a bit long, maybe?' about her self-given title is missing."
+ },
+ {
+  "file": "1242",
+  "block": 43,
+  "old": "This is where all the\ntreasure, armor and other\nmaterials are brought up\nfrom the sea.",
+  "new": "This is where treasure\nfrom the sea comes in, and\nwhere Gears and supplies\nare sent up to the deck.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "海からつりあげたお宝を運び込んだり、甲板にギアや物資を送り込んだりするところさ。",
+  "reason": "JP: treasure hauled from the sea is brought in here, and Gears/supplies are sent up to the deck (as the game then does with your Gears); PW has armor coming from the sea."
+ },
+ {
+  "file": "1242",
+  "block": 45,
+  "old": "This is where all the\ntreasure, armor and other\nmaterials are brought up\nfrom the sea.",
+  "new": "This is where treasure\nfrom the sea comes in, and\nwhere Gears and supplies\nare sent up to the deck.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "海からつりあげたお宝を運び込んだり、甲板にギアや物資を送り込んだりするところさ。",
+  "reason": "Same line as block 43."
+ },
+ {
+  "file": "1246",
+  "block": 73,
+  "old": "Ah, that is\ncertain.",
+  "new": "Now, who\ncan say?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "さあ、どうでしょう。",
+  "reason": "Citan evasively answers 'Well, who can say?' (hence Jesse's 'Heh, oh well'); PW has him agreeing."
+ },
+ {
+  "file": "1252",
+  "block": 20,
+  "old": "These foolish land-\ndwelling Lambs need",
+  "new": "These foolish surface-\ndwelling Lambs need",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "愚かな地上人《ラムズ》は",
+  "reason": "Script-Changes harmonises 地上人 to 'surface dweller'; 'land-dwelling' undoes that."
+ },
+ {
+  "file": "1252",
+  "block": 22,
+  "old": "be lead by",
+  "new": "be led by",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "愚者は賢者によって管理統制されねばならぬ。",
+  "reason": "'lead' should be past participle 'led'."
+ },
+ {
+  "file": "1256",
+  "block": 3,
+  "old": "Since I have other\nmatters to attend to,<New>\nwould you mind staying\nhere for a while?",
+  "new": "For appearances' sake,<New>\nI must ask you to put up\nwith staying here for\na while.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "他への示しもありますから、しばらくの間、ここで我慢してね。",
+  "reason": "他への示し = keeping up appearances/setting an example toward others: she must confine Elly for show; nothing about other matters to attend to."
+ },
+ {
+  "file": "1256",
+  "block": 4,
+  "old": "Not at all.",
+  "new": "I understand.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "わかっています。",
+  "reason": "Elly replies 'I understand', matching the corrected request in block 3."
+ },
+ {
+  "file": "1258",
+  "block": 15,
+  "old": "Then ten years ago, strange\ncircle-shaped marks were",
+  "new": "Then ten years later, odd\ncircle-shaped marks were",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "それから10年後には各地で不思議な円形の跡などが発見されて",
+  "reason": "JP says the circles appeared ten years AFTER the Mingas abduction (i.e. ~40 years ago), not ten years ago."
+ },
+ {
+  "file": "1258",
+  "block": 48,
+  "old": "Hmm, Uncle Stone is\na bad guy?<Delay 10>\nWhy are you saying\nhe's strange!?",
+  "new": "Huh, Uncle Stone was\na bad guy?<Delay 10>\nI had my eye on Uncle\nJesse as the shady one!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "え～、ストーンのおじさん、惡もんだったの？オイラ、ジェシーのおじさんがアヤシイってにらんでたのに！",
+  "reason": "The kid says he had suspected Uncle Jesse of being the suspicious one; PW's 'Why are you saying he's strange' loses the Jesse reference entirely."
+ },
+ {
+  "file": "1258",
+  "block": 97,
+  "old": "X1020",
+  "new": "X1029",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "目標座標、X1029、Z303！",
+  "reason": "JP target coordinate is X1029, not X1020."
+ },
+ {
+  "file": "1260",
+  "block": 12,
+  "old": "I'm bored,<Delay 10> 'cause my\nbrother can't find me!",
+  "new": "I'm bored,<Delay 10> 'cause the\nseeker can't find me!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "オニさん、なかなか見つけてくれないからタイクツ！！",
+  "reason": "オニさん is the 'it'/seeker in hide-and-seek, misread as お兄さん (brother); the kid is hiding from the seeker."
+ },
+ {
+  "file": "1260",
+  "block": 16,
+  "old": "tell my brother!",
+  "new": "tell the seeker!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ところでオニさんにはナイショだよ。",
+  "reason": "オニさん = the seeker in hide-and-seek, not 'my brother' (same misreading as block 12)."
+ },
+ {
+  "file": "1260",
+  "block": 17,
+  "old": "I thought it was\nmy brother...",
+  "new": "I thought it was\nthe seeker...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "オニさんかと思った……。",
+  "reason": "オニさん = the seeker in hide-and-seek, not 'my brother' (same misreading as block 12)."
+ },
+ {
+  "file": "1260",
+  "block": 46,
+  "old": "It's bad form, boy.",
+  "new": "Sorry about that, kid.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "惡ぃな、小僧。",
+  "reason": "After scolding Billy, Jesse apologizes to Bart ('Sorry, kid'); PW makes it a further rebuke of Billy."
+ },
+ {
+  "file": "1260",
+  "block": 67,
+  "old": "I was just\nwaiting for my moment.",
+  "new": "I had time\non my hands anyway.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "しょうがない、ちょうどヒマを持てあましてた所だ。",
+  "reason": "Rico says he was just bored with time to kill, not that he was waiting for his moment."
+ },
+ {
+  "file": "1260",
+  "block": 69,
+  "old": "I was just\nwaiting for my moment.",
+  "new": "I had time\non my hands anyway.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "しょうがない、ちょうどヒマを持てあましてた所だ。",
+  "reason": "Same line as block 67: Rico had time on his hands, not 'waiting for my moment'."
+ },
+ {
+  "file": "1260",
+  "block": 88,
+  "old": "advice from a man who's\nbut a stranger to you.",
+  "new": "advice from a man who\nmay be a stranger to you.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "他人かもしれん男からのたった一つの忠告だ。",
+  "reason": "かもしれん = 'who may be a stranger'; Jesse concedes Billy's doubt rather than asserting he is a stranger."
+ },
+ {
+  "file": "1276",
+  "block": 19,
+  "old": "Sorry about that.",
+  "new": "This is a problem.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "結構、早かったですね。まいりましたね。",
+  "reason": "まいりましたね expresses being in a bind ('this is troublesome'), not an apology."
+ },
+ {
+  "file": "1284",
+  "block": 31,
+  "old": "built for we Etones.",
+  "new": "built for us Etones.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "我々エトーンの修練のために建てられた施設です。",
+  "reason": "Grammar: object of 'for' should be 'us Etones'."
+ },
+ {
+  "file": "1304",
+  "block": 5,
+  "old": "People who built Babel\nTower were so afraid of\ngod's revenge they ran\naway to the sky.",
+  "new": "Descendants of those who\nbuilt Babel Tower were so\nafraid of god's revenge\nthey fled to the sky.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "『バベルタワー』という塔を建てた人々の末えいは、神の怒りを恐れて、天空に逃れたといいます。",
+  "reason": "JP says it was the descendants (末えい) of the tower's builders who fled to the sky."
+ },
+ {
+  "file": "1316",
+  "block": 41,
+  "old": "Just answer him!",
+  "new": "Answer me!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "答えろ！何故“こんなまだるっこしいやり方”をしやがった！",
+  "reason": "Jesse is demanding Stone answer his own question (why the roundabout method), right after cutting Stone off from telling Billy; 'answer him' contradicts that."
+ },
+ {
+  "file": "1326",
+  "block": 17,
+  "old": "It does not seem\npossible to get to\nthe Gate from here.<New>\nLet us think of\nsome other way.",
+  "new": "The Gate is under\nthe shaft.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ゲートは、あのシャフトの下にあります。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes."
+ },
+ {
+  "file": "1326",
+  "block": 19,
+  "old": "The Gate is under\nthe shaft.",
+  "new": "It does not seem\npossible to get to\nthe Gate from here.<New>\nLet us think of\nsome other way.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ここからゲートへ向かうのは無理のようですね。他の方法を考えましょう。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes. Adds the <New> the moved text already had in block 17."
+ },
+ {
+  "file": "1326",
+  "block": 20,
+  "old": "It does not seem\npossible to go to\nthe gate from here.<New>\nLet us think of\nsome other way.",
+  "new": "The Gate is under\nthe shaft.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ゲートは、あのシャフトの下にあります。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes."
+ },
+ {
+  "file": "1326",
+  "block": 22,
+  "old": "The gate is under\nthe shaft.",
+  "new": "It does not seem\npossible to get to\nthe Gate from here.<New>\nLet us think of\nsome other way.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ここからゲートへ向かうのは無理のようですね。他の方法を考えましょう。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes. Adds a <New> to fit (same layout as block 17)."
+ },
+ {
+  "file": "1326",
+  "block": 31,
+  "old": "...And it seems to\nbe a fair distance to\nreach the Gate...",
+  "new": "I understand there's\nsupposed to be a Gate\nunder the shaft in back.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "奥のシャフトの下にゲートがあるという事ですが。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes. Billy's three PW lines are rotated by one box."
+ },
+ {
+  "file": "1326",
+  "block": 32,
+  "old": "Heading to the Gate from\nhere is unthinkable...\nLet's find some other way.",
+  "new": "...And it seems to\nbe a fair distance to\nreach the Gate...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……で、目指すゲートにたどり着くには、少々距離があるようですが。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes. Billy's three PW lines are rotated by one box."
+ },
+ {
+  "file": "1326",
+  "block": 33,
+  "old": "I understand there's\nsupposed to be a Gate\nunder the shaft in back.",
+  "new": "Heading to the Gate from\nhere is unthinkable...\nLet's find some other way.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "やはり、ここからゲートへ向かうのは無理なようですね。他の方法を探しましょう。",
+  "reason": "PW text in this box belongs to a different box: the JP lines go 'Gate is under the shaft' -> 'how do we get there?' -> 'impossible, find another way' (as for every other party member), but PW has them out of order, so the conversation plays back to front. Restores the order to match the JP boxes. Billy's three PW lines are rotated by one box."
+ },
+ {
+  "file": "1326",
+  "block": 50,
+  "old": "So the gate",
+  "new": "So the Gate",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "目指すゲートは、あのシャフトの下ですね。",
+  "reason": "Every other line in this file capitalizes 'Gate' for this specific Gate."
+ },
+ {
+  "file": "1338",
+  "block": 6,
+  "old": "Engineering, ready for a\nfull demonstration. Main\nship, military units are\non standby.",
+  "new": "Engines are clear for\nfull output. Ship is clear\nfor combat maneuvers.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "機関、全力発揮問題なし。本艦、戦闘機動に支障なし。",
+  "reason": "JP is a status report: engines have no problem running at full power, and the ship has no impediment to combat maneuvering. 'Full demonstration' and 'military units on standby' are wrong."
+ },
+ {
+  "file": "1364",
+  "block": 24,
+  "old": "You who tries",
+  "new": "You who try",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "するあなた方の行為は……",
+  "reason": "Grammar: 'you who try' (addressed to Stone and his people, あなた方)."
+ },
+ {
+  "file": "1382",
+  "block": 20,
+  "old": "I will give you\nthe power!",
+  "new": "I will give you\nmy true power!",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "我が真の力を与えてやろう！",
+  "reason": "JP says 'my TRUE power', which is the point of the contrast with Stone's 'fake power' in the preceding lines."
+ },
+ {
+  "file": "1382",
+  "block": 28,
+  "old": "stole the Racquel I loved,",
+  "new": "stole Racquel, my lover,",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "愛しあっていたラケルを　ケモノのように奪ったあげく、",
+  "reason": "JP: 'Racquel, with whom I was in love (mutually)'. Stone's claim that the love was mutual is what Jesse later mocks ('You talk as if you and Racquel were in love?'); PW makes it one-sided."
+ },
+ {
+  "file": "1406",
+  "block": 2,
+  "old": "get to this point.",
+  "new": "reach us here.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "去年の今頃はここまで戦場になるんじゃないかと気が気でなかった",
+  "reason": "JP: worried that the fighting would reach this far (that this area would become a battlefield), which Elly answers with 'at least we stayed out of it'. 'Get to this point' reads as escalation."
+ },
+ {
+  "file": "1408",
+  "block": 6,
+  "old": "five other people are\ndying.",
+  "new": "five other people have\ndied.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "うちの病院だけでも、他に5人も死んでる。",
+  "reason": "JP: five others have already died in their hospital alone, not 'are dying'."
+ },
+ {
+  "file": "1416",
+  "block": 3,
+  "old": "Why on earth was this \nhuge thing built here?",
+  "new": "How on earth did they\nbuild this huge thing here?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "こんな巨大なものを一体どうやって、ここに建てたんだ？",
+  "reason": "JP どうやって asks HOW it was built here, not why."
+ },
+ {
+  "file": "1440",
+  "block": 16,
+  "old": "...Only one shot left,<Delay 30>\nDo not<Delay 20>...miss...",
+  "new": "...Even the last shot<Delay 30>\nmissed as well<Delay 20>...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "……最後の一発も、はずしてしまいましたね……。",
+  "reason": "JP: 'You missed the last shot as well...' - this is the failure line leading into 'Our plan failed', not a plea not to miss."
+ },
+ {
+  "file": "1446",
+  "block": 12,
+  "old": "<Seibzehn> and I.",
+  "new": "<Seibzehn> and me.",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "私とこのゼプツェンが排除します。",
+  "reason": "Grammar: object of 'removed by' should be 'me'."
+ },
+ {
+  "file": "1454",
+  "block": 16,
+  "old": "After all, pain only\ncauses more pain and\nsadness...",
+  "new": "After all, hatred only\nbreeds more hatred and\nsadness...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "しょせん憎しみは、新たな憎しみと哀しみしか生みはしないよ……。",
+  "reason": "JP is about hatred breeding hatred (憎しみ), not pain; fits the theme of the city (echoes of hatred) and 'those up there' who don't get it."
+ },
+ {
+  "file": "1454",
+  "block": 26,
+  "old": "Being able to observe may\nhave been a reward for\nthose people here.",
+  "new": "Perhaps watching over it\nall was the penance laid\nupon the people here.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "見守り続けることが、ここの人たちにかせられた、報いだったのかもしれない。",
+  "reason": "JP: continuing to watch over the world may have been the retribution imposed (課せられた報い) on Shevat's people, following 'that's all they could do' after losing their power. 'Reward' reverses the polarity."
+ },
+ {
+  "file": "1456",
+  "block": 12,
+  "old": "   Never give up!",
+  "new": "   Don't make empty promises!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ないソデ　ふるな！",
+  "reason": "ないソデ（を）ふるな ('don't wave sleeves you don't have') means don't promise/offer what you can't deliver; 'Never give up!' is unrelated."
+ },
+ {
+  "file": "1456",
+  "block": 12,
+  "old": "   Don't listen to complaints!",
+  "new": "   No whining!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "泣き言は聞かない！",
+  "reason": "The rule means 'We won't listen to whining', i.e. no whining; PW turns it into an instruction to ignore other people's complaints."
+ },
+ {
+  "file": "1456",
+  "block": 17,
+  "old": "on\nthe same boat.",
+  "new": "in\nthe same boat.",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "これからは同じ穴のタヌキツネ",
+  "reason": "The idiom is 'in the same boat'."
+ },
+ {
+  "file": "1456",
+  "block": 26,
+  "old": "me but, I am the one and \nonly hope for Shevat.\nI am the secret agent man...",
+  "new": "me, but I'm a secret agent\nfor Shevat, mankind's last\nhope...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "俺様はな、人類最後の希望の星シェバトの極密ちょーほー部員……",
+  "reason": "JP: he is a top-secret intelligence agent of Shevat, 'humanity's last star of hope'. It is Shevat that is the last hope, not him."
+ },
+ {
+  "file": "1466",
+  "block": 9,
+  "old": "\"...<Delay 20>\nIs something out of the\nordinary?\"",
+  "new": "\"...<Delay 20> Is that so\nunusual? They're living\nthings, just like humans.\"",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "なにかめずらしいのか？　人間とおなじ生き物だぞ。",
+  "reason": "Emeralda's second sentence ('They're living creatures, the same as humans') is missing; it is the point of her line."
+ },
+ {
+  "file": "1476",
+  "block": 5,
+  "old": "Queen Zephyr will listen\nto your wishes and show",
+  "new": "Queen Zephyr will answer\nyour questions and show",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ゼファー女王ならば、あなた方の問いにこたえ、進むべき道をさししめしてくださるでしょう。",
+  "reason": "問いにこたえ = she will answer your questions, not listen to your wishes."
+ },
+ {
+  "file": "1488",
+  "block": 29,
+  "old": "both you and I.",
+  "new": "both you and me.",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "このギアが私と貴様の接点であるとも知らずに。",
+  "reason": "Object of the preposition 'to' should be 'you and me'."
+ },
+ {
+  "file": "1488",
+  "block": 33,
+  "old": "So you're the beloved\ndaughter, for whose sake\nhe offered to undertake\nthat difficult task...",
+  "new": "So you're the beloved\ndaughter that Nikola\nrisked his life to help\nescape...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "おまえが、ニコラが身をていして逃がした愛娘ってわけか……。",
+  "reason": "JP: the beloved daughter whom Nikola let escape at the risk of his own body/life. PW invents an unspecified 'difficult task'; the escape (told by Maria in Block 49) is lost."
+ },
+ {
+  "file": "1488",
+  "block": 53,
+  "old": "We restored the Yggdrasil\nto perfection.",
+  "new": "The Yggdrasil's been fully\nupgraded.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ユグドラの方はバッチリ改造しといたんで、もういつだって飛べるよ。",
+  "reason": "改造 = modify/remodel: the mechanics have refitted the Yggdrasil (so it can now fly), not restored it."
+ },
+ {
+  "file": "1496",
+  "block": 3,
+  "old": "open....\"",
+  "new": "open...\"",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "……開かないな。",
+  "reason": "Four-dot ellipsis; the style guide uses three dots."
+ },
+ {
+  "file": "1496",
+  "block": 8,
+  "old": "open....\"",
+  "new": "open...\"",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "開かないようですね……。",
+  "reason": "Four-dot ellipsis; the style guide uses three dots."
+ },
+ {
+  "file": "1496",
+  "block": 12,
+  "old": "open....?\"",
+  "new": "open...?\"",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "開かないでチュ～。",
+  "reason": "Four-dot ellipsis before the question mark; should be '...?'."
+ },
+ {
+  "file": "1496",
+  "block": 18,
+  "old": "won't open....",
+  "new": "won't open...",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "そこのドアが開かなくてよ……。",
+  "reason": "Four-dot ellipsis; the style guide uses three dots."
+ },
+ {
+  "file": "1512",
+  "block": 3,
+  "old": "\"513...!?",
+  "new": "\"522...!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "522才……！？",
+  "reason": "The Japanese gives Zephyr's age as 522, not 513 (the 1998 figure). Change only if 513 was not a deliberate project choice; keep consistent with block 41."
+ },
+ {
+  "file": "1512",
+  "block": 41,
+  "old": "513 years old.",
+  "new": "522 years old.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "実際私は522才になるのですよ。",
+  "reason": "Japanese says she is actually 522 years old. Keep consistent with block 3."
+ },
+ {
+  "file": "1512",
+  "block": 104,
+  "old": "whether Fei is a threat\nto the world or not.",
+  "new": "whether Fei is the one\nwho will destroy the world.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "フェイが世界を滅ぼす者であるかそうでないかを見極めて欲しいと",
+  "reason": "Cain wants to determine whether Fei is 'the one who will destroy the world', a specific role, not just a generic 'threat'."
+ },
+ {
+  "file": "1512",
+  "block": 105,
+  "old": "the base component of\nthe revitalized Id\npersonality...",
+  "new": "the blank base component\nof Id's personality...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "まっさらとなったイドの人格の基盤部分",
+  "reason": "まっさら means wiped clean/blank: with the emotional part sealed, Id's base personality was left blank. 'Revitalized' says the opposite."
+ },
+ {
+  "file": "1512",
+  "block": 105,
+  "old": "There is no way for Fei to\nknow he did not exist prior\nto Id being sealed away.",
+  "new": "The current Fei did not\nexist before Id was sealed,\nso he can't know them.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "イドが封印される前には存在していなかった今のフェイが知るはずがない。イドが記憶を渡さない限りね。",
+  "reason": "JP: the current Fei, who did not exist before Id was sealed, cannot know those memories (unless Id hands them over). PW says Fei can't know that he didn't exist, which garbles the logic."
+ },
+ {
+  "file": "1518",
+  "block": 4,
+  "old": "To better understand the\nmeaning of death...",
+  "new": "So that they can cheat\ndeath...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "死の裏をかくために……。",
+  "reason": "死の裏をかく means to outwit/cheat death, not to understand its meaning."
+ },
+ {
+  "file": "1524",
+  "block": 6,
+  "old": "He must know a way to\nnegate the Limiters.",
+  "new": "He must know a way to\nundo Limiters imprinted\nat the molecular level.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "彼なら、分子レベルですりこまれた刻印《リミッター》を解除するすべも知っているにちがいないわい。",
+  "reason": "The JP specifies the Limiters are imprinted at the molecular level, tying into Melchior and Karellen's molecular engineering (block 13); PW drops it."
+ },
+ {
+  "file": "1528",
+  "block": 8,
+  "old": "the rest of the\nour comrades",
+  "new": "the rest of\nour comrades",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "わずかな同志と共に",
+  "reason": "Doubled article: 'the rest of the our comrades'."
+ },
+ {
+  "file": "1532",
+  "block": 1,
+  "old": "I don't know,<Delay 10> but her",
+  "new": "She didn't know,<Delay 10> but her",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "自分の知らないこととは言え、仲間を裏切り、見殺しにした……",
+  "reason": "'Without knowing it' refers to Zephyr: although she didn't know, her comrades were betrayed and left to die. PW makes the speaker say 'I don't know'."
+ },
+ {
+  "file": "1536",
+  "block": 1,
+  "old": "garden and ate a fruit\nwhich bestowed upon them\ntremendous intelligence\nand power.",
+  "new": "garden and ate the fruit of\nthe twin trees, 'Raziel',\nwhich bestowed tremendous\nintelligence and power.",
+  "category": "omission",
+  "confidence": "high",
+  "jp": "そこに生えている“ラジエル”と呼ばれる二对の樹の果実を口にし、おおいなる知恵と力を手にいれた。",
+  "reason": "JP names the pair of trees 'Raziel' whose fruit humans ate, an important lore reference (Raziel recurs later); PW drops it. Same line count."
+ },
+ {
+  "file": "1536",
+  "block": 4,
+  "old": "righteous are born again,",
+  "new": "righteous fill the earth,",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "義人の子がふたたび地にみちみちた時",
+  "reason": "The legend says when the children of the righteous once again fill the earth, not when they are 'born again'."
+ },
+ {
+  "file": "1544",
+  "block": 2,
+  "old": "I can still picture the",
+  "new": "I can just picture the",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ゼファーや取りまきどもの　うろたえぶりが目に浮かぶようだよ。",
+  "reason": "He is imagining how flustered Zephyr and her lot must be now at seeing a girl identical to Sophia, not recalling a past scene ('still')."
+ },
+ {
+  "file": "1544",
+  "block": 3,
+  "old": "I want to you to be",
+  "new": "I want you to be",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "若いの、気をつけるがいい。",
+  "reason": "Stray 'to': 'I want to you to be careful'."
+ },
+ {
+  "file": "1552",
+  "block": 28,
+  "old": "But Achtzehn wasn't\ncompleted...!",
+  "new": "I can't believe Achtzehn\nwas completed...!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "でもまさか、アハツェンが完成されていたなんて……！",
+  "reason": "Maria is shocked that Achtzehn was in fact completed; PW states it wasn't completed while it stands in front of her."
+ },
+ {
+  "file": "1552",
+  "block": 88,
+  "old": "The large Gear seems\nto be a support unit\nthat debilitates\nthe opposition,<New>\nallowing the main\nsquad to quickly\ndefeat them.",
+  "new": "Judging by its shape,\nthat large Gear seems\nto be built for raw\npower.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "こちらの大型ギアは、形状からして　パワー主体のヤツらしいですね。",
+  "reason": "JP: judging by its shape, Generator 4's large Gear is a power type (matching the 'Power Gear' enemy-info menu, block 96). PW calls it a debuffing support unit. Removes one <New> since the content now fits one page."
+ },
+ {
+  "file": "1566",
+  "block": 6,
+  "old": "\"Hmm, no ventilation.<Delay 30>",
+  "new": "\"I see, a sealed room.<Delay 30>",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "なるほど、開かずの間ですね。そのせいか、少々カビ臭いですね。",
+  "reason": "開かずの間 means a room that is never opened (a sealed room), not a lack of ventilation; that is why it smells moldy."
+ },
+ {
+  "file": "1570",
+  "block": 124,
+  "old": "No wonder my ancestors used\nit for generations to guard\nthe great treasure.",
+  "new": "After all, it holds the\ngreat treasure my ancestors\nguarded for generations.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "なんてったって俺のご先祖様が代々守ってきた至宝がつまれているんだからなー。",
+  "reason": "JP says the fortress is loaded with the treasure his ancestors guarded for generations (that's why it's the real thing), not that the ancestors used the fort to guard it."
+ },
+ {
+  "file": "1572",
+  "block": 22,
+  "old": "You guys had better just\ngo straight back to where\nyou belong, too!",
+  "new": "You guys had better hurry\nup and join your friends!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お前達もさっさと仲間のところへ行っちまうがいい！",
+  "reason": "Throne tells them to hurry and go join their comrades (who he believes are being finished off at Babel Tower), a death threat; 'go back to where you belong' loses this. 'had better' kept for Seraphita's echo."
+ },
+ {
+  "file": "1588",
+  "block": 7,
+  "old": "Fei!",
+  "new": "Fei",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "フェイ\n「ああ！",
+  "reason": "Stray exclamation mark in the speaker name line."
+ },
+ {
+  "file": "1588",
+  "block": 88,
+  "old": "...What d'you mean!?",
+  "new": "Sigurd\n\"...What d'you mean!?\"",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "シグルド\n「……どういうことですか！？",
+  "reason": "JP names Sigurd as speaker here; Bart has already identified him ('Sig!?') in the previous line, matching how Citan is named once identified (block 95). Quotes added per style guide."
+ },
+ {
+  "file": "1596",
+  "block": 53,
+  "old": "\"Isn't the fire awfully\nclose to the...!?\"",
+  "new": "\"The Gate's catching\nfire...!?\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "障壁《ゲート》に火が……！？",
+  "reason": "JP says fire has reached the barrier (Gate); PW never mentions the Gate and only says the fire is close to something."
+ },
+ {
+  "file": "1616",
+  "block": 4,
+  "old": "I am Kenren, one of the\nfollowers of Lord Karellen.",
+  "new": "I am Kenren, foremost of\nLord Karellen's followers.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "私はケンレン。カレルレン様の一の従者にてございます。",
+  "reason": "一の従者 means his first/foremost retainer, not merely one of his followers."
+ },
+ {
+  "file": "1616",
+  "block": 6,
+  "old": "Most unusual.",
+  "new": "It must be serious.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ほお、あなたがカール達を差し置いて地上に出向くとは……。余程のことなのでしょうね。",
+  "reason": "Citan infers that it must be a matter of great importance for Kenren to come instead of Carl's group; 'Most unusual' drops that inference."
+ },
+ {
+  "file": "1616",
+  "block": 12,
+  "old": "absent-minded man would",
+  "new": "unhinged man would",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "前後不覚のあの男に出られては台無しになってしまいます。",
+  "reason": "前後不覚 refers to losing all self-control (Ramsus' rages), not being absent-minded/forgetful."
+ },
+ {
+  "file": "1620",
+  "block": 24,
+  "old": "Until recently, I was\nbusy creating ones\nseveral times this size.",
+  "new": "Until recently, the best I\ncould make were ones\ndozens of times this size.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "以前はこれの数十倍のサイズのものを作るのが精いっぱいだったが、",
+  "reason": "JP says previously the best he could manage were ones dozens (数十倍) of times this size, not 'several times', and 精いっぱい means that was his limit, not that he was busy."
+ },
+ {
+  "file": "1624",
+  "block": 6,
+  "old": "As a service to citizens,\nwe are now accepting\nmarriage-partner data.",
+  "new": "I'm about to receive my\nmarriage-partner data\nfrom Citizen Services.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "今からシチズンサービスで結婚相手のデータを受け取るんだ。",
+  "reason": "The NPC is a citizen about to receive their own marriage-partner data via Citizen Services, not an official accepting data; the rest of the line ('we are the seed...') is also the citizen speaking."
+ },
+ {
+  "file": "1624",
+  "block": 12,
+  "old": "Those savages are really\nin trouble now.",
+  "new": "This is why savages\nare such a nuisance.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "これだからヤバン人は困るんだ。",
+  "reason": "これだから〜は困る is a complaint ('this is the trouble with savages'); PW reverses it into the savages being in trouble."
+ },
+ {
+  "file": "1624",
+  "block": 25,
+  "old": "ones Karellen mentioned?",
+  "new": "surface dwellers Karellen\nmentioned?",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "もしかしてカレルレン様がおっしゃってた地上人だったのかしら？",
+  "reason": "JP specifies they might be the surface dwellers Karellen mentioned; PW drops who they are, which also sets up the next line about her being Third Class."
+ },
+ {
+  "file": "1624",
+  "block": 32,
+  "old": "There will be traffic\nduring the fleet review.",
+  "new": "Traffic control starts\nsoon for the fleet review.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "もうすぐ観艦式のため交通整理が始まる。",
+  "reason": "交通整理 is traffic control (the reason the guard blocks the way), and it is about to begin; PW says there will be traffic."
+ },
+ {
+  "file": "1624",
+  "block": 34,
+  "old": "It's their job to keep\nthe citizens happy.",
+  "new": "Having fun is a citizen's\nduty, you know.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "シチズンが樂しむのは義務なのよ。",
+  "reason": "JP says it is the citizens' duty to enjoy themselves, a deliberate dystopian touch; PW turns it into Central Control's job to keep citizens happy."
+ },
+ {
+  "file": "1624",
+  "block": 55,
+  "old": "this festival.",
+  "new": "to this festival.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "そんなお祭りごとにつきあってる暇はないはずだ。",
+  "reason": "Missing 'to': 'have time to go this festival'."
+ },
+ {
+  "file": "1644",
+  "block": 18,
+  "old": "'rearranged', or \nre-educated.",
+  "new": "'rearranged' <-->\nre-educated.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "“リアレンジ”と呼ばれる再教育を施される。",
+  "reason": "JP says they get re-education called 'rearrange'; the two are the same thing, not alternatives as 'or' implies."
+ },
+ {
+  "file": "1650",
+  "block": 6,
+  "old": "If you lend a hand, we'd be set!",
+  "new": "You're tough, you'll be fine!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あの腕っぷしならきっと大丈夫だぜ！",
+  "reason": "腕っぷし is Fei's fighting strength: 'with muscle like that you'll surely be fine'. PW misreads 腕 as 'lend a hand'."
+ },
+ {
+  "file": "1650",
+  "block": 24,
+  "old": "If you could lend a hand,\nwe'd be set!",
+  "new": "You're tough, so you'll\nbe fine for sure!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あの腕っぷしならきっと大丈夫だぜ！",
+  "reason": "Same line as block 6: Samson says Fei's fighting strength means he'll surely make it, not that a helping hand would settle things."
+ },
+ {
+  "file": "1658",
+  "block": 1,
+  "old": "Let's move on and be\ndone with this place!",
+  "new": "Let's stick together\nwhile we go through here!",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "ここはまとまって進もう！",
+  "reason": "まとまって進む means advancing together as a group (at the checkpoint you must stay close to avoid detection); PW's line says something else."
+ },
+ {
+  "file": "1662",
+  "block": 15,
+  "old": "hard work.\"",
+  "new": "hard work.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ご苦労様です。",
+  "reason": "Stray closing double quote on an unnamed NPC line with no opening quote; per the style guide unnamed speakers get no quotes."
+ },
+ {
+  "file": "1662",
+  "block": 25,
+  "old": "It's uncertain",
+  "new": "It's gotten pretty bad",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "かなりまずいことになったわ",
+  "reason": "The second choice means 'things have gotten pretty bad', which is what the NPC's reply (block 27, 'quit jokin', that's impossible!') responds to; 'uncertain' doesn't fit."
+ },
+ {
+  "file": "1670",
+  "block": 2,
+  "old": "They already have great\ndescendants, what more do\nthey want?",
+  "new": "Still, I've left behind\nfine descendants, so it'd\nbe greedy to ask for more.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "まぁ、スンバラしい子孫を残す事も出来たことだし、そこまで望むのはゼイタクじゃて。",
+  "reason": "The old man is resigning himself: he has managed to leave fine descendants, so wishing to escape aging too would be a luxury. PW makes it a complaint about the powerful."
+ },
+ {
+  "file": "1688",
+  "block": 30,
+  "old": "Who cares...!?",
+  "new": "But...!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "だって……！",
+  "reason": "だって is a protesting 'But...!'; 'Who cares' makes Elly dismissive of her mother, which the JP doesn't say (and she apologizes for her words, not for not caring)."
+ },
+ {
+  "file": "1822",
+  "block": 4,
+  "old": "weaker, so...<New>\nhe's looking more like\n'his old self'...",
+  "new": "weaker, and...<New>\nthe situation was also\nsimilar to 'back then'...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "フェイの精神的エネルギーもかなり弱まっていたみたいだし、それに……“昔と”状況も似ていたしね……",
+  "reason": "Myyah says Id will stay out because Fei's mental energy was weakened AND the situation resembled 'the past' (the trauma that first split him). PW instead says Fei 'looks like his old self', which the JP does not say."
+ },
+ {
+  "file": "1710",
+  "block": 12,
+  "old": "the secret service.",
+  "new": "the Special Forces.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "彼が現在特設外務局の事務職に就いているのには、そういったいきさつがあるんですよ。",
+  "reason": "特設外務局 is Geburah's formal name, which PW renders 'Special Forces' elsewhere (0654, 0936, 1662). 'Secret service' hides that Erich now works an admin job in Geburah itself."
+ },
+ {
+  "file": "1764",
+  "block": 106,
+  "old": "A coward unworthy of\n'the being known as Fei'.",
+  "new": "A coward unworthy of\nbeing the master of\n'the being known as Fei'.",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "“フェイという存在”の主たる資格もない臆病者だ。",
+  "reason": "主たる資格 = the right to be the main/master personality of 'the being called Fei'. Id's point is that Fei doesn't deserve to be the primary self; PW drops 'master'."
+ },
+ {
+  "file": "1792",
+  "block": 20,
+  "old": "Just him...\nIf I could only...",
+  "new": "Him, at least...\nwith my own hands...",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "黙れっ！　奴だけは俺のこの手で……",
+  "reason": "JP: 'Him, at least, with my own hands...' PW's 'If I could only...' drops 'with my own hands', which is Ramsus's recurring line (cf. 1832 block 16)."
+ },
+ {
+  "file": "1820",
+  "block": 51,
+  "old": "daughter born to Medina\nand I...",
+  "new": "daughter born to Medina\nand me...",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "お前は私とメディーナの間に生まれた娘だよ……",
+  "reason": "Grammar: the object of 'to' should be 'me' ('born to Medina and me'). The meaning is unchanged."
+ },
+ {
+  "file": "1764",
+  "block": 78,
+  "old": "that absolution...",
+  "new": "that indulgence...",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "その免罪符《インダルジェンス》を得られる……",
+  "reason": "The JP glosses 免罪符 with the reading 'Indulgence' (the Church's sale of sin remission), and this is the term's only furigana appearance. The style guide says to keep the reading; 'absolution' drops it."
+ },
+ {
+  "file": "1836",
+  "block": 28,
+  "old": "listen to this lot who once\nturned their backs on you!\"",
+  "new": "listen to this lot who once\ntried to bury you!\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "一度はお前を葬り去ろうとした\nこやつらの言うことなんぞ\n聞く必要はないぞ、フェイ！",
+  "reason": "葬り去ろうとした means they once tried to bury/do away with Fei (Shevat's carbonite sealing), an active act, not merely turning their backs on him."
+ },
+ {
+  "file": "1836",
+  "block": 40,
+  "old": "\"That is right.<New>",
+  "new": "\"That is right.\nThe Omnigear <Fenrir>.<New>",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "ギア·バーラー\n“<name 22>”。",
+  "reason": "Citan names his Omnigear here (Omnigear \"Fenrir\", via the gear-name pointer); PW drops the name entirely."
+ },
+ {
+  "file": "1838",
+  "block": 46,
+  "old": "in yourself or not,<Delay 10> we're\ndepending on you.\"",
+  "new": "in yourself or not,<Delay 10> that's\nup to you.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "まぁ、信ずるも信ぜずも\nお前さん次第じゃ。",
+  "reason": "お前さん次第 = 'is up to you'; Torah says whether to believe is Fei's own call, not that they are depending on him."
+ },
+ {
+  "file": "1840",
+  "block": 76,
+  "old": "\"You're right...<Delay 30>",
+  "new": "\"Let's see...<Delay 30>",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そうね……\n女としてのわがまま……かな。",
+  "reason": "Answering Breuer's 'why' question, そうね is a musing 'Let's see/Hmm', not agreement; 'You're right' makes no sense as a reply to a why-question."
+ },
+ {
+  "file": "1842",
+  "block": 48,
+  "old": "We'll make you eat\nthose words.\"",
+  "new": "I'll throw those words\nright back at you.\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "その言葉、そのまま返してやるよ。",
+  "reason": "そのまま返してやる = 'I'll give those words right back to you', i.e. Fei's side should turn back if things get dangerous; 'make you eat those words' (prove you wrong) is a different meaning."
+ },
+ {
+  "file": "1842",
+  "block": 69,
+  "old": "Your Highness",
+  "new": "Your Majesty",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "貴女もそこに？",
+  "reason": "Zephyr is the Queen and Citan addresses her as 'Your Majesty' earlier in the same file (Block 56); 'Your Highness' is inconsistent."
+ },
+ {
+  "file": "1844",
+  "block": 1,
+  "old": "to be many thousands of",
+  "new": "to be tens of thousands of",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "船体の状態からこの船が\n数万年の昔のものであることが判明した。",
+  "reason": "数万年 = tens of thousands of years, not 'many thousands'."
+ },
+ {
+  "file": "1844",
+  "block": 32,
+  "old": "to the west of here.",
+  "new": "to the southwest of here.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "場所はここより南西の\n『ゴルゴダの』上。",
+  "reason": "南西 = southwest; PW says west."
+ },
+ {
+  "file": "1844",
+  "block": 33,
+  "old": "\"Gather up all the\nwrecked Gears!\"",
+  "new": "\"Restrain them, wrecked\nGears and all!\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "壊れたギアごと束しておけ！",
+  "reason": "〜ごと(拘)束しておけ = 'restrain/bind them, broken Gears and all'; the order is to take the party prisoner, not just gather up the Gears."
+ },
+ {
+  "file": "1844",
+  "block": 43,
+  "old": "rather than on a miracle?\"",
+  "new": "on a so-called 'miracle'?\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "それよりはわずかな可能性、\n奇跡とやらに希望を賭けてみる方が\n得策ではないか？",
+  "reason": "Karellen equates the slim chance with a so-called miracle (わずかな可能性、奇跡とやら) and contrasts it with fleeing; PW sets the slight chance against a miracle, reversing the logic."
+ },
+ {
+  "file": "1856",
+  "block": 1,
+  "old": "Though no one had spoken it\naloud, the word spread...",
+  "new": "No one knew who'd started it,\nbut the word spread...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "誰が言いだした訳でもなく\nその情報は広まっていった……。",
+  "reason": "誰が言いだした訳でもなく = 'without anyone in particular having started it'; saying no one spoke it aloud contradicts the word spreading."
+ },
+ {
+  "file": "1862",
+  "block": 7,
+  "old": "Dominia\n\"Elements",
+  "new": "Everyone\n\"Elements",
+  "category": "speaker",
+  "confidence": "medium",
+  "jp": "全員\n「エレメンツフォーメーション！",
+  "reason": "The JP speaker is 全員 (everyone/all four Elements), not Dominia alone."
+ },
+ {
+  "file": "1892",
+  "block": 9,
+  "old": "Ten steps west.",
+  "new": "ten steps west.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "南に4歩、西に10歩",
+  "reason": "Mid-sentence after a comma; 'Ten' should not be capitalized."
+ },
+ {
+  "file": "1910",
+  "block": 1,
+  "old": "intercepting forces, we set\nour sights on the surfaced\ncontinent, Machanon.",
+  "new": "intercepting forces, we\nlanded on the surfaced\ncontinent, Machanon.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "浮上した大陸、マハノンへと取り付いた。",
+  "reason": "取り付いた means they reached and got onto the risen continent, not merely 'set their sights on' it; the next lines describe them already examining the ship."
+ },
+ {
+  "file": "1910",
+  "block": 3,
+  "old": "to be many thousands of\nyears old.",
+  "new": "to be 10,000 years old.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "この船が一万年の昔のものであることが判明した。",
+  "reason": "JP gives a specific age (10,000 years), matching the next screen; 'many thousands' loses the figure."
+ },
+ {
+  "file": "1916",
+  "block": 8,
+  "old": "In its center was\na pair of faintly",
+  "new": "In its center were\ntwo pairs of faintly",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "その中央にはあわく光る二对の物体があった。",
+  "reason": "二対 means two pairs, not one pair."
+ },
+ {
+  "file": "1918",
+  "block": 6,
+  "old": "To eliminate your foe\nis to attain the first\nsublimation of that drive.",
+  "new": "Only by eliminating your\nfoe can that drive\nbe sublimated.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "相手を滅することによって初めて得られる欲動の昇か。",
+  "reason": "初めて here means 'only (by doing X)', i.e. the drive is sublimated only by destroying the foe; it is not a 'first sublimation'."
+ },
+ {
+  "file": "1918",
+  "block": 6,
+  "old": "The symbol of desire,<Delay 10>",
+  "new": "The symbol you desired,<Delay 10>",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お前が望み、持ちえた生来の暗殺者としての印なのだ！",
+  "reason": "Grahf says this is the mark of a born assassin that Fei himself wished for and came to possess, not a 'symbol of desire'."
+ },
+ {
+  "file": "1928",
+  "block": 6,
+  "old": "Then this thing having\na nap is <Weltall>?",
+  "new": "Then this big, hulking\nthing is <Weltall>?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "じゃあこのごっチュいのは、<name 11>しゃん？",
+  "reason": "ごっチュい is Chu-Chu's lisp for ごつい (huge, rugged/hulking); nothing about napping."
+ },
+ {
+  "file": "1934",
+  "block": 4,
+  "old": "He is our likeness,",
+  "new": "He is our other half,",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "500年前に分かれた俺達の半身、残留思念だ。",
+  "reason": "半身 is 'other half' (the half that split off 500 years ago), not a 'likeness'."
+ },
+ {
+  "file": "1936",
+  "block": 2,
+  "old": "...Nowhere that concerns you.",
+  "new": "...How uncalled for.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "……余計な事を。自分のためだけに呼び込んだか……。",
+  "reason": "余計な事を is Id's annoyed 'something uncalled-for was done' (referring to the coward bringing Fei in), not a dismissive answer about the place."
+ },
+ {
+  "file": "1936",
+  "block": 27,
+  "old": "We wouldn't solve\nanything by trying\nto trick you.",
+  "new": "We won't solve\nanything by\ncarrying on like this.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "イド……もうやめよう。俺達がこんなことをしていたって何の解決もないんだ。",
+  "reason": "JP: 'Let's stop. Nothing gets solved by us doing this (fighting).' There is no denial of tricking Id."
+ },
+ {
+  "file": "1938",
+  "block": 39,
+  "old": "Even if, prior to the\nfusion of Khan and I,<New>\nyou'd had your awakening,\nunified, and gained the\nassociated memories,<New>\nbeing robbed of your\nmemory at that point\nyou would've had no\nway of knowing.",
+  "new": "Even though you've had\nyour awakening,<New>\nunified, and gained the\nassociated memories,<New>\nyou were robbed of your\nmemory before Khan and\nI fused, so you had no\nway of knowing.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "覚覚、統合し、連なる記憶を得たといっても、私とカーンの融合前に、その時点での記憶を奪われたお前が知るよしもなかったろう。",
+  "reason": "'Before the fusion of Khan and me' modifies Fei's memory being stolen, not a hypothetical earlier awakening: even having awakened, Fei couldn't know because he lost those memories before the fusion. Also fixes 'of Khan and I'."
+ },
+ {
+  "file": "1938",
+  "block": 49,
+  "old": "Karen?\"",
+  "new": "your mother, Karen?\"",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "ソフィアを、母《カレン》を殺したと何故わからぬ！",
+  "reason": "JP glosses Karen as Fei's mother (母《カレン》); per the furigana rule, introduce both the relation and the name."
+ },
+ {
+  "file": "1938",
+  "block": 67,
+  "old": "Is that what you want!?",
+  "new": "What do you hope to gain!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "その理解者を、フェイをも消滅させ、お前は何を望むっ！",
+  "reason": "Khan asks what Id hopes to achieve by erasing Fei (Id then answers with his aim), not a yes/no 'is that what you want'."
+ },
+ {
+  "file": "1938",
+  "block": 85,
+  "old": "Fighting sure isn't.",
+  "new": "There's no need to fight.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "戦うことなんてないんだ。",
+  "reason": "JP: 'There's no need for us to fight.' PW instead says fighting isn't the same as becoming one."
+ },
+ {
+  "file": "1938",
+  "block": 89,
+  "old": "that I'm the likeness of\nyour divided self.",
+  "new": "that I'm your other half,\ndivided from you.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "私は分かれたお前の半身であるのもまた事実。",
+  "reason": "半身 means 'other half' (the split-off half of Lacan), not 'likeness'; consistent with 1934 block 4."
+ },
+ {
+  "file": "1938",
+  "block": 90,
+  "old": "You can destroy the\nbarrier",
+  "new": "Only you can destroy the\nbarrier",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "神の肉体を包む壁を破壊できるのは、その一部であるお前自身。",
+  "reason": "JP says the one who CAN destroy the wall is Fei himself, i.e. only he can; PW drops the exclusivity."
+ },
+ {
+  "file": "1942",
+  "block": 32,
+  "old": "Try to<Delay 5>...<Delay 5>awaken the system<Delay 5>...",
+  "new": "The system<Delay 5>...<Delay 5>is awakening<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "システム……目覚めようとして……",
+  "reason": "The fading voice says the (Deus) system is trying to awaken; PW reads as an instruction to awaken it, the opposite of the goal."
+ },
+ {
+  "file": "1944",
+  "block": 6,
+  "old": "Fei\"",
+  "new": "Fei!?\"",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "……フェイ！？",
+  "reason": "Line lacks closing punctuation; JP is a surprised 'Fei!?'."
+ },
+ {
+  "file": "1944",
+  "block": 7,
+  "old": "\"Wh-<Delay 5>What is<-->!?\"",
+  "new": "\"...<Delay 5>Where on earth\nare we?\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "……ここは一体？",
+  "reason": "This is Citan's 'where are we?' line (the others' matching blocks are 'Where are we?'/'What is this place?'); PW copied his later 'Wh-What is—!?' line (block 28, こ、これは)."
+ },
+ {
+  "file": "1958",
+  "block": 1,
+  "old": "\"A<Delay 5>",
+  "new": "Lacan\n\"A<Delay 5>",
+  "category": "speaker",
+  "confidence": "high",
+  "jp": "ラカン\n「肖像画……ですか？",
+  "reason": "The JP names Lacan as speaker (as does the identical line in 1956), and the PW box has quoted dialogue with no speaker line."
+ },
+ {
+  "file": "1982",
+  "block": 17,
+  "old": "Hans\n\"What's all",
+  "new": "Captain\n\"What's all",
+  "category": "speaker",
+  "confidence": "high",
+  "jp": "艦長\n「なーーにが『かんちょぉおーーーーー！！』だ。情けねぇ声出すんじゃねえ。",
+  "reason": "JP speaker is the Captain, who is mocking Hans for shouting 'Captaaaaain'; Hans can't be saying this."
+ },
+ {
+  "file": "1954",
+  "block": 18,
+  "old": "Aren't you pushing\nyour luck, Lacan?",
+  "new": "What more could a man\nask for, eh, Lacan?",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "男冥利に尽きるじゃないか？　ええ、ラカン。",
+  "reason": "男冥利に尽きる means 'what more could a man ask for / lucky man' (teasing that Sophia likes him), not 'pushing your luck'."
+ },
+ {
+  "file": "1952",
+  "block": 9,
+  "old": "attaches will be several\ntimes faster than that of\nan ordinary human.",
+  "new": "attaches will be twice as\nfast as an ordinary human.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "後の成長、固着するまでは常人の倍の早さとなる。",
+  "reason": "常人の倍 is 'double that of an ordinary person', not 'several times faster'."
+ },
+ {
+  "file": "1978",
+  "block": 1,
+  "old": "There may be a few things\nwe can do.",
+  "new": "Granted, there may not be\nmuch we can do.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "たしかに我々にできることは数少ないかもしれない。",
+  "reason": "JP concedes there is little they can do (数少ない), which is what the following 'But I've been a soldier...' answers; PW reverses the polarity to 'a few things'."
+ },
+ {
+  "file": "1950",
+  "block": 13,
+  "old": "scholar these days,<Delay 5> as much\nas I hate to admit it.",
+  "new": "scholar these days,<Delay 5> if I\ndo say so myself.",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "今では結構物知りになったよ。自分でいうのもなんだがな。",
+  "reason": "自分でいうのもなんだが is the modest 'if I do say so myself' about bragging, not reluctance ('as much as I hate to admit it')."
+ },
+ {
+  "file": "1964",
+  "block": 15,
+  "old": "it's ok to",
+  "new": "it's okay to",
+  "category": "style",
+  "confidence": "high",
+  "jp": "今の立場、捨ててもいいって思っている。",
+  "reason": "Style guide: always 'okay', never 'OK'/'ok'."
+ },
+ {
+  "file": "1978",
+  "block": 16,
+  "old": "but, they're",
+  "new": "but they're",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ちょっとうるさいですが、この子たちがいなければ…",
+  "reason": "Stray comma after 'but'."
+ },
+ {
+  "file": "1994",
+  "block": 4,
+  "old": "to  give",
+  "new": "to give",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "ここであきらめるって、手はないぜ。",
+  "reason": "Double space between 'to' and 'give'."
+ },
+ {
+  "file": "1994",
+  "block": 8,
+  "old": "do what\never you like.",
+  "new": "do\nwhatever you like.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "そいじゃ、まあ好きにするんだな。",
+  "reason": "'whatever' is one word; it was split as 'what ever' across the line break."
+ },
+ {
+  "file": "1994",
+  "block": 15,
+  "old": "do what\never you like.",
+  "new": "do\nwhatever you like.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "そいじゃ、まあ好きにするんだな。",
+  "reason": "Same as block 8: 'whatever' is one word."
+ },
+ {
+  "file": "2018",
+  "block": 5,
+  "old": "What, is this?",
+  "new": "What is this?",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "なにかしら、これ？",
+  "reason": "Stray comma; the other characters' versions of this line read 'What's this?'."
+ },
+ {
+  "file": "1982",
+  "block": 6,
+  "old": "I guess I've always had\nsomeone protecting me...",
+  "new": "Up until now, I always had\nsomeone protecting me...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "僕は……どうしてでしょうね。今までは守ってくれる人がいたから……",
+  "reason": "今までは = 'until now': Hans is explaining he changed because the Captain who protected him is gone; 'I've always had' implies he still does."
+ },
+ {
+  "file": "1982",
+  "block": 2,
+  "old": "you lately. I didn't know",
+  "new": "you lately? I didn't know",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "そう言えばお前、どうしたんだ？息子なんていたのか？",
+  "reason": "'So, what's happened with you lately' is a question and should end with a question mark."
+ },
+ {
+  "file": "1982",
+  "block": 27,
+  "old": "Don't worry with details!",
+  "new": "Don't worry about details!",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "まあ気にすんない、細けぇこたぁよぉ！！",
+  "reason": "'worry with' is ungrammatical; 'worry about'."
+ },
+ {
+  "file": "1946",
+  "block": 59,
+  "old": "Of course, the feelings\nof a guy like you are\ndefinitely in there, but",
+  "new": "Of course, your own\nfeelings are definitely\nin there, but",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "たしかにラカンの心情って奴が入ってることは入ってるんだろうが、でも……",
+  "reason": "って奴 here means 'this thing called (Lacan's feelings)', not 'a guy like you'; Roni is not belittling Lacan, just granting that his feelings show in the painting."
+ },
+ {
+  "file": "1946",
+  "block": 65,
+  "old": "Existence itself is\nan emptiness from the\nstart.",
+  "new": "My very existence has\nbeen empty from the\nstart.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "もともと存在自体が虚ろなんだ。死んだってかまやしない……",
+  "reason": "Lacan is talking about his own existence (continuing 自分が虚ろ from the previous box and leading into 'I don't care if I die'), not making a general claim about existence."
+ },
+ {
+  "file": "1952",
+  "block": 28,
+  "old": "Beings to take the place\nof God's original flesh,",
+  "new": "Beings to hijack God's\noriginal flesh,",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "いわば神本来の肉体を乗っ取る為の存在……",
+  "reason": "乗っ取る is to hijack/seize God's body (hence Myyah's 'Trojan horse' reply), not to replace it."
+ },
+ {
+  "file": "2002",
+  "block": 9,
+  "old": "How can that be!?",
+  "new": "How could they do this!?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "生きてるんだろ、まだ……？どうして、こんなことできるんだよ！？",
+  "reason": "Dan is outraged at whoever did this to Fei ('how can they do something like this!?'), not surprised that he is alive."
+ },
+ {
+  "file": "2002",
+  "block": 21,
+  "old": "He's long gone already.",
+  "new": "Go on, move along.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ここには、なにもないぞ。さあ、行った、行った。",
+  "reason": "さあ、行った、行った is the guard shooing the party away ('go on, off you go'); nothing about someone being long gone."
+ },
+ {
+  "file": "1996",
+  "block": 15,
+  "old": "(Yeah... Better you \nthan me... Haha!)",
+  "new": "(In spirit, anyway...)",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "サービスしちゃうから。（気持ちだけは）",
+  "reason": "The aside means the promised discount is 'in spirit only'; 'Better you than me' loses that joke and doesn't make sense here."
+ },
+ {
+  "file": "1996",
+  "block": 8,
+  "old": "god's army",
+  "new": "God's army",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "あの神の軍団に、どうやって立ち向かえばよいというのだ？",
+  "reason": "God is capitalised elsewhere in the script when referring to Deus/God; lowercase here is inconsistent."
+ },
+ {
+  "file": "2006",
+  "block": 6,
+  "old": "between him and I...",
+  "new": "between him and me...",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "あいつとは、いろいろあったから……。",
+  "reason": "Object pronoun needed: 'between him and me'."
+ },
+ {
+  "file": "2026",
+  "block": 12,
+  "old": "Ultimately, it's up to\nme, and no one but me!<Delay 20>\nOnly I can make this\nright!",
+  "new": "Ultimately, I have no one\nbut myself!<Delay 20>\nOnly I can heal myself!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "所詮、俺には、俺しかない！俺は俺によってしか癒されない！",
+  "reason": "JP: 'After all, I have no one but myself! I can only be healed by myself!' The healing idea (his wound) is lost in 'make this right'."
+ },
+ {
+  "file": "1950",
+  "block": 11,
+  "old": "a certain<Delay 10> painting?",
+  "new": "your<Delay 10> painting?",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "お前だってあるじゃないか。“絵”という立派なやつが。",
+  "reason": "“絵”という立派なやつ refers to painting as Lacan's passion (parallel to Karellen's studies), not 'a certain painting', which reads as a specific picture."
+ },
+ {
+  "file": "2034",
+  "block": 31,
+  "old": "programd to be that way.",
+  "new": "programmed to be that way.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "そうなるように遺伝子にプログラムされているの。",
+  "reason": "'programd' is a misspelling of 'programmed'."
+ },
+ {
+  "file": "2034",
+  "block": 38,
+  "old": "programd this way...",
+  "new": "programmed this way...",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "私にはそうプログラムされているだけよ……。",
+  "reason": "'programd' is a misspelling of 'programmed'."
+ },
+ {
+  "file": "2034",
+  "block": 13,
+  "old": "the ship is\nheavily damaged.",
+  "new": "the ship was\nheavily damaged.",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "でも予期せぬ創造者の抵抗にあい、船は大破。",
+  "reason": "Tense slip: the whole account is in the past tense ('tried', 'fell'), so 'is heavily damaged' should be 'was'."
+ },
+ {
+  "file": "2040",
+  "block": 24,
+  "old": "The sensors are picking\nlifesigns",
+  "new": "The sensors are picking up\nlifesigns",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "センサーがデウス内の生命反応を捉えています。",
+  "reason": "Missing word: sensors 'pick up' life signs; 'are picking lifesigns' is ungrammatical."
+ },
+ {
+  "file": "2044",
+  "block": 24,
+  "old": "<New>\nBecause that would be the\nreturn to the beginning of\neverything...",
+  "new": "",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "それがすべての原点への回帰だったから……。",
+  "reason": "This page repeats the previous page almost word for word ('a return to the starting point of everything'); the JP has the line only once. Removes the duplicate page together with its <New>."
+ },
+ {
+  "file": "2032",
+  "block": 23,
+  "old": "Thanks<Delay 5>...<Delay 5>to<Delay 5>...<Delay 5>you<Delay 5>...",
+  "new": "With<Delay 5>...<Delay 5>you<Delay 5>...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "これで……全て……の願いが……かな……う。あなたと……",
+  "reason": "Myyah's dying words end with 'あなたと……' ('With you...'/'You and...'), cut off mid-sentence; she doesn't thank him ('thanks to you' would be あなたのおかげで)."
+ },
+ {
+  "file": "2044",
+  "block": 17,
+  "old": "because they have such\ninflexible will,",
+  "new": "because they have this\nhalf-formed 'will',",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "それ故に、なまじ意志などというものがあるが故に、ヒトは悲しみとそう失を経験しなければならない",
+  "reason": "なまじ意志などというものがある means humans have a half-baked thing called 'will' at all (following 'no free will, left in an imperfect state'); nothing says their will is 'inflexible'."
+ },
+ {
+  "file": "2040",
+  "block": 17,
+  "old": "power of Xenogears <-->",
+  "new": "power of <Xenogears> <-->",
+  "category": "style",
+  "confidence": "medium",
+  "jp": "<name 26>の全ての力で",
+  "reason": "The JP uses the gear-name pointer here as in every other block of this file; PW hardcodes the name, so use the <Xenogears> pointer for consistency."
+ },
+ {
+  "file": "0810",
+  "block": 144,
+  "old": "I don't play hide-\nand-seek anymore.\nYou should quit it\nsoon too!",
+  "new": "I'll have to think of\nsomething else to play.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "何か他の遊びを考えないとなあ。",
+  "reason": "Same text as 0812#112; same fix. In this post-war file the JP line is 'I'll have to think of some other game'. PW reuses the pre-war line from 0810 block 144, which the JP replaced here."
+ },
+ {
+  "file": "0998",
+  "block": 141,
+  "old": "Eight-time Champ",
+  "new": "Three-time Champ",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "3年連続",
+  "reason": "JP says Rico has been champion three years running (3年連続); made consistent with 1032 and 1048."
+ },
+ {
+  "file": "0998",
+  "block": 142,
+  "old": "Eight-time Champ",
+  "new": "Three-time Champ",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "3年連続",
+  "reason": "JP says Rico has been champion three years running (3年連続); made consistent with 1032 and 1048."
+ },
+ {
+  "file": "0998",
+  "block": 143,
+  "old": "Eight-time Champ",
+  "new": "Three-time Champ",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "3年連続",
+  "reason": "JP says Rico has been champion three years running (3年連続); made consistent with 1032 and 1048."
+ },
+ {
+  "file": "0998",
+  "block": 144,
+  "old": "Eight-time Champ",
+  "new": "Three-time Champ",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "3年連続",
+  "reason": "JP says Rico has been champion three years running (3年連続); made consistent with 1032 and 1048."
+ },
+ {
+  "file": "0998",
+  "block": 145,
+  "old": "Eight-time Champ",
+  "new": "Three-time Champ",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "3年連続",
+  "reason": "JP says Rico has been champion three years running (3年連続); made consistent with 1032 and 1048."
+ }
+]

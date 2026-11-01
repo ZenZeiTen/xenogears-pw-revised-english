@@ -1,0 +1,152 @@
+[
+ {
+  "file": "1324",
+  "block": 1,
+  "old": "\"Could it be...?\"",
+  "new": "\"I'm sure of it!<Delay 30>\nThis has to be the\nChurch data bank!\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "間違いないわ。ここは『教会』のデータバンクね。",
+  "reason": "JP is a certain statement ('No doubt about it, this is the Church's data bank'), not a doubtful question. PW already fixed the identical duplicate box (block 78); this copy was missed."
+ },
+ {
+  "file": "1324",
+  "block": 24,
+  "old": "\"Could it be...?\"",
+  "new": "\"I am sure of it.<Delay 30>\nThis has to be the\nChurch data bank.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "間違いないでしょう。ここは『教会』のデータバンクですね。",
+  "reason": "JP: 'There is no doubt. This is the Church's data bank.' PW's 'Could it be...?' reverses the certainty and drops the content; the duplicate box (block 102) already has the fixed line."
+ },
+ {
+  "file": "1324",
+  "block": 8,
+  "old": "500 years ago, a large-",
+  "new": "Over 500 years ago, a large-",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "過去……500年以上前に、",
+  "reason": "JP says the war was MORE than 500 years ago (500年以上前); PW states exactly 500 years."
+ },
+ {
+  "file": "1324",
+  "block": 8,
+  "old": "to live as a separate race,\nwhich had to be supervised.",
+  "new": "to live segregated by race\nand kept under supervision.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そのゲートで囲われた世界の内側に（地上人を）種族別に住まわせ、これを管理した。",
+  "reason": "種族別に住まわせ = they were housed separately BY RACE (cf. the 'Lambs 02-04 to Ignis, 05-08 to Aqvi' distribution), not made to live 'as a separate race'."
+ },
+ {
+  "file": "1324",
+  "block": 85,
+  "old": "500 years ago, a large-",
+  "new": "Over 500 years ago, a large-",
+  "category": "omission",
+  "confidence": "medium",
+  "jp": "過去……500年以上前に、",
+  "reason": "JP says the war was MORE than 500 years ago (500年以上前); PW states exactly 500 years."
+ },
+ {
+  "file": "1324",
+  "block": 85,
+  "old": "to live as a separate race,\nwhich had to be supervised.",
+  "new": "to live segregated by race\nand kept under supervision.",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そのゲートで囲われた世界の内側に（地上人を）種族別に住まわせ、これを管理した。",
+  "reason": "種族別に住まわせ = they were housed separately BY RACE (cf. the 'Lambs 02-04 to Ignis, 05-08 to Aqvi' distribution), not made to live 'as a separate race'."
+ },
+ {
+  "file": "1324",
+  "block": 55,
+  "old": "So the surface is the",
+  "new": "So this place is the",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ここがその労働力の出所、というわけか。",
+  "reason": "ここ = 'here/this place' (the Church data bank, the 'window' to Solaris); Elly already said the labor comes from the surface, Rico's point is that this place is where it is supplied from."
+ },
+ {
+  "file": "1324",
+  "block": 132,
+  "old": "So the surface is the",
+  "new": "So this place is the",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ここがその労働力の出所、というわけか。",
+  "reason": "ここ = 'here/this place' (the Church data bank, the 'window' to Solaris); Elly already said the labor comes from the surface, Rico's point is that this place is where it is supplied from."
+ },
+ {
+  "file": "1324",
+  "block": 101,
+  "old": "We should go on further\nand see if we can find",
+  "new": "You should go on further\nand see if you can find",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "あなたたちは、奥に進んでてがかりを探して下さい。",
+  "reason": "Citan is staying behind and telling the others ('あなたたち', you) to go further in and look for clues, matching Elly's equivalent box 77; PW has him say 'we'."
+ },
+ {
+  "file": "1324",
+  "block": 116,
+  "old": "would've guess",
+  "new": "would've guessed",
+  "category": "typo",
+  "confidence": "high",
+  "jp": "しかし、『教会』がソラリスの下部組織だったとはよ。",
+  "reason": "Typo: 'who would've guess' should be 'who would've guessed'."
+ },
+ {
+  "file": "1324",
+  "block": 142,
+  "old": "After one hundred test digs, the",
+  "new": "After over 100 test digs, the",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "百数十回に及ぶ試掘によって、",
+  "reason": "百数十回 = 'a hundred and several dozen' times, i.e. well over one hundred, not exactly one hundred."
+ },
+ {
+  "file": "1024",
+  "block": 10,
+  "old": "Not much is it!?",
+  "new": "Not much, is it!?",
+  "category": "typo",
+  "confidence": "medium",
+  "jp": "……2700G、う～ん少ないな。",
+  "reason": "Missing comma before the tag question."
+ },
+ {
+  "file": "0874",
+  "block": 24,
+  "old": "Crap! I guess we're\ngonna get mauled...\"",
+  "new": "Crap! Guess all we can do\nis take 'em down with us...\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "くそっ、こうなりゃ相討ちしか\n　ないか……",
+  "reason": "相討ちしかない means 'all that's left is to go down taking them with us' (mutual destruction). Bart is resolving to fight to the death, not predicting that they will be 'mauled'."
+ },
+ {
+  "file": "1640",
+  "block": 5,
+  "old": "That fleeting dream you\nall talked about...<New>\nIt could do with some\nimprovement.\"",
+  "new": "That fleeting dream we\nall talked about...<New>\nIt wasn't half bad.\"",
+  "category": "mistranslation",
+  "confidence": "high",
+  "jp": "お前達と語った束の間の夢、\n　惡くは、なかったぜ。",
+  "reason": "Sigurd says the brief dream he shared with Ramsus and the others 'wasn't bad'. It is a fond farewell, not a criticism. PW reverses the sentiment and says 'you' instead of 'we' (語った with お前達). The 1998 version had this right."
+ },
+ {
+  "file": "1970",
+  "block": 7,
+  "old": "I will put an end to\nsuch false idolatry<Delay 5>...\"",
+  "new": "I will destroy this\nsham of love<Delay 5>...\"",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "見せかけの愛など壊してやる……。",
+  "reason": "The JP says 'I will destroy such false (pretended) love'. 'Love' links back to Sophia's teaching, and PW's 'false idolatry' drops it. The 1998 localization had 'false pretenses of love'."
+ }
+]

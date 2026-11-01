@@ -1,0 +1,35 @@
+[
+ {
+  "file": "0608",
+  "block": 45,
+  "old": "I think it's weird!",
+  "new": "I have my doubts!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ほんと？　あやしいもんだわ。",
+  "reason": "あやしいもんだわ means 'I doubt it / that sounds fishy': she is skeptical of Fei's claim that Dan is just wandering around, not calling something weird. The new line keeps the follow-up ('Arle was saying she needed him...') making sense.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0612",
+  "block": 9,
+  "old": "This disaster happened\nbecause I was here...",
+  "new": "If I stay, I might cause\neveryone trouble again...",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "そうだな……。\n俺が一緒にいたら、またみんなに\n迷惑がかかるかも知れない……。",
+  "reason": "Fei is agreeing with Citan's advice to leave: 'If I stay with them, I might cause everyone trouble again.' The JP is a forward-looking conditional, not a past-tense statement that the disaster happened because he was there. New lines are 24 and 28 characters, 4 lines on the page with the speaker.",
+  "vetted": "accepted"
+ },
+ {
+  "file": "0612",
+  "block": 40,
+  "old": "Please...!",
+  "new": "Eek...!",
+  "category": "mistranslation",
+  "confidence": "medium",
+  "jp": "ひっ……",
+  "reason": "ひっ is a frightened gasp from a villager recoiling from Fei, not a plea. 'Please...!' adds a meaning that isn't there. A short scream fits this line and the next one ('No! Stay away... I'm scared...').",
+  "vetted": "accepted"
+ }
+]
