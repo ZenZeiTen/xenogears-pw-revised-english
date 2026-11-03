@@ -12,7 +12,7 @@ static class Program
     static int Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
-        Console.WriteLine("Xenogears Perfect Works 0.11.4 - Revised English Script Patcher 1.0.0");
+        Console.WriteLine("Xenogears Perfect Works 0.11.4 - Revised English Script Patcher 1.0.1");
         Console.WriteLine("Translation changes only (no gameplay or reward changes).\n");
         var patches = LoadPatches();
         var inputs = args.Length > 0 ? args.ToList() : Ask();

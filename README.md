@@ -41,16 +41,26 @@ image is never changed. Do disc 1 and disc 2 one after the other.
 
 **Any OS:** apply the `.bps` patches from the release with a BPS-capable patcher such as
 Floating IPS (flips) or beat. Patched images have these CRC32 values:
-disc 1 `e6c6a23e`, disc 2 `012d1d6b`.
+disc 1 `40f2f0cd`, disc 2 `0446dccb`.
 
-Load the new `.cue` in your emulator. Use a hard save (memory card) rather than a save
-state when switching from an older build.
+Load the new `.cue` in your emulator. If your player cannot open a `.cue` with its `.bin`,
+as some browser-based EmulatorJS players can't, open the `.bin` directly. A real PlayStation
+BIOS is needed; with an emulator's built-in BIOS replacement the game shows a black screen.
+Use a hard save (memory card) rather than a save state when switching from an older build.
+
+> **Use v1.0.1 or later.** The v1.0.0 patches produced discs that do not boot (see below).
 
 ## Status and limits
 
-- The patched discs pass byte-level checks: every changed sector belongs to an edited file
-  or the file table, and sector error-correction codes are regenerated and verified.
+- The patched discs boot in an emulator with a real BIOS. They pass byte-level checks, and
+  every re-encoded compressed stream passes an exact model of the game's own decompressor.
   **They have not yet been play-tested from start to finish.** Please report anything odd.
+- **Why v1.0.0 did not boot.** The game's decompressor (`SLUS_006.64` at `0x80032EB4`)
+  only checks for the end of the data between groups of eight tokens, with an exact-equality
+  test. Streams re-encoded by v1.0.0 ended mid-group, so the decompressor ran past its buffer
+  and the game hung at startup. v1.0.1 re-encodes every changed stream so that it ends on a
+  group boundary, within the distances Square's encoder uses. No file grows and nothing is
+  moved on the disc. See `tools/game_lzss.py` and `tools/compact_rebuild.py`.
 - In five disc-2 scenes (disc-1 files 1258, 1260, 1264, 1428 and 1430), Perfect Works had
   updated the event script on disc 1 only. Disc 2 now uses the disc-1 version, as the
   original Japanese game does. These are the scenes most worth testing.
@@ -64,7 +74,7 @@ state when switching from an older build.
 
 | Path | Contents |
 |---|---|
-| `tools/` | Python tools: disc and LZSS access, text encoding, byte-level script patching, menu fixes, cross-disc mapping and sync, Japanese decoding and alignment, BPS patch creation |
+| `tools/` | Python tools: disc and LZSS access (including an aligned optimal encoder), a model of the game's decompressor, text encoding, byte-level script patching, menu fixes, cross-disc mapping and sync, in-place disc rebuild and verification, Japanese decoding and alignment, BPS patch creation, a small MIPS disassembler |
 | `edits/` | Every accepted edit as JSON (box, old text, new text, category, Japanese line, reason) |
 | `docs/` | Change log, the same changes as a diff against the Perfect Works script sources, reviewer instructions |
 | `patcher/` | Source of the Windows patcher (.NET, single file) |
