@@ -1,0 +1,42 @@
+[
+ {
+  "file": "0652",
+  "block": 21,
+  "old": "Alice...<Delay 5> She was such a...<Delay 5>\nAlice and Timothy",
+  "new": "Arle...<Delay 5> She was such a...<Delay 5>\nArle and Timothy",
+  "category": "name",
+  "confidence": "high",
+  "jp": "アルル……。いい奴だったんだ、アルルも ティモシーも……みんな……",
+  "reason": "Black Moon Forest campfire: Fei tells Elly about Lahan. The disc bytes still had the old 'Alice' twice although the PW .txt already says Arle; the project uses Arle (アルル). Reported by the user in play."
+ },
+ {
+  "file": "0652",
+  "block": 22,
+  "old": "What about the village?\"",
+  "new": "That's why the village<-->?\"",
+  "category": "stale-disc",
+  "confidence": "high",
+  "jp": "機体の暴走って……ギアの？それで村が？",
+  "reason": "それで村が？ links the runaway Gear to the village's destruction ('so that's why the village...?'). The disc kept an older 'What about the village?'; the PW .txt already has the accurate line."
+ },
+ {
+  "file": "0652",
+  "block": 24,
+  "old": "\"...Yes, the Gear! If only\nthose Gears hadn't landed\nin the village...!\"",
+  "new": "\"...Yes, the Gear!<New>\nIf only those Gears hadn't\nlanded in the village in\nthe first place, none of\nthis would've<-->!\"",
+  "category": "stale-disc",
+  "confidence": "high",
+  "jp": "……そうだ、ギアだ！最初に現れたあのギアさえ村に降りなければこんなことには……！",
+  "reason": "The disc dropped 'in the first place' (最初に) and the result clause こんなことには ('none of this would have happened'). The PW .txt already has the full line."
+ },
+ {
+  "file": "1304",
+  "block": 3,
+  "old": "collected by the 'Ethos'",
+  "new": "collected by the Church",
+  "category": "name",
+  "confidence": "high",
+  "jp": "この図書室には、教会が収集したぼう大な量の書物が収められています。",
+  "reason": "'Ethos' is the 1998 name; PW says 'the Church' everywhere (67 files, no 'Ethos'), and JP is 教会. The disc kept the old term although the PW .txt says Church."
+ }
+]

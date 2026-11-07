@@ -1,4 +1,4 @@
-// Xenogears Perfect Works 0.11.4 - Revised English Script Patcher
+// Xenogears Perfect Works 0.11.4 - Ultimate Redux Patcher
 // Applies the embedded BPS patches to an unmodified Perfect Works 0.11.4 disc image.
 // The input is never modified; a new .bin and .cue are written next to it.
 // Licensed GPL-3.0-or-later, like the Perfect Works script it revises.
@@ -12,7 +12,7 @@ static class Program
     static int Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;
-        Console.WriteLine("Xenogears Perfect Works 0.11.4 - Revised English Script Patcher 1.0.1");
+        Console.WriteLine("Xenogears Perfect Works 0.11.4 - Ultimate Redux Patcher v1.0");
         Console.WriteLine("Translation changes only (no gameplay or reward changes).\n");
         var patches = LoadPatches();
         var inputs = args.Length > 0 ? args.ToList() : Ask();
@@ -80,7 +80,7 @@ static class Program
         var patch = candidates.FirstOrDefault(p => p.SourceCrc == crc)
                     ?? throw new InvalidDataException($"CRC32 {crc:x8} does not match Perfect Works 0.11.4 (already patched, or a different build?)");
         var dir = Path.GetDirectoryName(Path.GetFullPath(path))!;
-        var outBin = Path.Combine(dir, Path.GetFileNameWithoutExtension(path) + "_EN_revised.bin");
+        var outBin = Path.Combine(dir, Path.GetFileNameWithoutExtension(path) + "_Ultimate_Redux.bin");
         if (File.Exists(outBin)) throw new IOException($"{Path.GetFileName(outBin)} already exists; move or delete it first");
         Console.WriteLine($"  Recognized Perfect Works 0.11.4 {patch.Disc}. Writing {Path.GetFileName(outBin)}...");
         var tmp = outBin + ".part";

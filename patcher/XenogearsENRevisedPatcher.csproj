@@ -4,9 +4,9 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <AssemblyName>XenogearsPW_EN_Revised_Patcher</AssemblyName>
-    <Version>1.0.1</Version>
-    <Product>Xenogears Perfect Works 0.11.4 - Revised English Script Patcher</Product>
+    <AssemblyName>XenogearsPW_Ultimate_Redux_Patcher</AssemblyName>
+    <Version>1.0.0</Version>
+    <Product>Xenogears Perfect Works 0.11.4 - Ultimate Redux Patcher</Product>
     <Authors>Ricardo Sandy Aries, SS</Authors>
     <Copyright>GPL-3.0-or-later</Copyright>
     <RuntimeIdentifier>win-x64</RuntimeIdentifier>

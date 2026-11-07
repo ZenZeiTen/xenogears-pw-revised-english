@@ -1,6 +1,6 @@
 # Translation fixes applied — Xenogears Perfect Works 0.11.4
 
-**New disc images:** `out/CD1_translated_v3.bin` and `out/CD2_translated_v3.bin` (load the `.cue`). They contain everything below and are built on your 3× EXP / 1.5× gold / 2× drops discs. Earlier partial builds (first pass only, and `_v2` without sections 1c–1d) are in `out/old_builds/`.
+**Release:** Ultimate Redux v1.0, applied to unmodified Perfect Works 0.11.4 discs. Translation only.
 
 **Upstream patch:** `pw_script_fixes.patch` makes the same changes in the Perfect Works `.txt` sources (`git apply` in the Perfect_Works_Build repo).
 
@@ -587,6 +587,23 @@ On the PW disc 2, 20 field files that disc 2 shares with disc 1 still carried th
 | 1490 | 1485 | 11 of 14 |
 | 1842 | 1837 | 1 of 92 |
 
+## 1e. Disc text that PW fixed in the script but never shipped (Ultimate Redux v1.0)
+
+Found by `tools/drift_check.py`, which encodes every block of PW's `field/*.txt` and compares it with the disc bytes. 45 blocks differ on disc 1. Most are layout only: the disc has the page breaks the boxes need, or the `.txt` lacks opcodes. Those were left alone. The four below are cases where the disc kept older wording that PW's own script already corrects. Disc-2 twins were patched by content (0652 = disc-2 0647; 1304 is disc-1 only).
+
+| Box | Category | JP | Disc said | Now | Note |
+|---|---|---|---|---|---|
+| `0652#21` | name | アルル……。いい奴だったんだ、アルルも | Alice... / Alice and Timothy | Arle... / Arle and Timothy | Black Moon Forest campfire; reported in play. |
+| `0652#22` | stale disc text | それで村が？ | What about the village? | That's why the village--? | JP ties the runaway Gear to the village's fate. |
+| `0652#24` | stale disc text | 最初に現れたあのギアさえ村に降りなければこんなことには……！ | If only those Gears hadn't landed in the village...! | If only those Gears hadn't landed in the village in the first place, none of this would've--! | Restores the dropped result clause. |
+| `1304#3` | name | 教会が収集した | collected by the 'Ethos' | collected by the Church | 'Ethos' is the 1998 term; PW uses 'the Church' in 67 files. |
+
+**Checked and left as is:** `1242#15/16` say "O2 DX" on the disc and "D Circuit" in the `.txt`. JP is D回路, but the JP item list shows A–G回路 as placeholder names in the slots the US release named AutoBooster, TurboEngine, A/CDeluxe, **O2Deluxe** and EthCircuit. The chest gives O2Deluxe, so the disc is right. `1002#53/54` (the Monday Morningstar memorial) is disc-only by design. The remaining contraction-only differences (e.g. "Why are" vs "Why're") are style and were not changed.
+
+## 1f. Title screen (Ultimate Redux v1.0)
+
+The title-screen caption "Perfect Works 0.11.4" is replaced with "Ultimate Redux v.1.0" on both discs (disc 1 file 1587, disc 2 file 1582). The new caption uses the same pixel font and per-row shading and sits in the same right-aligned position. Nothing else in the image changes.
+
 ## 2. Script-wide fixes
 
 | Where | Was | Now | Why |
@@ -708,15 +725,16 @@ Menu strings are addressed by offset tables, so every fix is the same length or 
 ## How it was verified
 
 - **Encoder:** 16,535 shipped text blocks re-encode byte for byte. Edits are byte-level replacements inside the original blocks, so opcodes the `.txt` dump never exported are preserved.
-- **Field files:** in each of the 76, only the edited blocks differ. The other 8 sections are byte-identical, and each rebuilt text section decodes back exactly.
-- **Sector level:** every changed sector belongs to an intended file or the file table (disc 1: 82 files; disc 2: 28 files).
-- **Relocation:** two disc-1 field files grew past their original sectors and were moved to the end of the image (+269 KB).
-- **Second pass:** in the v2 images, every changed sector belongs to an edited file or the file table. Disc 1 has 198 files and 657 sectors; disc 2 has 51 files and 176 sectors. Each disc-2 target was found by content: same block count, at least 90% byte-identical blocks, and the edited block itself identical. Sampled EDC/ECC (about 10,600 sectors) is all valid.
-- **v3:** disc 1 has 5 more files (23 sectors) and disc 2 has 21 (78 sectors), with no stray sectors and valid EDC/ECC. Each synced disc-2 file was checked to be byte-identical to its disc-1 twin.
-- **Not verified:** none of this has been booted on an emulator or hardware.
+- **Field files:** in each edited file, only the edited blocks differ. The other 8 sections are byte-identical, and each rebuilt text section decodes back exactly.
+- **Disc-2 matching:** each disc-2 target was found by content: same block count, at least 90% byte-identical blocks, and the edited block itself identical. Each synced disc-2 file is byte-identical to its disc-1 twin.
+- **Decompressor:** every re-encoded LZSS stream passes an exact model of the game's decompressor (`SLUS_006.64` at `0x80032EB4`, `tools/game_lzss.py`): it ends on an 8-token group boundary and uses only distances Square's encoder uses. All of Square's own streams pass the same model.
+- **In-place rebuild:** no file grows and nothing is moved (`tools/compact_rebuild.py`, checked by `tools/verify_rebuild.py`). The file-table sector that holds Perfect Works code is never written. EDC/ECC is valid on every changed sector.
+- **Patches:** each `.bps` applied to the stock disc reproduces the release disc byte for byte, and the Windows patcher's output has the published CRC32.
+- **Boot:** both release discs boot in an emulator with a real PlayStation BIOS to the title screen (caption "Ultimate Redux v.1.0"). Disc 1 also reaches New Game, the opening narration and the first FMV with subtitles.
+- **Not verified:** nobody has played the discs start to finish.
 
 ## Not done
 
 - **Not meaning-checked:** 1336, 1378 and 1992 (one-word or Yes/No boxes that don't parse on either JP disc). 1484 holds only empty padding.
-- **Battle text not edited:** `battle_script` lives in different containers. Its few findings (e.g. four dots in `file59`) are listed in `translation_review.md`.
+- **Battle text not edited:** `battle_script` lives in different containers. Its few findings (e.g. four dots in `file59`) were left unchanged.
 - **Verify items left as-is:** these were left for a translator's call: Seuiseii/Seuseii romanization, Thermo Giest, Heaven Cent, EtherStoneLg vs AntiEthRockL.
